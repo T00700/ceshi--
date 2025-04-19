@@ -1075,7 +1075,7 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-   {
+{
       "name": "央卫超清",
       "type": 0,
       "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo2.txt",
@@ -1090,21 +1090,35 @@
       "timeout": 10
     }, 
     {
-      "name": "综合推荐1",
+      "name": "超清测试1",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/refs/heads/main/V4RoseTv安卓4-18.m3u",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+ {
+      "name": "超清测试2",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/refs/heads/main/V6RoseTv安卓-4-18.m3u",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+    {
+      "name": "综合推荐1（各宽带专区）",
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
       "playerType": 2,
       "timeout": 10
     },  
     {
-      "name": "综合推荐2",
+      "name": "综合推荐2（港澳台1）",
       "type": 0,
       "url": "https://live.iptv365.org/live.txt",
       "playerType": 2,
       "timeout": 10
     },  
      {
-      "name": "综合推荐3",
+      "name": "综合推荐3（港澳台2）",
       "type": 0,
       "url": "http://211.154.28.50:5898/2025.txt",
       "playerType": 2,
@@ -1134,21 +1148,7 @@
       "timeout": 10
     },  
     {
-      "name": "港澳台专线1",
-      "type": 0,
-      "url": "http://205.185.123.236:50089/?type=m3u",
-      "playerType": 2,
-      "timeout": 10
-    },
-     {
-      "name": "港澳台专线2",
-      "type": 0,
-      "url": "http://205.185.123.236:50089/?type=txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "移动宽带专用",
+      "name": "移动宽带专用1",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt",
       "playerType": 2,
@@ -1159,7 +1159,7 @@
       }
     },
      {
-      "name": "江苏移动宽带专用",
+      "name": "移动宽带专用2",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt",
       "playerType": 2,
