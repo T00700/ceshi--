@@ -1082,6 +1082,13 @@
       "playerType": 2,
       "timeout": 10
     },  
+    {
+      "name": "极速央卫（含港澳台）",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo33.txt",
+      "playerType": 2,
+      "timeout": 10
+    }, 
      {
       "name": "央卫高清",
       "type": 0,
@@ -1224,13 +1231,6 @@
         "type": "append",
         "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
       }
-    },
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "timeout": 10
     },
     {
       "name": "电视Live",
