@@ -1085,7 +1085,7 @@
     {
       "name": "极速央卫（含港澳台）",
       "type": 0,
-      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo33.txt",
+      "url": "http://api.mytv666.top/lives/free.php?type=txt",
       "playerType": 2,
       "timeout": 10
     }, 
