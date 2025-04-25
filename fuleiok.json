@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yAek22Qe.png;md5;d3c73166f177581a6a547781dd6d9ea3",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1BGq9G5Z.png;md5;2cd1c8f1c55fcbbbde5ef2874d02c24e",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "./logo.gif",
   "sites": [
@@ -37,363 +37,165 @@
       },
       "timeout": 5
     },
-    {
+ {
       "key": "瓜子",
-      "name": "🍉瓜子┃弹幕",
+      "name": "🍉瓜子┃App",
       "type": 3,
       "api": "csp_GuaziGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
       "timeout": 10
     },
     {
-      "key": "热播弹幕版",
-      "name": "📺热播┃弹幕",
+      "key": "热播",
+      "name": "📺热播┃直连",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
         "site": 0
       },
       "timeout": 10
     },
     {
-      "key": "天天弹幕版",
-      "name": "⛅️天天┃弹幕",
+      "key": "天天",
+      "name": "⛅️天天┃直连",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
         "site": 1
       },
       "timeout": 10
     },
     {
       "key": "文才",
-      "name": "🌺文才┃弹幕",
+      "name": "🌺文才┃在线",
       "type": 3,
       "api": "csp_JpysGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
       "timeout": 10
     },
     {
       "key": "糯米",
-      "name": "🍓糯米┃弹幕",
+      "name": "🍓糯米┃秒播",
       "type": 3,
       "api": "csp_NmysGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
       "timeout": 10
     },
     {
-      "key": "浪酷弹幕版",
-      "name": "👓浪酷┃弹幕",
+      "key": "浪酷版",
+      "name": "👓浪酷┃秒播",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
         "site": 2
       },
       "timeout": 10
     },
     {
-      "key": "小苹果弹幕版",
-      "name": "🍎苹果┃弹幕",
+      "key": "小苹果",
+      "name": "🍎苹果┃直连",
       "type": 3,
       "api": "csp_XpgGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
+      "timeout": 10
     },
     {
-      "key": "素白白弹幕版",
-      "name": "🐇白白┃弹幕",
+      "key": "时常",
+      "name": "🐥时常┃直连",
+      "type": 3,
+      "api": "csp_ShiChangGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "素白白",
+      "name": "🐇白白┃直连",
       "type": 3,
       "api": "csp_SubaibaiGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
-    },
-  {
-      "key": "玩偶弹幕版",
-      "name": "👽玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoggGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 30
+      "timeout": 10
     },
     {
-      "key": "校长弹幕版",
-      "name": "💮小章┃4K弹幕",
+      "key": "韩圈",
+      "name": "🦄韩圈┃App",
       "type": 3,
-      "api": "csp_XiaoZhangGuard",
+      "api": "csp_HanXiaoQuanGuard",
+      "playerType": 2,
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 30
+      "timeout": 10
     },
     {
-      "key": "光影弹幕版",
-      "name": "🎥光影┃4K弹幕",
+      "key": "厂长",
+      "name": "🌸厂长┃直连",
       "type": 3,
-      "api": "csp_GuanyingGuard",
+      "api": "csp_CzzyGuard",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 30
+      "timeout": 10
     },
     {
-      "key": "二小弹幕",
-      "name": "🦢二小┃4K弹幕",
+      "key": "荐片",
+      "name": "⚔️荐片┃手机",
+      "type": 3,
+      "api": "csp_JianpianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "二小",
+      "name": "🦢二小┃4K网盘",
       "type": 3,
       "api": "csp_ErXiaoGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
       "timeout": 25
     },
     {
-      "key": "立播弹幕版",
-      "name": "🐰立播┃4K弹幕",
+      "key": "校长",
+      "name": "💮小章┃4K",
       "type": 3,
-      "api": "csp_LibvioGuard",
+      "api": "csp_XiaoZhangGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "site": "https://libvio.link",
-        "danmu": true
-      },
       "timeout": 30
     },
     {
-      "key": "蜡笔弹幕",
-      "name": "👠蜡笔┃4K弹幕",
+      "key": "光影",
+      "name": "🎥光影┃4K",
       "type": 3,
-      "api": "csp_LabiGuard",
-      "quickSearch": 1,
+      "api": "csp_GuanyingGuard",
+      "searchable": 1,
+      "filterable": 1,
       "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "木偶弹幕",
-      "name": "💌木偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_MuouGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "多多弹幕",
-      "name": "🍄多多┃4K弹幕",
-      "type": 3,
-      "api": "csp_DuoDuoGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "表哥弹幕",
-      "name": "👨🏻‍🦱表哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_DbgGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "百家弹幕",
-      "name": "💒百家┃4K弹幕",
-      "type": 3,
-      "api": "csp_BaijiaGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "至臻弹幕",
-      "name": "💌至臻┃4K弹幕",
-      "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "下饭弹幕",
-      "name": "🍚下饭┃4K弹幕",
-      "type": 3,
-      "api": "csp_XiaFanGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "小米弹幕",
-      "name": "🍄小米┃4K弹幕",
-      "type": 3,
-      "api": "csp_XiaoMiGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "闪电弹幕",
-      "name": "🌈闪电┃4K弹幕",
-      "type": 3,
-      "api": "csp_ShanDianGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "123分享",
-      "name": "🌂123┃4K",
-      "type": 3,
-      "api": "csp_Time123Guard",
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "123_token": "file://TV/123_token.txt"
-      },
-      "timeout": 25
+      "timeout": 30
     },
     {
       "key": "百度趣盘",
@@ -416,55 +218,130 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
       "style": {
         "type": "list"
       },
       "timeout": 25
     },
     {
-      "key": "韩圈",
-      "name": "🦄韩圈┃弹幕",
+      "key": "玩偶",
+      "name": "👽玩偶┃4K",
       "type": 3,
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
+      "api": "csp_WoggGuard",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "changeable": 1,
+      "timeout": 30
     },
     {
-      "key": "厂长弹幕版",
-      "name": "🌸厂长┃弹幕",
+      "key": "立播版",
+      "name": "🐰立播┃4K",
       "type": 3,
-      "api": "csp_CzzyGuard",
+      "api": "csp_LibvioGuard",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "changeable": 1,
+      "timeout": 30
     },
     {
-      "key": "荐片弹幕版",
-      "name": "⚔️荐片┃手机",
+      "key": "蜡笔",
+      "name": "👠蜡笔┃4K",
       "type": 3,
-      "api": "csp_JianpianGuard",
-      "searchable": 1,
+      "api": "csp_LabiGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "木偶",
+      "name": "🪵木偶┃4K",
+      "type": 3,
+      "api": "csp_MuouGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "多多",
+      "name": "🪅多多┃4K",
+      "type": 3,
+      "api": "csp_DuoDuoGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "表哥",
+      "name": "👨🏻‍🦱表哥┃4K",
+      "type": 3,
+      "api": "csp_DbgGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "百家",
+      "name": "💒百家┃4K",
+      "type": 3,
+      "api": "csp_BaijiaGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "至臻",
+      "name": "💌至臻┃4K",
+      "type": 3,
+      "api": "csp_ZhiZhenGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "下饭",
+      "name": "🍚下饭┃4K",
+      "type": 3,
+      "api": "csp_XiaFanGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "小米",
+      "name": "🍄小米┃4K优浠",
+      "type": 3,
+      "api": "csp_XiaoMiGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "闪电",
+      "name": "🌈闪电┃4K",
+      "type": 3,
+      "api": "csp_ShanDianGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "123分享",
+      "name": "🌂123┃4K",
+      "type": 3,
+      "api": "csp_Time123Guard",
+      "quickSearch": 0,
       "changeable": 0,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "timeout": 25
     },
     {
       "key": "我的阿里",
@@ -475,9 +352,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "indexs": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
       "style": {
         "type": "list"
       },
@@ -492,9 +366,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "indexs": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
-      },
       "style": {
         "type": "list"
       },
@@ -509,9 +380,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "indexs": 0,
-      "ext": {
-        "uc_cookie": "file://TV/uc_cookie.txt"
-      },
       "style": {
         "type": "list"
       },
@@ -526,9 +394,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "indexs": 0,
-      "ext": {
-        "baidu_cookie": "file://TV/baidu_cookie.txt"
-      },
       "style": {
         "type": "list"
       },
@@ -544,7 +409,6 @@
       "filterable": 0,
       "indexs": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
         "share": "file://TV/阿里集合.json"
       },
       "style": {
@@ -553,16 +417,13 @@
       "timeout": 30
     },
     {
-      "key": "️爱看Bot弹幕版",
-      "name": "⛅️爱看┃弹幕",
+      "key": "️爱看Bot",
+      "name": "⛅️爱看┃直连",
       "type": 3,
       "api": "csp_IkanbotGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
       "timeout": 10
     },
     {
@@ -728,9 +589,6 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": {
-        "cookie": "file://TV/bili_cookie.txt"
-      },
       "timeout": 10
     },
     {
@@ -746,7 +604,6 @@
         "ratio": 1.433
       },
       "ext": {
-        "cookie": "file://TV/bili_cookie.txt",
         "json": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:13/1720581193094/76165316/bili.txt"
       },
       "timeout": 20
@@ -764,7 +621,6 @@
         "ratio": 1.433
       },
       "ext": {
-        "cookie": "file://TV/bili_cookie.txt",
         "json": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:09/1720581189679/3486246/biliych.txt"
       },
       "timeout": 20
@@ -791,13 +647,6 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -808,10 +657,6 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -822,10 +667,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -836,10 +677,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -850,13 +687,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -868,10 +698,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
         "taichi": 1
       },
       "timeout": 15
@@ -885,10 +711,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
         "taichi": 2
       },
       "timeout": 15
@@ -901,13 +723,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -918,10 +733,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
@@ -932,13 +743,16 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "danmu": true
-      },
+      "timeout": 15
+    },
+    {
+      "key": "双星",
+      "name": "🤩双星┃搜索",
+      "type": 3,
+      "api": "csp_Star2Guard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
       "timeout": 15
     },
     {
@@ -949,15 +763,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "123_token": "file://TV/123_token.txt",
-        "115_cookie": "file://TV/115_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
+      "timeout": 5
     }
   ],
   "parses": [
@@ -1075,7 +881,7 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-{
+      {
       "name": "央卫超清",
       "type": 0,
       "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo2.txt",
