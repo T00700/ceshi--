@@ -881,20 +881,20 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-      {
-      "name": "央卫超清",
-      "type": 0,
-      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo2.txt",
-      "playerType": 2,
-      "timeout": 10
-    },  
-    {
+       {
       "name": "极速央卫（含港澳台）",
       "type": 0,
       "url": "http://api.mytv666.top/lives/free.php?type=txt",
       "playerType": 2,
       "timeout": 10
     }, 
+    {
+      "name": "央卫MG",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745115533242/mgqn.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
      {
       "name": "央卫高清",
       "type": 0,
