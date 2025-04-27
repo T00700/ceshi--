@@ -902,17 +902,10 @@
       "playerType": 2,
       "timeout": 10
     }, 
-    {
-      "name": "超清测试1",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/refs/heads/main/V4RoseTv安卓4-18.m3u",
-      "playerType": 2,
-      "timeout": 10
-    }, 
  {
-      "name": "超清测试2",
+      "name": "超清测试",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/refs/heads/main/V6RoseTv安卓-4-18.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/refs/heads/main/V6Rose安卓4-27.m3u",
       "playerType": 2,
       "timeout": 10
     }, 
