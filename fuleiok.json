@@ -896,6 +896,13 @@
       "timeout": 10
     },  
      {
+      "name": "央卫地方港澳台",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/IPTV%201.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },  
+     {
       "name": "央卫高清",
       "type": 0,
       "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo1.txt",
