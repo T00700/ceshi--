@@ -881,7 +881,14 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-       {
+   {
+      "name": "央卫港澳台最新",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo66.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+    {
       "name": "极速央卫（含港澳台）",
       "type": 0,
       "url": "http://api.mytv666.top/lives/free.php?type=txt",
@@ -895,20 +902,13 @@
       "playerType": 2,
       "timeout": 10
     },  
-     {
+    {
       "name": "央卫地方港澳台",
       "type": 0,
       "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/IPTV%201.m3u",
       "playerType": 2,
       "timeout": 10
     },  
-     {
-      "name": "央卫高清",
-      "type": 0,
-      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo1.txt",
-      "playerType": 2,
-      "timeout": 10
-    }, 
  {
       "name": "超清测试",
       "type": 0,
