@@ -916,6 +916,20 @@
       "playerType": 2,
       "timeout": 10
     }, 
+      {
+      "name": "港澳台专线1",
+      "type": 0,
+      "url": "https://codeberg.org/hu6361821/fulei/raw/branch/main/77.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+    {
+      "name": "港澳台专线2",
+      "type": 0,
+      "url": "https://codeberg.org/hu6361821/fulei/raw/branch/main/88.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
     {
       "name": "综合推荐1（各宽带专区）",
       "type": 0,
