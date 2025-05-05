@@ -881,7 +881,247 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-      
+    {
+      "name": "央卫港澳台最新",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo66.txt",
+      "playerType": 2,
+      "timeout": 10
+    },   
+    {
+      "name": "央卫MG",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
+
+41bf63ae4ea0/1745115533242/mgqn.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+   {
+      "name": "最新综合推荐",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+    {
+      "name": "港澳台推荐",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou8.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+     {
+      "name": "央卫高码",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou4.txt",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+     {
+      "name": "最新港澳台1",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou2.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+     {
+      "name": "最新港澳台2",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou3.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "最新港澳台3",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou5.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "最新港澳台4",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/88.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+    {
+      "name": "综合推荐1（各宽带专区）",
+      "type": 0,
+      "url": "http://8.138.7.223/51.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+    {
+      "name": "综合推荐2（港澳台1）",
+      "type": 0,
+      "url": "https://live.iptv365.org/live.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
+     {
+      "name": "综合推荐3（港澳台2）",
+      "type": 0,
+      "url": "http://211.154.28.50:5898/2025.txt",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+     {
+      "name": "综合推荐4",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://tv.youdu.fan:666/live/live.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+    {
+      "name": "极速央卫（含港澳台）",
+      "type": 0,
+      "url": "http://api.mytv666.top/lives/free.php?type=txt",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+      {
+      "name": "央卫地方港澳台",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/IPTV%201.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },  
+ {
+      "name": "超清测试",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/refs/heads/main/V6Rose安卓4-27.m3u",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+    {
+      "name": "港澳台测试",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou6.txt",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+     {
+      "name": "国内央卫地方",
+      "type": 0,
+      "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "移动宽带专用1",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
+
+41bf63ae4ea0/1739616589773/zq.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "catchup": {
+        "type": "append",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
+     {
+      "name": "移动宽带专用2",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
+
+41bf63ae4ea0/1744201662209/jjssyydd.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+     {
+      "name": "芙蕾独享",
+      "type": 0,
+      "url": "https://盒子迷.top/ZB",
+      "playerType": 2
+    },
+      {
+      "name": "芙蕾独享2",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou7.txt",
+      "playerType": 2
+    },
+  {
+      "name": "宝盒专享",
+      "type": 0,
+      "url": "https://ygbh.site/bh.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
+      "name": "猫TV线路(EXO)",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "猫TV线路(IJK)",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+     {
+      "name": "live",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://6296.kstore.vip/25.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
+      "name": "V4聚合 卡顿请按左┃右键换线",
+      "type": 0,
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
+    {
+      "name": "国内Live",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
+
+41bf63ae4ea0/1740592110565/zq.fif.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "catchup": {
+        "type": "append",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
+    {
+      "name": "电视Live",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 10
+    },
+    {
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_HuyaGuard",
+      "url": "yqk",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "肥羊B站直播",
+      "type": 3,
+      "api": "csp_FeiyangGuard",
+      "url": "bililive.m3u",
       "timeout": 10,
       "ua": "okhttp/3.15"
     },
