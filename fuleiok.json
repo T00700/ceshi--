@@ -881,13 +881,13 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-    {
+  {
       "name": "央卫港澳台最新",
       "type": 0,
-      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/zhibo66.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/zhibo1.txt",
       "playerType": 2,
       "timeout": 10
-    },   
+    },     
     {
       "name": "央卫MG",
       "type": 0,
