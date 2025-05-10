@@ -264,6 +264,8 @@ Now爆谷👉,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
 无线星河标国,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
 无线明珠👉,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
 澳门资讯👉,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
+TVB翡翠台👉,http://ali.hlspul1.yximgs.com/live/qwt_feicui.flv
+TVB新闻台👉,http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
 
 港澳台1,#genre#
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
