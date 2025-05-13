@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/jHx1Hj_R.png;md5;c6e27767850fc7668b90bf90371051d2",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/l4kjC6jt.png;md5;29ddd127ee20476bf2a78d688d442a8c",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "./logo.gif",
   "sites": [
@@ -328,6 +328,16 @@
       "name": "🌈闪电┃4K",
       "type": 3,
       "api": "csp_ShanDianGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+     {
+      "key": "清影",
+      "name": "🌂清影┃4K",
+      "type": 3,
+      "api": "csp_QingYingGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -881,22 +891,36 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-  {
+      {
       "name": "央卫港澳台最新",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/zhibo1.txt",
       "playerType": 2,
       "timeout": 10
-    },     
-    {
+    },   
+     {
       "name": "央卫超清",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "playerType": 2,
       "timeout": 10
-    },
+    }, 
+     {
+      "name": "综合多线（按左右换线）",
+      "type": 0,
+      "url": "http://is.is-great.org//ii/1747125616.txt",
+      "playerType": 2,
+      "timeout": 10
+    },  
    {
-      "name": "最新综合推荐",
+      "name": "最新综合推荐1",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "timeout": 10
+    },  
+     {
+      "name": "最新综合推荐2",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou.txt",
       "playerType": 2,
@@ -1071,14 +1095,6 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
      {
-      "name": "live",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://6296.kstore.vip/25.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-     {
       "name": "V4聚合 卡顿请按左┃右键换线",
       "type": 0,
       "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
@@ -1098,14 +1114,6 @@
         "type": "append",
         "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
       }
-    },
-    {
-      "name": "电视Live",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 10
     },
     {
       "name": "一起看",
