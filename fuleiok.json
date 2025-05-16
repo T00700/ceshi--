@@ -899,6 +899,16 @@
       "timeout": 10
     },   
      {
+      "name": "央卫测试",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/tv.png",
+      "ua":"AptvPlayer/1.4.0",
+      "playerType": 2,
+      "timeout": 10,
+      "epg":"https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo":"https://epg.v1.mk/logo/{name}.png"
+    }, 
+     {
       "name": "央卫超清",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
