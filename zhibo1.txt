@@ -1,21 +1,54 @@
 最新极速央卫,#genre#
-CCTV1,http://goo.bkpcp.top/mg/cctv1
-CCTV2,http://goo.bkpcp.top/mg/cctv2
-CCTV3,http://goo.bkpcp.top/mg/cctv3
-CCTV4,http://goo.bkpcp.top/mg/cctv4
-CCTV5,http://goo.bkpcp.top/mg/cctv5
-CCTV6,http://goo.bkpcp.top/mg/cctv6
-CCTV7,http://goo.bkpcp.top/mg/cctv7
-CCTV8,http://goo.bkpcp.top/mg/cctv8
-CCTV9,http://goo.bkpcp.top/mg/cctv9
-CCTV10,http://goo.bkpcp.top/mg/cctv10
-CCTV11,http://goo.bkpcp.top/mg/cctv11
-CCTV12,http://goo.bkpcp.top/mg/cctv12
-CCTV13,http://goo.bkpcp.top/mg/cctv13
-CCTV14,http://goo.bkpcp.top/mg/cctv14
-CCTV15,http://goo.bkpcp.top/mg/cctv15
-CCTV16,https://yunmei.tv/main/cctv16.m3u8
-CCTV17,http://goo.bkpcp.top/mg/cctv17
+CCTV-1,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv1hd&playseek=
+CCTV-2,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv2hd&playseek=
+CCTV-3,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv3hd&playseek=
+CCTV-4,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv4hd&playseek=
+CCTV-5,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5hd&playseek=
+CCTV-5+,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5phd&playseek=
+CCTV-6,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv6hd&playseek=
+CCTV-7,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv7hd&playseek=
+CCTV-8,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv8hd&playseek=
+CCTV-9,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv9hd&playseek=
+CCTV-10,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv10hd&playseek=
+CCTV-11,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv11hd&playseek=
+CCTV-12,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv12hd&playseek=
+CCTV-13,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv13hd&playseek=
+CCTV-14,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv14hd&playseek=
+CCTV-15,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv15hd&playseek=
+CCTV-16,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv16hd&playseek=
+CCTV-17,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv17hd&playseek=
+江苏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
+湖南卫生,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hnwshd&playseek=
+北京卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=bjwshd&playseek=
+东方卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
+浙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
+湖北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hbwshd&playseek=
+广东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gdwshd&playseek=
+广西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gxwshd&playseek=
+黑龙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hljwshd&playseek=
+海南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hinwshd&playseek=
+重庆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cqwshd&playseek=
+深圳卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=szwshd&playseek=
+四川卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=scwshd&playseek=
+河南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=henwshd&playseek=
+东南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=dnwshd&playseek=
+贵州卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gzwshd&playseek=
+江西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jxwshd&playseek=
+辽宁卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=lnwshd&playseek=
+安徽卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ahwshd&playseek=
+河北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hebwshd&playseek=
+山东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sdwshd&playseek=
+天津卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=tjwshd&playseek=
+吉林卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jlwshd&playseek=
+陕西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sxwshd&playseek=
+甘肃卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gswshd&playseek=
+宁夏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nxwshd&playseek=
+内蒙古卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nmgwshd&playseek=
+云南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ynwshd&playseek=
+山西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sxwshd&playseek=
+青海卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=qhwshd&playseek=
+西藏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xzwshd&playseek=
+新疆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xjwshd&playseek=
 cct4欧洲,http://goo.bkpcp.top/mg/cctv4o
 cct4美洲,http://goo.bkpcp.top/mg/cctv4m
 CGT西语,http://goo.bkpcp.top/mg/cgtne
@@ -23,13 +56,6 @@ CGT阿语,http://goo.bkpcp.top/mg/cgtna
 CGT法语,http://goo.bkpcp.top/mg/cgtnf
 家庭影院,http://goo.bkpcp.top/mg/chcjt
 动作电影,http://goo.bkpcp.top/mg/chcdz
-东方卫视,http://goo.bkpcp.top/mg/dfws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-湖南卫视,http://goo.bkpcp.top/mg/hunws
-江西卫视,http://goo.bkpcp.top/mg/jxws
-江苏卫视,http://goo.bkpcp.top/mg/jsws
-海南卫视,http://goo.bkpcp.top/mg/hinws
 四海钓鱼,http://goo.bkpcp.top/mg/shdy
 山东教育,http://goo.bkpcp.top/mg/sdjy
 游戏风云,http://goo.bkpcp.top/mg/yxfy
@@ -481,7 +507,6 @@ TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 美亞電影台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
 民視,rtmp://f13h.mine.nu/sat/tv051
@@ -492,6 +517,128 @@ Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 中天新聞台,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天娛樂台,http://122.117.71.103:8526/http/220.130.87.218:8081
+港澳台new4,#genre#
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk 
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info 
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰卫视,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn 
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+翡翠台北美版(TVB J1),https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+翡翠台北美版(TVB J1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台2K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台1K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳门Mac,http://cdn.132.us.kg/live/as/stream.m3u8.
+澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
+澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳视卫星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial 
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+华丽翡翠台|备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
+千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic 
+千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
+千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+动物星球1,http://61.221.215.25:8800/hls/57/index.m3u8
+功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+VIU TV,http://cdn5.1678520.xyz/live/?id=viu
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB粤语片台,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu 
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
+TVB无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
+TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVB亚洲剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama 
+TVB亚洲剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVB Xing He,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+TVB PLUS,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+TVB PLUS,http://cdn5.1678520.xyz/live/?id=tvbp
+TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVB J1,http://cdn5.1678520.xyz/live/?id=j1
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+NowViu剧集台,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama 
+NOW财经台,http://php.jdshipin.com:8880/xsj.php?id=now-finance 
+NOW紫金国际台,http://php.jdshipin.com:8880/xsj.php?id=now-jelli 
+NOW直播台,http://php.jdshipin.com:8880/xsj.php?id=now-direct 
+NOW星影台,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars 
+NOW新闻台,http://php.jdshipin.com:8880/xsj.php?id=now-news 
+NOW HBO,http://php.jdshipin.com:8880/xsj.php?id=Now-HBO 
+NOW HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature 
+NOW HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits 
+NOW HBO Family,http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily 
+NHK,http://61.221.215.25:8800/hls/51/index.m3u8
+LOS,http://61.221.215.25:8800/hls/58/index.m3u8
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+HOY资讯台,http://php.jdshipin.com:8880/xsj.php?id=hoy-info 
+HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+HOY 77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+HOY 77,http://cdn5.1678520.xyz/live/?id=hoy
+HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
+香港33台,https://rthktv33-live.akamaized.net:443/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+香港34台,https://rthktv34-live.akamaized.net:443/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+香港35台,https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 
 央卫最新（全网通）,#genre#
 CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -585,53 +732,7 @@ NBA经典,http://sport.pendy.dpdns.org/migu/788815380?token=BCDxUPC2aE0y0iz8JYzY
 中学生,http://sport.pendy.dpdns.org/migu/708869532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 周杰伦现场,http://sport.pendy.dpdns.org/migu/625133682?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 最强综艺趴,http://sport.pendy.dpdns.org/migu/629942228?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-央卫最新（全网通2）,#genre#
-CCTV1,http://116.128.243.121:85/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://116.128.243.121:85/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://116.128.243.121:85/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://116.128.243.121:85/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV5+,http://116.128.243.121:85/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV6,http://116.128.243.121:85/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7,http://116.128.243.121:85/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://116.128.243.121:85/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://116.128.243.121:85/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://116.128.243.121:85/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://116.128.243.121:85/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://116.128.243.121:85/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://116.128.243.121:85/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://116.128.243.121:85/tsfile/live/0015_1.m3u8?key=txiptv
-湖南卫视,http://116.128.243.121:85/tsfile/live/0128_1.m3u8?key=txiptv
-浙江卫视,http://116.128.243.121:85/tsfile/live/0124_1.m3u8?key=txiptv
-江苏卫视,http://116.128.243.121:85/tsfile/live/0127_1.m3u8?key=txiptv
-北京卫视,http://116.128.243.121:85/tsfile/live/0122_1.m3u8?key=txiptv
-深圳卫视,http://116.128.243.121:85/tsfile/live/0126_1.m3u8?key=txiptv
-广东卫视,http://116.128.243.121:85/tsfile/live/0125_1.m3u8?key=txiptv
-上海卫视,http://116.128.243.121:85/tsfile/live/0107_1.m3u8?key=txiptv
-湖北卫视,http://116.128.243.121:85/tsfile/live/0132_1.m3u8?key=txiptv
-安徽卫视,http://116.128.243.121:85/tsfile/live/0130_1.m3u8?key=txiptv
-辽宁卫视,http://116.128.243.121:85/tsfile/live/0121_1.m3u8?key=txiptv
-山东卫视,http://116.128.243.121:85/tsfile/live/0131_1.m3u8?key=txiptv
-黑龙江卫视,http://116.128.243.121:85/tsfile/live/0143_1.m3u8?key=txiptv
-天津卫视,http://116.128.243.121:85/tsfile/live/0135_1.m3u8?key=txiptv
-重庆卫视,http://116.128.243.121:85/tsfile/live/0142_1.m3u8?key=txiptv
-四川卫视,http://116.128.243.121:85/tsfile/live/0123_1.m3u8?key=txiptv
-东南卫视,http://116.128.243.121:85/tsfile/live/0137_1.m3u8?key=txiptv
-江西卫视,http://116.128.243.121:85/tsfile/live/0138_1.m3u8?key=txiptv
-河北卫视,http://116.128.243.121:85/tsfile/live/0117_1.m3u8?key=txiptv
-河南卫视,http://116.128.243.121:85/tsfile/live/0139_1.m3u8?key=txiptv
-旅游卫视,http://116.128.243.121:85/tsfile/live/0114_1.m3u8?key=txiptv
-湖南经视,http://116.128.243.121:85/tsfile/live/1000_1.m3u8?key=txiptv
-湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv
-湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv
-湖南电影,http://116.128.243.121:85/tsfile/live/1003_1.m3u8?key=txiptv
-湖南电视剧,http://116.128.243.121:85/tsfile/live/1004_1.m3u8?key=txiptv
-湖南公共,http://116.128.243.121:85/tsfile/live/1005_1.m3u8?key=txiptv
-金鹰纪实,http://116.128.243.121:85/tsfile/live/1006_1.m3u8?key=txiptv
-金鹰卡通,http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv
-卡酷少儿,http://116.128.243.121:85/tsfile/live/1008_1.m3u8?key=txiptv
-湖南教育,http://116.128.243.121:85/tsfile/live/1009_1.m3u8?key=txiptv
+
 
 
 央卫移动,#genre#
