@@ -1,76 +1,36 @@
 最新极速央卫,#genre#
-CCTV-1,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv1hd&playseek=
-CCTV-2,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv2hd&playseek=
-CCTV-3,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv3hd&playseek=
-CCTV-4,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv4hd&playseek=
-CCTV-5,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5hd&playseek=
-CCTV-5+,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5phd&playseek=
-CCTV-6,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv6hd&playseek=
-CCTV-7,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv7hd&playseek=
-CCTV-8,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv8hd&playseek=
-CCTV-9,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv9hd&playseek=
-CCTV-10,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv10hd&playseek=
-CCTV-11,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv11hd&playseek=
-CCTV-12,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv12hd&playseek=
-CCTV-13,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv13hd&playseek=
-CCTV-14,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv14hd&playseek=
-CCTV-15,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv15hd&playseek=
-CCTV-16,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv16hd&playseek=
-CCTV-17,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv17hd&playseek=
-江苏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
-湖南卫生,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hnwshd&playseek=
-北京卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=bjwshd&playseek=
-东方卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
-浙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
-湖北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hbwshd&playseek=
-广东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gdwshd&playseek=
-广西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gxwshd&playseek=
-黑龙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hljwshd&playseek=
-海南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hinwshd&playseek=
-重庆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cqwshd&playseek=
-深圳卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=szwshd&playseek=
-四川卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=scwshd&playseek=
-河南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=henwshd&playseek=
-东南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=dnwshd&playseek=
-贵州卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gzwshd&playseek=
-江西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jxwshd&playseek=
-辽宁卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=lnwshd&playseek=
-安徽卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ahwshd&playseek=
-河北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hebwshd&playseek=
-山东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sdwshd&playseek=
-天津卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=tjwshd&playseek=
-吉林卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jlwshd&playseek=
-陕西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sxwshd&playseek=
-甘肃卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gswshd&playseek=
-宁夏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nxwshd&playseek=
-内蒙古卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nmgwshd&playseek=
-云南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ynwshd&playseek=
-山西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sxwshd&playseek=
-青海卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=qhwshd&playseek=
-西藏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xzwshd&playseek=
-新疆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xjwshd&playseek=
-cct4欧洲,http://goo.bkpcp.top/mg/cctv4o
-cct4美洲,http://goo.bkpcp.top/mg/cctv4m
-CGT西语,http://goo.bkpcp.top/mg/cgtne
-CGT阿语,http://goo.bkpcp.top/mg/cgtna
-CGT法语,http://goo.bkpcp.top/mg/cgtnf
-家庭影院,http://goo.bkpcp.top/mg/chcjt
-动作电影,http://goo.bkpcp.top/mg/chcdz
-四海钓鱼,http://goo.bkpcp.top/mg/shdy
-山东教育,http://goo.bkpcp.top/mg/sdjy
-游戏风云,http://goo.bkpcp.top/mg/yxfy
-之江纪录,http://goo.bkpcp.top/mg/zjjl
-杭州综合,http://goo.bkpcp.top/mg/hzzh
-杭州明珠,http://goo.bkpcp.top/mg/hzmz
-杭州生活,http://goo.bkpcp.top/mg/hzsh
-杭州影视,http://goo.bkpcp.top/mg/hzys
-杭州少体,http://goo.bkpcp.top/mg/hzse
-嵊泗综合,http://goo.bkpcp.top/mg/ssxwzh
-经典电影,http://goo.bkpcp.top/mg/jdxgdy
-军事大片,http://goo.bkpcp.top/mg/jsdp
-热剧联播,http://goo.bkpcp.top/mg/rjlb
-新片映厅,http://goo.bkpcp.top/mg/xpfyt
-Y+剧场台,http://goo.bkpcp.top/mg/yjjc
+CCTV1,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=FJ0on5&tk=QqwaiLLPK96p
+CCTV2,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=qVTLzh&tk=QqwaiLLPK96p
+CCTV3,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Owqbnr&tk=QqwaiLLPK96p
+CCTV4,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=WcSaWK&tk=QqwaiLLPK96p
+CCTV5,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=BdUDXi&tk=QqwaiLLPK96p
+CCTV5+,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=bBd2aG&tk=QqwaiLLPK96p
+CCTV6,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Q9cLsB&tk=QqwaiLLPK96p
+CCTV7,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=2gWQKZ&tk=QqwaiLLPK96p
+CCTV8,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=YhOHl1&tk=QqwaiLLPK96p
+CCTV9,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=PJK6uz&tk=QqwaiLLPK96p
+CCTV10,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=TjS5WA&tk=QqwaiLLPK96p
+CCTV11,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=LOOTr8&tk=QqwaiLLPK96p
+CCTV12,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=mJMcLn&tk=QqwaiLLPK96p
+CCTV13,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=1R9lTb&tk=QqwaiLLPK96p
+CCTV14,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=LKaMWX&tk=QqwaiLLPK96p
+CCTV15,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=dv98sz&tk=QqwaiLLPK96p
+CCTV16,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Pcn4S2&tk=QqwaiLLPK96p
+CCTV17,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=BzIM1K&tk=QqwaiLLPK96p
+北京卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=4CpgHN&tk=QqwaiLLPK96p
+深圳卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=efC8VR&tk=QqwaiLLPK96p
+江苏卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=JluO1p&tk=QqwaiLLPK96p
+湖南卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=7gXD56&tk=QqwaiLLPK96p
+东方卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=O0lpzc&tk=QqwaiLLPK96p
+浙江卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=6ml9xo&tk=QqwaiLLPK96p
+山东卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=bJGMRE&tk=QqwaiLLPK96p
+四川卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=5g2yGl&tk=QqwaiLLPK96p
+重庆卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=mvf6yz&tk=QqwaiLLPK96p
+湖北卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=mdXPny&tk=QqwaiLLPK96p
+东南卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=LCuZGP&tk=QqwaiLLPK96p
+西藏卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=8dnyDu&tk=QqwaiLLPK96p
+黑龙江卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=DY9HKD&tk=QqwaiLLPK96p
+海峡卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=KiVnOO&tk=QqwaiLLPK96p
 
 央视1,#genre#
 CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
@@ -323,23 +283,95 @@ CETV4,http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSe
 ESPN HD,http://38.96.178.201:80/live/ESPNHD/index.m3u8
 重溫經典頻高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 
-香港new,#genre#
-凤凰中文👉,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
-凤凰资讯👉,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
-凤凰资讯👉,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
-凤凰香港👉,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
-Now爆谷👉,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
-中天新闻👉,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
-无线新闻👉,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8
-无线新闻👉,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8
-无线翡翠4k码,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.m3u8
-无线翡翠👉,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8
-无线华丽👉,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
-无线星河标国,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
-无线明珠👉,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
-澳门资讯👉,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
-TVB翡翠台👉,http://ali.hlspul1.yximgs.com/live/qwt_feicui.flv
-TVB新闻台👉,http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
+极速港台,#genre#
+鳳凰衛視中文,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=MTwliU&tk=QqwaiLLPK96p
+鳳凰衛視资讯,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=8A6ZAF&tk=QqwaiLLPK96p
+鳳凰衛視香港,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=xrTDRr&tk=QqwaiLLPK96p
+星空卫视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=aMjxRK&tk=QqwaiLLPK96p
+TVB翡翠台,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=nBTSuM&tk=QqwaiLLPK96p
+TVB無綫新聞,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Pu0OCA&tk=QqwaiLLPK96p
+TVB無綫新聞,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=FPCl0F&tk=QqwaiLLPK96p
+TVB明珠,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=hUh0Fb&tk=QqwaiLLPK96p
+TVBplus,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=lIvbQE&tk=QqwaiLLPK96p
+VIU TV,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=3lZNzY&tk=QqwaiLLPK96p
+VIUTV6,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=18J7cW&tk=QqwaiLLPK96p
+NOW新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=xT1Jxq&tk=QqwaiLLPK96p
+Now爆谷,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=TTUl4r&tk=QqwaiLLPK96p
+Now星影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=vbxXU9&tk=QqwaiLLPK96p
+Now体育,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=lz15Yh&tk=QqwaiLLPK96p
+Now英超1,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=TiTKuw&tk=QqwaiLLPK96p
+HOY 77,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=UuaAza&tk=QqwaiLLPK96p
+HOY 78,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=ZrL8ji&tk=QqwaiLLPK96p
+TVB娛樂新聞,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=uiXelP&tk=QqwaiLLPK96p
+TVB黃金翡翠,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=xrKENy&tk=QqwaiLLPK96p
+TVB千禧經典,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=2tZhBT&tk=QqwaiLLPK96p
+TVB亞洲劇,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=diQIxJ&tk=QqwaiLLPK96p
+TVB華語劇,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=DHJZv0&tk=QqwaiLLPK96p
+TVB亚洲综合,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=YLEQef&tk=QqwaiLLPK96p
+TVB戏曲,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=F8Sw3k&tk=QqwaiLLPK96p
+TVB粤语片,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=8NMsTG&tk=QqwaiLLPK96p
+MyTV儿童,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=WicZ7t&tk=QqwaiLLPK96p
+TVB生活,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=XZhpzJ&tk=QqwaiLLPK96p
+TVB功夫(国),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=iAR7yU&tk=QqwaiLLPK96p
+TVB功夫(粤),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=JTPXOn&tk=QqwaiLLPK96p
+TVB星河(粤),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=4Ja9Sc&tk=QqwaiLLPK96p
+TVB星河(国),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=NVz9vG&tk=QqwaiLLPK96p
+黄金华剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=GqSsI5&tk=QqwaiLLPK96p
+天映频道,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=hVcRpz&tk=QqwaiLLPK96p
+天映经典,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=D5OvvZ&tk=QqwaiLLPK96p
+凤凰电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=S3eZAf&tk=QqwaiLLPK96p
+PopC电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Hu69rO&tk=QqwaiLLPK96p
+美亚电影(港),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=4I5ysf&tk=QqwaiLLPK96p
+美亚电影(台),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Xegejs&tk=QqwaiLLPK96p
+壹新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=ltONFB&tk=QqwaiLLPK96p
+中天新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=HSgJwC&tk=QqwaiLLPK96p
+中天新闻(备),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=oWlish&tk=QqwaiLLPK96p
+中视新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=1RBUBv&tk=QqwaiLLPK96p
+中天综合,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=yq6Nfj&tk=QqwaiLLPK96p
+中天娱乐,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=EnV3ni&tk=QqwaiLLPK96p
+TVBS新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=GWYkBK&tk=QqwaiLLPK96p
+TVBSHD,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=HCHQdg&tk=QqwaiLLPK96p
+TVBS HD(备),http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=wbtxyE&tk=QqwaiLLPK96p
+壹新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Ve6JHW&tk=QqwaiLLPK96p
+年代新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=XlNU6Q&tk=QqwaiLLPK96p
+非凡新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=V4cxoJ&tk=QqwaiLLPK96p
+寰宇新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=7qWta6&tk=QqwaiLLPK96p
+镜新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=OAj9Uz&tk=QqwaiLLPK96p
+东森新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=TFDMgs&tk=QqwaiLLPK96p
+东森超视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=ZHOkyP&tk=QqwaiLLPK96p
+东森综合,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=8mWhBh&tk=QqwaiLLPK96p
+东森戏剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=kUWx6d&tk=QqwaiLLPK96p
+东森电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Sm3CPy&tk=QqwaiLLPK96p
+东森洋片,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=38Hb30&tk=QqwaiLLPK96p
+纬来电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=IUM0m5&tk=QqwaiLLPK96p
+纬来体育,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=dqIs0P&tk=QqwaiLLPK96p
+纬来综合,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=jisfKs&tk=QqwaiLLPK96p
+纬来戏剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=EJW1gI&tk=QqwaiLLPK96p
+龙祥时代,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=FWCRjh&tk=QqwaiLLPK96p
+龙华偶像,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=u2eiZ4&tk=QqwaiLLPK96p
+龙华戏剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=QEt7NE&tk=QqwaiLLPK96p
+龙华电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=TjsqVK&tk=QqwaiLLPK96p
+龙华洋片,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=GDPgor&tk=QqwaiLLPK96p
+龙华经典,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=AB93LD&tk=QqwaiLLPK96p
+三立新闻,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=7ndQoV&tk=QqwaiLLPK96p
+八大综合,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=FRo78q&tk=QqwaiLLPK96p
+八大戏剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=xR2OCg&tk=QqwaiLLPK96p
+靖天电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=l7vt3Y&tk=QqwaiLLPK96p
+靖洋戏剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=28R6gL&tk=QqwaiLLPK96p
+爱尔达影剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=lj9Vrm&tk=QqwaiLLPK96p
+爱尔达综合,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=6lUB9z&tk=QqwaiLLPK96p
+HBOHD,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=ARxWfR&tk=QqwaiLLPK96p
+HBO原创,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=38cTgS&tk=QqwaiLLPK96p
+HBO强档,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=PZLTOk&tk=QqwaiLLPK96p
+HBO家庭,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=aiquh2&tk=QqwaiLLPK96p
+好莱坞电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=W6RCBZ&tk=QqwaiLLPK96p
+AMC电影,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=rOxdRE&tk=QqwaiLLPK96p
+中视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Df39nv&tk=QqwaiLLPK96p
+公视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=fqRzEO&tk=QqwaiLLPK96p
+民视,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=GlbP6r&tk=QqwaiLLPK96p
+中视经典,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=dbG3mH&tk=QqwaiLLPK96p
+公视戏剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=EUrTcv&tk=QqwaiLLPK96p
+民视影剧,http://kkk.888.3116598.xyz//api.php?n=xxxtw&id=Ku3n3E&tk=QqwaiLLPK96p
 港澳台new1,#genre#
 澳亚卫视[1920x1080],http://119.32.12.17:2901/udp/224.1.100.12:11111
 中天新闻[1920x1080],http://222.128.55.152:9080/live/fc.m3u8
@@ -653,7 +685,7 @@ CCTV6,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA2
 CCTV7,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV8,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV9,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV9documentary,http://sport.pendy.dpdns.org/migu/609006487?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV9,http://sport.pendy.dpdns.org/migu/609006487?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV10,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV11,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV12,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
