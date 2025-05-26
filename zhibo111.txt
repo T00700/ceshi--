@@ -1871,7 +1871,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 
-💫️金瓶梅(杨思敏_629713,#genre#
+💫️金瓶梅,#genre#
 
 第一集,https://play.hhuus.com/play/Rb4vYB7e/index.m3u8
 第二集,https://play.hhuus.com/play/RdGXQlKe/index.m3u8
