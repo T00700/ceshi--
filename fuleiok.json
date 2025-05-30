@@ -894,7 +894,7 @@
       {
       "name": "最强央卫",
       "type": 0,
-      "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -1034,6 +1034,9 @@
       "name": "超清测试",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
     }, 
