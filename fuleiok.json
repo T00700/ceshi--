@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/l4kjC6jt.png;md5;29ddd127ee20476bf2a78d688d442a8c",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YzzjOSMn.png;md5;db2132e631faa708621652a32f2894b9",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "./logo.gif",
   "sites": [
@@ -37,7 +37,7 @@
       },
       "timeout": 5
     },
- {
+    {
       "key": "瓜子",
       "name": "🍉瓜子┃App",
       "type": 3,
@@ -49,7 +49,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃直连",
+      "name": "📺热播┃App",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -62,7 +62,7 @@
     },
     {
       "key": "天天",
-      "name": "⛅️天天┃直连",
+      "name": "⛅️天天┃App",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "时常",
-      "name": "🐥时常┃直连",
+      "name": "🐥时常┃App",
       "type": 3,
       "api": "csp_ShiChangGuard",
       "searchable": 1,
@@ -131,6 +131,36 @@
       "name": "🐇白白┃直连",
       "type": 3,
       "api": "csp_SubaibaiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "晴天",
+      "name": "☀️晴天┃App",
+      "type": 3,
+      "api": "csp_Sun4kGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "小红",
+      "name": "🐷小红┃App",
+      "type": 3,
+      "api": "csp_XiaoHongGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "仓鼠",
+      "name": "🐹仓鼠┃App",
+      "type": 3,
+      "api": "csp_CangShuGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -167,31 +197,11 @@
       "filterable": 1,
       "timeout": 10
     },
-    {
-      "key": "二小",
-      "name": "🦢二小┃4K网盘",
-      "type": 3,
-      "api": "csp_ErXiaoGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
+     {
       "key": "校长",
       "name": "💮小章┃4K",
       "type": 3,
       "api": "csp_XiaoZhangGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "光影",
-      "name": "🎥光影┃4K",
-      "type": 3,
-      "api": "csp_GuanyingGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -224,6 +234,16 @@
       "timeout": 25
     },
     {
+      "key": "光影",
+      "name": "🎥光影┃4K",
+      "type": 3,
+      "api": "csp_GuanyingGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
       "key": "玩偶",
       "name": "👽玩偶┃4K",
       "type": 3,
@@ -232,6 +252,16 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 30
+    },
+    {
+      "key": "二小",
+      "name": "🦢二小┃4K",
+      "type": 3,
+      "api": "csp_ErXiaoGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
     },
     {
       "key": "立播版",
@@ -264,30 +294,10 @@
       "timeout": 25
     },
     {
-      "key": "多多",
-      "name": "🪅多多┃4K",
-      "type": 3,
-      "api": "csp_DuoDuoGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
       "key": "表哥",
       "name": "👨🏻‍🦱表哥┃4K",
       "type": 3,
       "api": "csp_DbgGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
-      "key": "百家",
-      "name": "💒百家┃4K",
-      "type": 3,
-      "api": "csp_BaijiaGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -304,26 +314,6 @@
       "timeout": 25
     },
     {
-      "key": "下饭",
-      "name": "🍚下饭┃4K",
-      "type": 3,
-      "api": "csp_XiaFanGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
-      "key": "小米",
-      "name": "🍄小米┃4K优浠",
-      "type": 3,
-      "api": "csp_XiaoMiGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
       "key": "闪电",
       "name": "🌈闪电┃4K",
       "type": 3,
@@ -333,23 +323,53 @@
       "filterable": 1,
       "timeout": 25
     },
-     {
-      "key": "清影",
-      "name": "🌂清影┃4K",
+    {
+      "key": "虎斑",
+      "name": "🐯虎斑┃4K",
       "type": 3,
-      "api": "csp_QingYingGuard",
+      "api": "csp_HuBanGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 25
     },
     {
-      "key": "123分享",
-      "name": "🌂123┃4K",
+      "key": "云集",
+      "name": "🍊云集┃4K",
       "type": 3,
-      "api": "csp_Time123Guard",
-      "quickSearch": 0,
-      "changeable": 0,
+      "api": "csp_YunJiGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "盘他",
+      "name": "🎸盘他┃4K",
+      "type": 3,
+      "api": "csp_PantaGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "海绵",
+      "name": "🧽海绵┃4K",
+      "type": 3,
+      "api": "csp_HaiMianGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "雷鲸",
+      "name": "🐳雷鲸┃4K",
+      "type": 3,
+      "api": "csp_LeiJingGuard",
+      "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
       "timeout": 25
     },
@@ -400,6 +420,20 @@
       "name": "☘️我的┃百度",
       "type": 3,
       "api": "csp_MyBaiduGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的123",
+      "name": "🌂我的┃123",
+      "type": 3,
+      "api": "csp_My123Guard",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -650,26 +684,6 @@
       "timeout": 15
     },
     {
-      "key": "盘Se",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "timeout": 15
-    },
-    {
-      "key": "易搜",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSoGuard",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "timeout": 15
-    },
-    {
       "key": "csp_QuPanSouGuard",
       "name": "🤓趣盘┃搜索",
       "type": 3,
@@ -677,27 +691,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "timeout": 15
-    },
-    {
-      "key": "csp_QkdjGuard",
-      "name": "🐚夸克短剧┃搜索",
-      "type": 3,
-      "api": "csp_QkdjGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 15
-    },
-    {
-      "key": "米搜",
-      "name": "🌖米搜┃搜索",
-      "type": 3,
-      "api": "csp_MiPanSoGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 15
+      "timeout": 25
     },
     {
       "key": "太极",
@@ -710,7 +704,7 @@
       "ext": {
         "taichi": 1
       },
-      "timeout": 15
+      "timeout": 25
     },
     {
       "key": "糖果搜",
@@ -723,7 +717,17 @@
       "ext": {
         "taichi": 2
       },
-      "timeout": 15
+      "timeout": 25
+    },
+    {
+      "key": "爱盘",
+      "name": "❤️爱盘┃搜索",
+      "type": 3,
+      "api": "csp_AiPanGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 25
     },
     {
       "key": "盘搜",
@@ -733,17 +737,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "timeout": 15
-    },
-    {
-      "key": "夸搜",
-      "name": "🚢夸搜┃搜索",
-      "type": 3,
-      "api": "csp_QksoGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 15
+      "timeout": 25
     },
     {
       "key": "影搜",
@@ -753,17 +747,47 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "timeout": 15
+      "timeout": 25
     },
     {
-      "key": "双星",
-      "name": "🤩双星┃搜索",
+      "key": "聚盘",
+      "name": "🌻聚盘┃搜索",
       "type": 3,
-      "api": "csp_Star2Guard",
+      "api": "csp_PankuGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "timeout": 15
+      "timeout": 25
+    },
+    {
+      "key": "云搜",
+      "name": "☁️云搜┃搜索",
+      "type": 3,
+      "api": "csp_YunPanPanGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 25
+    },
+    {
+      "key": "度搜",
+      "name": "🦈度搜┃搜索",
+      "type": 3,
+      "api": "csp_BdxdGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 25
+    },
+    {
+      "key": "逸搜",
+      "name": "🌧逸搜┃搜索",
+      "type": 3,
+      "api": "csp_TianYiSoGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 25
     },
     {
       "key": "push_agent",
@@ -773,7 +797,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "timeout": 5
+      "timeout": 25
     }
   ],
   "parses": [
@@ -891,7 +915,7 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-      {
+     {
       "name": "最强央卫",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
@@ -925,6 +949,13 @@
       "epg":"https://epg.v1.mk/json?ch={name}&date={date}",
       "logo":"https://epg.v1.mk/logo/{name}.png"
     }, 
+    {
+      "name": "综合",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
      {
       "name": "央卫超清",
       "type": 0,
@@ -1036,7 +1067,17 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "playerType": 2,
+      "timeout": 10
+    }, 
+    {
+      "name": "超清测试2",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/ceshi987.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
     }, 
