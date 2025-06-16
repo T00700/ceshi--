@@ -267,6 +267,112 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
+#EXTM3U
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aXs2t7&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K0NTdk&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2fwMQZ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XHPyR3&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hfA6HP&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5%2B.png",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lHWnP8&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UDJ5cz&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TASV9H&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UhxNMm&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VI9YS3&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pmuUkE&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vQ3wCd&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mlfscC&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RhLP1u&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sN1au2&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cWEGsm&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ofzMrS&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GYTVZg&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC家庭影院
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=slQXkh&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC影迷电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IPwfc5&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",CHC动作电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hUsPe3&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BOHime&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wxewzH&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lTSUEJ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ybKH5m&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qLXUWJ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NkNsUv&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JxY0tZ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=006pS6&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AGkA4B&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DxDBAj&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ly9NHZ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bVEnGp&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D4DuWU&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7q318R&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LqXzgu&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CT5zpO&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mge0yN&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vk2NXy&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=B7nD1j&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=H7358V&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gTtlJB&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gYVo1q&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yq6Set&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=giO0am&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dCOwIV&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ovz9wi&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vUfUGG&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=M70xTP&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=207R37&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GkSQU1&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aPCsAV&tk=T8LLDWG87bym
+
 
 
 #全网通央卫秒播
@@ -3059,7 +3165,113 @@ http://37.27.111.214:8080/live/27/hls.m3u8
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1.png",好莱坞电影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-
+#EXTM3U
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ciILZJ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6dA8uH&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png",凤凰香港台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1BA69q&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=adR2d5&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",无线新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wnU6Bd&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0QgcXB&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png",TVB生活台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mDak4i&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3(%E5%9B%BD).png",TVB星河(国)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Z851Ce&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%8A%9F%E5%A4%AB(%E5%9B%BD).png",TVB功夫(国)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=POe2gP&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%8A%9F%E5%A4%AB(%E7%B2%A4).png",TVB功夫(粤)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gsSvgx&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/PopC%E7%94%B5%E5%BD%B1.png",PopC电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F2EWgI&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tPuqQD&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rhyQgt&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hub%E5%A8%B1%E5%AE%B6.png",Hub娱家
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7xEcr9&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hub%E9%83%BD%E4%BC%9A.png",Hub都会
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cECbOq&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B8%AF%E7%89%88%E7%BE%8E%E4%BA%9A(%E5%9B%BD).png",港版美亚(国)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SbOswA&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B8%AF%E7%89%88%E7%BE%8E%E4%BA%9A(%E7%B2%A4).png",港版美亚(粤)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=seN9cW&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7.png",黄金华剧
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AxHLte&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0.png",黄金翡翠
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Qr79ud&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gcOC7b&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BAV%E9%9F%B3%E4%B9%90.png",星空V音乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DG6RhV&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E7%94%B5%E5%BD%B1.png",星空电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VXwlRJ&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png",凤凰电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XCnvrE&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png",Now新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Lw3hRL&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E7%88%86%E8%B0%B7%E5%8F%B0.png",Now爆谷台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mo0k8H&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E6%98%9F%E5%BD%B1%E5%8F%B0.png",Now星影台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q0uWQg&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY77.png",HOY77
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wMj2Ye&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY78.png",HOY78
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UN92yo&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png",中天亚洲
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zZT9ps&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88.png",中天综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ruyfkd&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=huHSSi&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2(%E5%A4%87).png",中天亚洲(备)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UB3EQ7&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80.png",民视第一
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Nj0Afg&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE.png",民视台湾
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h2inPa&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DD4m2r&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png",东森超视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vgmLTl&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png",东森综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bhx3l1&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.png",八大第一
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=H2MjXq&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png",八大综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LLivQD&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%B1%E5%B0%94%E8%BE%BE%E5%A8%B1%E4%B9%90.png",爱尔达娱乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nF9aGe&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Channel5HD.png",Channel5HD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=La72oz&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Channel8HD.png",Channel8HD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6iN3jm&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/ChannelUHD.png",ChannelUHD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1QNAfg&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png",八度空間
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bqXeAT&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E5%8F%B0%E5%89%A7%E5%8F%B0.png",TVBS台剧台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qCDSBc&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E7%BB%BC%E8%89%BA%E5%8F%B0.png",TVBS综艺台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MPCIJB&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.png",寰宇新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RJXBXi&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.png",中天新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ci8JOW&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB2.png",中天新闻2
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tMzJar&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TSZslA&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%20HD.png",TVBS HD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WhV34o&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9E8Z1k&tk=T8LLDWG87bym
+#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83.png",动物星球
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vvzpt9&tk=T8LLDWG87bym
 
 #EXTM3U
 #EXTINF:-1 group-title="推流专区",发现推流异常请联系店主
