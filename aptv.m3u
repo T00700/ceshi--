@@ -136,209 +136,138 @@ http://148.135.93.213/live.php?id=黑龙江卫视
 http://148.135.93.213/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213/live.php?id=大湾区卫视
-#央视频道
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://8.138.7.223/tv/hot.php?id=1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://8.138.7.223/tv/hot.php?id=2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://8.138.7.223/tv/hot.php?id=3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://8.138.7.223/tv/hot.php?id=4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://8.138.7.223/tv/hot.php?id=5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://8.138.7.223/tv/hot.php?id=18
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://8.138.7.223/tv/hot.php?id=6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://8.138.7.223/tv/hot.php?id=7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://8.138.7.223/tv/hot.php?id=8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://8.138.7.223/tv/hot.php?id=9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://8.138.7.223/tv/hot.php?id=10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://8.138.7.223/tv/hot.php?id=11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://8.138.7.223/tv/hot.php?id=12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://8.138.7.223/tv/hot.php?id=13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://8.138.7.223/tv/hot.php?id=14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://8.138.7.223/tv/hot.php?id=15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://8.138.7.223/tv/hot.php?id=16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://8.138.7.223/tv/hot.php?id=17
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV 4K
-http://3501776.xyz:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="央视频道",CCTV 8K
-http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技
-http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="央视频道",CCTV-世界地理
-http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视频道",CCTV-风云足球
-http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="央视频道",CCTV-风云音乐
-http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="央视频道",CCTV-风云剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.cn/tv/文化精品.png" group-title="央视频道",CCTV-文化精品
-http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视频道",CCTV-女性时尚
-http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="央视频道",CCTV-央视台球
-http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-#EXTINF:-1 tvg-id="央视高网" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="央视频道",CCTV-央视高网
-http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVdszn.png" group-title="央视频道",CCTV-电视指南
-http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="央视频道",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.cn/tv/中国交通.png" group-title="央视频道",中国交通
-http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-#EXTINF:-1 tvg-name="直播中国" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/直播中国.png" group-title="央视频道",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="央视频道",CETV-1 综合教育
-http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="央视频道",CETV-2 空中课堂
-http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
-#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://live.fanmingming.cn/tv/CETV3.png" group-title="央视频道",CETV-3 教育服务
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV-4 职业教育
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
-#http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
+http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
+http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
+http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
+http://39.134.64.87:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
+http://39.134.64.87:6610/PLTV/88888888/224/3221226010/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
+http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
+http://39.134.64.87:6610/PLTV/88888888/224/3221225734/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://39.134.64.87:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://39.134.64.87:6610/PLTV/88888888/224/3221225730/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://39.134.64.87:6610/PLTV/88888888/224/3221226565/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://39.134.64.87:6610/PLTV/88888888/224/3221225597/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://39.134.64.87:6610/PLTV/88888888/224/3221225731/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://39.134.64.87:6610/PLTV/88888888/224/3221226568/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://39.134.64.87:6610/PLTV/88888888/224/3221226011/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://39.134.64.87:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://39.134.64.87:6610/PLTV/88888888/224/3221226571/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
+http://39.134.64.87:6610/PLTV/88888888/224/3221226591/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
+http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
+http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
+http://39.134.64.87:6610/PLTV/88888888/224/3221225601/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
+http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
+http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="中央电视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV1.png",CETV1
+http://39.134.64.87:6610/PLTV/88888888/224/3221225652/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="中央电视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV2.png",CETV2
+http://39.134.64.87:6610/PLTV/88888888/224/3221226425/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="中央电视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV4.png",CETV4
+http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=、
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226307/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226345/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226339/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226397/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226546/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226327/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226406/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226459/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226477/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226338/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226341/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226344/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226248/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226313/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226549/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226409/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226474/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226323/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226389/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226392/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226439/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226444/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226454/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226457/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226460/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226516/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png",山东教育卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png",安多卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 
-#卫视频道
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://8.138.7.223/tv/hot.php?id=19
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://8.138.7.223/tv/hot.php?id=20
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://8.138.7.223/tv/hot.php?id=21
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://8.138.7.223/tv/hot.php?id=22
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://8.138.7.223/tv/hot.php?id=23
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://8.138.7.223/tv/hot.php?id=24
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://8.138.7.223/tv/hot.php?id=25
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://8.138.7.223/tv/hot.php?id=26
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://8.138.7.223/tv/hot.php?id=27
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://8.138.7.223/tv/hot.php?id=28
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://8.138.7.223/tv/hot.php?id=29
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://8.138.7.223/tv/hot.php?id=30
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://8.138.7.223/tv/hot.php?id=31
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://8.138.7.223/tv/hot.php?id=32
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://8.138.7.223/tv/hot.php?id=33
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://8.138.7.223/tv/hot.php?id=34
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://8.138.7.223/tv/hot.php?id=35
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://8.138.7.223/tv/hot.php?id=36
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://8.138.7.223/tv/hot.php?id=37
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://8.138.7.223/tv/hot.php?id=38
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://8.138.7.223/tv/hot.php?id=39
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://8.138.7.223/tv/hot.php?id=40
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://8.138.7.223/tv/hot.php?id=41
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://8.138.7.223/tv/hot.php?id=42
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://112.46.105.20:8009/hls/56/index.m3u8
-#http://8.138.7.223/tv/hot.php?id=43
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://112.46.105.20:8009/hls/59/index.m3u8
-#http://8.138.7.223/tv/hot.php?id=44
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://8.138.7.223/tv/hot.php?id=45
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://8.138.7.223/tv/hot.php?id=46
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://8.138.7.223/tv/hot.php?id=47
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://8.138.7.223/tv/hot.php?id=48
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://8.138.7.223/tv/hot.php?id=49
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
-http://8.138.7.223/tv/hot.php?id=50
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
-http://8.138.7.223/tv/hot.php?id=51
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://8.138.7.223/tv/hot.php?id=52
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://8.138.7.223/tv/hot.php?id=53
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://8.138.7.223/tv/hot.php?id=54
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://8.138.7.223/tv/hot.php?id=55
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
-http://8.138.7.223/tv/hot.php?id=56
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="卫视频道",农林卫视
-http://8.138.7.223/tv/hot.php?id=57
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
-http://8.138.7.223/tv/hot.php?id=58
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://8.138.7.223/tv/hot.php?id=59
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="卫视频道",珠江卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="卫视频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
-https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-name="央视新闻" tvg-logo="https://live.fanmingming.cn/tv/央视新闻.png" group-title="卫视频道",央视新闻
-http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-#http://8.138.7.223/tv/nmgws.m3u8
 
 #全网通央卫秒播
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV1.png" group-title="全网通" ,CCTV1
@@ -2676,116 +2605,461 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="港澳台频道",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZHiWJk&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yut166&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png",凤凰香港台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oebyCu&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FJX5af&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",无线新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3OQYDQ&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sPy2jx&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png",TVB生活台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=me7kJW&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3(%E5%9B%BD).png",TVB星河(国)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BNlfN5&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%8A%9F%E5%A4%AB(%E5%9B%BD).png",TVB功夫(国)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zoshmz&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%8A%9F%E5%A4%AB(%E7%B2%A4).png",TVB功夫(粤)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gqBNaN&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/PopC%E7%94%B5%E5%BD%B1.png",PopC电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5EYWtw&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3lU6jd&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zPw6yL&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/mySUPER%E7%8D%8E%E9%96%80%E4%BA%BA.png",mySUPER獎門人
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XdyOUe&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hub%E5%A8%B1%E5%AE%B6.png",Hub娱家
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ff1X2l&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hub%E9%83%BD%E4%BC%9A.png",Hub都会
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p4mGVc&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B8%AF%E7%89%88%E7%BE%8E%E4%BA%9A(%E5%9B%BD).png",港版美亚(国)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ns2pAs&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B8%AF%E7%89%88%E7%BE%8E%E4%BA%9A(%E7%B2%A4).png",港版美亚(粤)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G7IeL6&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7.png",黄金华剧
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IfgPC0&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0.png",黄金翡翠
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D93QX9&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OdKsii&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BAV%E9%9F%B3%E4%B9%90.png",星空V音乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N6D8S5&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E7%94%B5%E5%BD%B1.png",星空电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LvbkP5&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png",凤凰电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1yZ7e5&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png",Now新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4eOPqy&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E7%88%86%E8%B0%B7%E5%8F%B0.png",Now爆谷台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=S5HBIL&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E6%98%9F%E5%BD%B1%E5%8F%B0.png",Now星影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SHi2dS&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY77.png",HOY77
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tlgxcj&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY78.png",HOY78
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1dS8Ae&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png",中天亚洲
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8blGBI&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88.png",中天综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UuPnLJ&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V7IM3c&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2(%E5%A4%87).png",中天亚洲(备)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WLrIv0&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80.png",民视第一
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LA9jcy&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE.png",民视台湾
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jgtnxh&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zgzuRG&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png",东森超视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CQQgJD&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png",东森综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PoeuoU&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.png",八大第一
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CtQ1Xo&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png",八大综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CFgCwx&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%B1%E5%B0%94%E8%BE%BE%E5%A8%B1%E4%B9%90.png",爱尔达娱乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vYBCMv&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Channel5HD.png",Channel5HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GMwYjR&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Channel8HD.png",Channel8HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QibcI7&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/ChannelUHD.png",ChannelUHD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=x42OO1&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png",八度空間
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p8O3lP&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E5%8F%B0%E5%89%A7%E5%8F%B0.png",TVBS台剧台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0yvuEc&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E7%BB%BC%E8%89%BA%E5%8F%B0.png",TVBS综艺台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5k5WGr&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E7%A7%80%E5%8E%85.png",猪哥亮歌秀厅
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aBSiyJ&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.png",寰宇新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HcuKpg&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.png",中天新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fX107Y&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB2.png",中天新闻2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7C0zGf&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JZ45SX&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%20HD.png",TVBS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KBedOV&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=C3GbIY&tk=fvpSrP3Lwr8p
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83.png",动物星球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ePqgNq&tk=fvpSrP3Lwr8p
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0.png",无线翡翠
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%8D%8E%E4%B8%BD.png",无线华丽
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90.png",无线娱乐
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",华丽翡翠台
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+ http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0.png",千禧经典台
+ http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
+ http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20AOD.png",Astro AOD
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20AEC.png",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%B1%E5%A5%87%E8%89%BA.png",爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20QJ.png",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%E6%AC%A2%E5%96%9C%E5%8F%B0.png",Astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4.png",八度空间
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F.png",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0.png",无线翡翠
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%8D%8E%E4%B8%BD.png",无线华丽
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%8D%8E%E4%B8%BD%E7%B2%A4.png",无线华丽粤
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%8A%9F%E5%A4%AB.png",无线功夫
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3%E7%B2%A4.png",无线星河粤
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3.png",无线星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8.png",千禧经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-35.png",RTHK-35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E9%9D%A2%E5%8C%85.png",香港面包
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF_C%2B_.png",香港_C+_
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86%E9%97%BD%E5%8D%97.png",台视闽南
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/momoTV.png",momoTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E9%A2%91%E7%B2%A4.png",美亚电影频粤
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E.png",中天新聞
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0.png",翡翠
+http://cdn.163189.xyz/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBPLUS.png",TVBPLUS
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY78.png",HOY78
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png",澳视卫星
+http://cdn.163189.xyz/live/as/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RHK31.png",RHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F%E9%A2%91%E9%81%93.png",耀才财经频道
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E9%A2%91%E9%AB%98.png",中天新闻频高
+https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E9%A2%91%E5%8A%A0.png",中天新闻频加
+https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now%E6%96%B0%E9%97%BB%E9%A2%91%E7%B2%A4.png",Now新闻频粤
+https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%BF%A1%E7%BF%A0%E9%A2%91%E9%AB%98.png",TVB翡翠频高
+https://gdfire2.67890123.cn:8088/live/jade.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E9%A2%91%E9%AB%98.png",凤凰香港频高
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88%E9%A2%91%E7%B2%A4.png",有线综合频粤
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%8D%83%E7%A6%A7%E9%A2%91%E6%A0%87.png",无线千禧频标
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%8E%E7%8F%A0%E7%B2%A4%E9%AB%98.png",无线明珠粤高
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%8E%E7%8F%A0%E8%8B%B1%E6%A0%87.png",无线明珠英标
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4%E9%A2%91%E9%AB%98.png",八度空间频高
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4%E9%A2%91%E6%A0%87.png",八度空间频标
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0CHU%E9%A2%91%E9%AB%98.png",新加CHU频高
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0CH5%E9%A2%91%E9%AB%98.png",新加CH5频高
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88%E7%B2%A4%E9%AB%98.png",有线综合粤高
+http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0%E9%A2%91%E6%A0%87.png",无线翡翠频标
+http://php.jdshipin.com/PLTV/iptv.php?id=fct
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%8D%8E%E4%B8%BD%E5%9B%BD%E6%A0%87.png",无线华丽国标
+http://php.jdshipin.com/PLTV/iptv.php?id=huali
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%8E%E7%8F%A0%E7%B2%A4%E9%AB%98.png",无线明珠粤高
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%8E%E7%8F%A0%E9%A2%91%E6%A0%87.png",无线明珠频标
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90%E9%A2%91%E6%A0%87.png",无线娱乐频标
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3%E9%A2%91%E6%A0%87.png",无线星河频标
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/VIUTV%E7%B2%A4%E9%A2%91%E6%A0%87.png",VIUTV粤频标
+http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%98%8E%E7%8F%A0%E9%A2%91%E6%A0%87.png",无线明珠频标
+http://cdn5.132.us.kg/live/mzt/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88(TVB%20J1).png",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20J1.png",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%20TV.png",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%20TV.png",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK31.png",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK32.png",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1%E6%B8%AF%E6%BE%B3%E7%89%88.png",CCTV1港澳版
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4.png",八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/CH5.png",CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/CH8.png",CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHU.png",CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",华丽翡翠台
+http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w1008.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",亚洲武侠
+http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w1001.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png",TVB生活台
+http://v2hcdn.jdshipin.com/finance2/finance2.stream/chunklist_w1002.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVB娱乐新闻台
+http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",无线新闻台
+http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w1006.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A.png",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%88%9B%E4%B8%96%E7%94%B5%E8%A7%86.png",创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8.png",千禧经典
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8.png",千禧经典
+http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
+https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+https://cdn.163189.xyz/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+https://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY77.png",HOY77
+https://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBJ1.png",TVBJ1
+https://cdn3.163189.xyz/live/j1/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY77.png",HOY77
+https://cdn3.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK31.png",RTHK31
+https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK32.png",RTHK32
+https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+https://cdn.163189.xyz/live/?id=tvbp
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://cdn5.1678520.xyz/live/?id=fct
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+http://cdn5.1678520.xyz/live/?id=tvbp
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+http://cdn5.1678520.xyz/live/?id=fhzw
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+http://cdn5.1678520.xyz/live/?id=fhzx
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBJ1.png",TVBJ1
+http://cdn5.1678520.xyz/live/?id=j1
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%9A%E6%B4%B2%E5%8D%AB%E8%A7%86.png",亚洲卫视
+http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBJ1.png",TVBJ1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/VIUTV.png",VIUTV
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
+http://wouu.net:9977/rtp/239.93.1.10:2193
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86%E5%9B%BD%E9%99%85.png",星空卫视国际
+http://13457610200.8866.org:2018/live/星空国际/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E4%BD%9B%E9%99%80.png",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F.png",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86.png",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0.png",美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%9A%E6%B4%B2%E5%8D%AB%E8%A7%86.png",亚洲卫视
+https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E7%8E%AF%E7%90%83%E5%8D%AB%E8%A7%86.png",香港环球卫视
+rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E5%8F%B0.png",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86.png",莲花卫视
+http://8.138.7.223/tv/lotustv.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
+http://cdn.163.dedyn.io/live/asam/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
+http://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E8%91%A1%E6%96%87.png",澳视葡文
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png",澳视卫星
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E4%BD%93%E8%82%B2.png",澳视体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E8%B5%84%E8%AE%AF.png",澳视资讯
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E7%BB%BC%E8%89%BA.png",澳视综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻
+http://8.138.7.223/tv/4gtv.php?id=5
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86.png",台视
+http://8.138.7.223/tv/4gtv.php?id=18
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%BD%E9%99%85%E8%B4%A2%E7%BB%8F.png",国际财经
+http://8.138.7.223/tv/4gtv.php?id=80
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A.png",龙华卡通
+http://8.138.7.223/tv/4gtv.php?id=65
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png",龙华日韩
+http://8.138.7.223/tv/4gtv.php?id=66
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png",龙华电影
+http://8.138.7.223/tv/4gtv.php?id=28
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png",龙华戏剧
+http://8.138.7.223/tv/4gtv.php?id=37
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/SMArt%E5%8F%B0.png",SMArt台
+http://8.138.7.223/tv/4gtv.php?id=76
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86.png",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86.png",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A7%86.png",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E8%A7%86.png",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.png",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90.png",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.png",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/MoMoTV.png",MoMoTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/ELEVEN%E4%BD%93%E8%82%B21.png",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/ELEVEN%E4%BD%93%E8%82%B22.png",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90.png",纬来育乐
+rtmp://9hv9.mine.nu/sat/tv701
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/GOODTV%E5%A5%BD%E6%B6%88%E6%81%AF.png",GOODTV好消息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/GOOD2.png",GOOD2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E8%AF%AD%E7%94%B5%E8%A7%861.png",华语电视1
+http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E8%AF%AD%E7%94%B5%E8%A7%862.png",华语电视2
+http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E4%BA%9A%E6%B4%B2.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E7%94%B5%E8%A7%86%E5%8F%B0.png",深圳电视台
+http://38.64.72.148:80/hls/modn/list/4007/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png",海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E6%97%BA%E7%94%B5%E8%A7%86.png",中旺电视
+http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%20NEWS.png",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0.png",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90HD.png",中天娱乐HD
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E7%B2%BE%E9%87%87.png",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93.png",音乐频道
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83.png",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png",唯心电视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E5%8F%B0.png",东森新闻台
+https://edge1.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png",东森幼幼
+http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%95%AA%E8%96%AF111.png",番薯111
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E7%88%B1%E4%B8%80%E5%8F%B0.png",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E7%88%B1%E4%BA%8C%E5%8F%B0.png",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%9F%E5%91%BD%E7%94%B5%E8%A7%86.png",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png",唯心电视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E7%AB%8BDALI.png",大立DALI
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86.png",客家电视
+https://hc73k3dhwo5gfkt.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8E%9F%E8%A7%86.png",原视
+https://hc73k3dhwo5gfkt.wcetv.com/hls/titv.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE.png",三立台湾
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1.png",好莱坞电影
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HBOHD.png",HBOHD
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HISTORY.png",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HITS.png",HITS
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="极速港奥台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1.png",好莱坞电影
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+
 
 #EXTM3U
 #EXTINF:-1 group-title="推流专区",发现推流异常请联系店主
