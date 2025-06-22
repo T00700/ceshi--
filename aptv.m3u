@@ -61,23 +61,22 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-header="Referer=https://live.kankanews.com/" group-title="卫视IPV4",五星体育
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
+http://148.135.93.213/live.php?id=翡翠台
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="卫视IPV4",五星体育
 http://148.135.93.213/live.php?id=五星体育
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://148.135.93.213/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视IPV4",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
 http://148.135.93.213/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视IPV4",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
 http://148.135.93.213/phenix.php?id=fhhk
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.aptv.app/logo/香港卫视.png" group-title="卫视IPV4",香港卫视
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" group-title="卫视IPV4",香港卫视
 http://148.135.93.213/live.php?id=香港卫视
-
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="iPhone" group-title="卫视IPV4",湖南卫视
+http://148.135.93.213/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV4",北京卫视
 http://148.135.93.213/live.php?id=北京卫视
-
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视IPV4",湖南卫视
-http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视IPV4",浙江卫视
 http://148.135.93.213/live.php?id=浙江卫视
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视IPV4",江苏卫视
@@ -108,7 +107,7 @@ http://148.135.93.213/live.php?id=吉林卫视
 http://148.135.93.213/live.php?id=四川卫视
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV4",天津卫视
 http://148.135.93.213/live.php?id=天津卫视
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视IPV4",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent="iPhone" http-referer="https://www.ahtv.cn/" group-title="卫视IPV4",安徽卫视
 http://148.135.93.213/live.php?id=安徽卫视
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视IPV4",山东卫视
 http://148.135.93.213/live.php?id=山东卫视
@@ -136,6 +135,9 @@ http://148.135.93.213/live.php?id=黑龙江卫视
 http://148.135.93.213/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213/live.php?id=大湾区卫视
+
+#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教8K.png",北京纪实科教8K
+http://148.135.93.213/brtv8k.php
 #EXTM3U
 #EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
 http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
@@ -2661,6 +2663,18 @@ http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hoy77.png",Hoy77
+https://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoy77*.png",hoy77*
+http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoy78.png",hoy78
+http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoy78*.png",hoy78*
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoytv.png",hoytv
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoytv*.png",hoytv*
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",凤凰中文
 http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",凤凰资讯
