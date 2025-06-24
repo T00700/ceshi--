@@ -2679,84 +2679,437 @@ http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 
 #EXTM3U
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%91%E7%8E%B0%E6%8E%A8%E6%B5%81%E5%BC%82%E5%B8%B8%E8%AF%B7%E8%81%94%E7%B3%BB%E5%BA%97%E4%B8%BB.png",发现推流异常请联系店主
-https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%86%E8%B0%B7%E5%8F%B0.png",爆谷台
-https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Plus%E7%BB%BC%E5%90%88.png",Plus综合
-https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB.png",有线新闻
-https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88.png",有线综合
-https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://ali.hlspull.yximgs.com/live/awei_jade.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY77.png",HOY77
-http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY78.png",HOY78
-http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
-http://ali.hlspull.yximgs.com/live/awei_mydy.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png",中天亚洲
-http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88.png",中天综合
-http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png",东森超视
-http://ali.hlspull.yximgs.com/live/awei_dscs.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png",东森综合
-http://ali.hlspull.yximgs.com/live/awei_dszh.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.png",八大第一
-http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png",八大综合
-http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/tvbplus.png",tvbplus
-http://ali.hlspull.yximgs.com/live/awei_j2.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%B1%E5%B0%94%E8%BE%BE%E5%A8%B1%E4%B9%90.png",爱尔达娱乐
-http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80.png",民视第一
-http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE.png",民视台湾
-http://ali.hlspull.yximgs.com/live/awei_mstw.flv
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%83%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",黃金翡翠台
+https://hls-gateway.vpstv.net/streams/477554.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0HD.png",TVB翡翠台HD
+https://hls-gateway.vpstv.net/streams/476929.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0HD.png",TVB明珠台HD
+https://hls-gateway.vpstv.net/streams/476936.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBPlUS%20HD%2B.png",TVBPlUS HD+
+https://hls-gateway.vpstv.net/streams/476932.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20%E6%98%9F%E6%B2%B3.png",TVB 星河
+https://hls-gateway.vpstv.net/streams/709489.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20J1.png",TVB J1
+https://hls-gateway.vpstv.net/streams/709490.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0HD.png",无线新闻台HD
+https://hls-gateway.vpstv.net/streams/476926.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
+https://hls-gateway.vpstv.net/streams/709488.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%20.png",天映频道 
+https://hls-gateway.vpstv.net/streams/636710.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/ViUTV%20HD.png",ViUTV HD
+https://hls-gateway.vpstv.net/streams/476937.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/ViUTV6%20HD%2B.png",ViUTV6 HD+
+https://hls-gateway.vpstv.net/streams/476939.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/mytvsuper%E4%BA%9A%E6%B4%B2.png",mytvsuper亚洲
+https://hls-gateway.vpstv.net/streams/709491.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%8D%8E%E8%AF%AD%E5%8F%B0.png",TVB华语台
+https://hls-gateway.vpstv.net/streams/709492.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8F%B0.png",香港台
+https://hls-gateway.vpstv.net/streams/476923.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E6%88%8F%E6%9B%B2%E5%8F%B0.png",TVB戏曲台
+https://hls-gateway.vpstv.net/streams/709493.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
+https://hls-gateway.vpstv.net/streams/476960.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+https://hls-gateway.vpstv.net/streams/476959.m3u8
 #EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png",凤凰电影
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+https://hls-gateway.vpstv.net/streams/708910.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY76.png",HOY76
+https://hls-gateway.vpstv.net/streams/709270.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%2077.png",HOY 77
+https://hls-gateway.vpstv.net/streams/645372.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%2078.png",HOY 78
+https://hls-gateway.vpstv.net/streams/709088.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/PHK31.png",PHK31
+https://hls-gateway.vpstv.net/streams/708707.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/PHK32.png",PHK32
+https://hls-gateway.vpstv.net/streams/708708.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
+https://hls-gateway.vpstv.net/streams/709494.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW%E7%9B%B4%E6%92%AD.png",NOW直播
+https://hls-gateway.vpstv.net/streams/708921.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png",NOW新闻台
+https://hls-gateway.vpstv.net/streams/477070.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW%E8%B2%A1%E7%B6%93%E5%8F%B0.png",NOW財經台
+https://hls-gateway.vpstv.net/streams/477534.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+https://hls-gateway.vpstv.net/streams/476958.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB1.png",TVB1
+https://hls-gateway.vpstv.net/streams/476199.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/MOVIEMOVIE.png",MOVIEMOVIE
+https://hls-gateway.vpstv.net/streams/708928.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%BB%8F%E5%85%B8%E5%8F%B0.png",TVB经典台
+https://hls-gateway.vpstv.net/streams/708898.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/18%E5%8F%B0.png",18台
+https://hls-gateway.vpstv.net/streams/708886.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",美亞電影台
+https://hls-gateway.vpstv.net/streams/708901.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
+https://hls-gateway.vpstv.net/streams/708913.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E9%97%A8-MACUA.png",澳门-MACUA
+https://hls-gateway.vpstv.net/streams/708914.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/ChineseOpera%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89.png",ChineseOpera（香港）
+https://hls-gateway.vpstv.net/streams/708897.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hands%20Up.png",Hands Up
+https://hls-gateway.vpstv.net/streams/708905.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png",TVB娛樂新聞台
+https://hls-gateway.vpstv.net/streams/708904.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E7%B2%A4%E8%AF%AD%E7%89%87.png",TVB粤语片
+https://hls-gateway.vpstv.net/streams/476225.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0.png",TVB功夫台
+https://hls-gateway.vpstv.net/streams/476226.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E6%97%B6%E4%BB%A31.png",新时代1
+https://hls-gateway.vpstv.net/streams/709587.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E6%99%82%E4%BB%A32.png",新時代2
+https://hls-gateway.vpstv.net/streams/709588.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%9C%E9%83%A8.png",新时代东部
+https://hls-gateway.vpstv.net/streams/709589.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20News%20.png",TVB News 
+https://hls-gateway.vpstv.net/streams/708884.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png",澳门莲花
+https://hls-gateway.vpstv.net/streams/476223.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1%E5%8F%B0(%E7%B2%A4%E8%AF%AD).png",美亚高清电影台(粤语)
+https://hls-gateway.vpstv.net/streams/476212.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0%E5%9B%BD%E8%AF%AD.png",美亞電影台国语
+https://hls-gateway.vpstv.net/streams/477078.m3u8
 #EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+https://hls-gateway.vpstv.net/streams/709267.m3u8
 #EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%9B%BD%E9%99%85.png",星空国际
-http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Plus%E5%8D%B3%E6%97%B6.png",Plus即时
-https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%90%9C%E7%8B%90%E5%89%A7%E5%9C%BA.png",搜狐剧场
-https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E5%85%89%E7%94%B5%E5%BD%B1.png",星光电影
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8E%AF%E5%AE%87%E6%96%B0%E9%97%BB.png",环宇新闻
-https://ali.hlspull.yximgs.com/live/hyxw001.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
-https://ali.hlspull.yximgs.com/live/ztxw001.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
-https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9CTI%2B.png",中天CTI+
-https://ali.hlspull.yximgs.com/live/167ztxw2.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9CTI%2B.png",中天CTI+
-https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png",中天亚洲
-https://ali.hlspull.yximgs.com/live/167ztyz.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
-https://ali.hlspull.yximgs.com/live/167ztyl.flv
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png",寰宇新闻
-https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB.png",年代新闻
-http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%20News.png",TVBS News
-http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
-http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+https://hls-gateway.vpstv.net/streams/709269.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E7%BA%B3WBTV.png",华纳WBTV
+https://hls-gateway.vpstv.net/streams/476977.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
+https://hls-gateway.vpstv.net/streams/708918.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0.png",香港卫视综艺台
+https://hls-gateway.vpstv.net/streams/709374.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86%E8%B4%A2%E7%BB%8F%E5%8F%B0.png",香港卫视财经台
+https://hls-gateway.vpstv.net/streams/709375.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86%E6%97%B6%E5%B0%9A%E5%8F%B0.png",香港卫视时尚台
+https://hls-gateway.vpstv.net/streams/709376.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86%E6%96%87%E6%97%85%E5%8F%B0.png",香港卫视文旅台
+https://hls-gateway.vpstv.net/streams/709377.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86%E5%9B%BD%E9%99%85%E5%8F%B0%20.png",香港卫视国际台 
+https://hls-gateway.vpstv.net/streams/709378.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A6%99%E6%B8%AF%E7%8E%AF%E7%90%83%E5%8D%AB%E8%A7%86.png",香港环球卫视
+https://hls-gateway.vpstv.net/streams/709379.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/DocsVille.png",DocsVille
+https://hls-gateway.vpstv.net/streams/709452.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/ActionHollywoodMovies.png",ActionHollywoodMovies
+https://hls-gateway.vpstv.net/streams/709453.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/RialtoClassicMovies.png",RialtoClassicMovies
+https://hls-gateway.vpstv.net/streams/709454.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/PulseDocumentaries.png",PulseDocumentaries
+https://hls-gateway.vpstv.net/streams/709455.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW70s.png",NOW70s
+https://hls-gateway.vpstv.net/streams/709456.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW80s.png",NOW80s
+https://hls-gateway.vpstv.net/streams/709457.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW90s00s.png",NOW90s00s
+https://hls-gateway.vpstv.net/streams/709458.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOWROCK.png",NOWROCK
+https://hls-gateway.vpstv.net/streams/709459.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Concerto.png",Concerto
+https://hls-gateway.vpstv.net/streams/709460.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/28AI%E6%99%BA%E6%85%A7%E5%B2%9B.png",28AI智慧岛
+https://hls-gateway.vpstv.net/streams/709461.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPERSports.png",SUPERSports
+https://hls-gateway.vpstv.net/streams/709462.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%E7%8D%8E%E9%96%80%E4%BA%BA.png",SUPER獎門人
+https://hls-gateway.vpstv.net/streams/709463.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%20EYT.png",SUPER EYT
+https://hls-gateway.vpstv.net/streams/709464.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%E8%AD%98%E9%A3%9F.png",SUPER識食
+https://hls-gateway.vpstv.net/streams/709465.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%E8%AD%98%E5%98%86.png",SUPER識嘆
+https://hls-gateway.vpstv.net/streams/709466.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Now668.png",Now668
+https://hls-gateway.vpstv.net/streams/709539.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%E5%8A%87%E5%A0%B4.png",SUPER劇場
+https://hls-gateway.vpstv.net/streams/709468.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%E8%A9%B1%E7%95%B6%E5%B9%B4.png",SUPER話當年
+https://hls-gateway.vpstv.net/streams/709469.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/SUPER%20Music.png",SUPER Music
+https://hls-gateway.vpstv.net/streams/709467.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB88.png",TVB88
+https://hls-gateway.vpstv.net/streams/709540.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/CNN.png",CNN
+https://hls-gateway.vpstv.net/streams/488932.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A6%96%20HD.png",民視 HD
+https://hls-gateway.vpstv.net/streams/476986.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86%20HD.png",人间卫视 HD
+https://hls-gateway.vpstv.net/streams/488957.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A6%96%20HD.png",台視 HD
+https://hls-gateway.vpstv.net/streams/476982.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96%20HD.png",大愛電視 HD
+https://hls-gateway.vpstv.net/streams/477082.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A6%96%20HD.png",中視 HD
+https://hls-gateway.vpstv.net/streams/476983.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9C%B9%E9%9B%B3%E5%8F%B0%E6%B9%BE%20HD.png",霹雳台湾 HD
+https://hls-gateway.vpstv.net/streams/488941.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E8%A6%96%20HD.png",华視 HD
+https://hls-gateway.vpstv.net/streams/476985.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AC%E8%A6%96%20HD.png",公視 HD
+https://hls-gateway.vpstv.net/streams/476984.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0%20HD.png",幸福空間居家台 HD
+https://hls-gateway.vpstv.net/streams/488986.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%BD%E6%B6%88%E6%81%AF.png",好消息
+https://hls-gateway.vpstv.net/streams/476227.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A0%BB%E9%81%93.png",原住民頻道
+https://hls-gateway.vpstv.net/streams/476228.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0%20HD.png",客家電視台 HD
+https://hls-gateway.vpstv.net/streams/476229.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/BBC%20Earth.png",BBC Earth
+https://hls-gateway.vpstv.net/streams/477040.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Discovery.png",Discovery
+https://hls-gateway.vpstv.net/streams/476277.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TLC%E6%97%85%E9%81%8A%E5%8F%B0.png",TLC旅遊台
+https://hls-gateway.vpstv.net/streams/488939.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83.png",動物星球
+https://hls-gateway.vpstv.net/streams/477088.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/CN%E5%8D%A1%E9%80%9A.png",CN卡通
+https://hls-gateway.vpstv.net/streams/476247.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Nickjr%E5%8D%A1%E9%80%9A%E5%8F%B0.png",Nickjr卡通台
+https://hls-gateway.vpstv.net/streams/477025.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0.png",MOMO親子台
+https://hls-gateway.vpstv.net/streams/477060.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC%20HD.png",东森幼幼 HD
+https://hls-gateway.vpstv.net/streams/476246.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E7%B6%9C%E5%90%88%20HD.png",纬来綜合 HD
+https://hls-gateway.vpstv.net/streams/477086.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%AC%AC1%E5%8F%B0%20HD.png",八大第1台 HD
+https://hls-gateway.vpstv.net/streams/477071.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png",八大綜合台 HD
+https://hls-gateway.vpstv.net/streams/477069.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0%20HD.png",三立台湾台 HD
+https://hls-gateway.vpstv.net/streams/477050.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E9%83%BD%E6%9C%83%E5%8F%B0%20HD.png",三立都會台 HD
+https://hls-gateway.vpstv.net/streams/476232.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20HD.png",韓國娛樂台 HD
+https://hls-gateway.vpstv.net/streams/708919.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88%20HD.png",東森綜合 HD
+https://hls-gateway.vpstv.net/streams/476987.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96%20HD.png",東森超視 HD
+https://hls-gateway.vpstv.net/streams/476234.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A92.png",東森購物2
+https://hls-gateway.vpstv.net/streams/488988.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E4%BA%9E%E6%B4%B2%E8%A1%9B%E8%A6%96%20HD.png",東森亞洲衛視 HD
+https://hls-gateway.vpstv.net/streams/476264.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E7%B6%9C%E5%90%88%20HD.png",中天綜合 HD
+https://hls-gateway.vpstv.net/streams/477084.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png",中天亞洲台
+https://hls-gateway.vpstv.net/streams/476241.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E7%B2%BE%E5%BD%A9%E5%8F%B0.png",TVBS精彩台
+https://hls-gateway.vpstv.net/streams/477075.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90%20HD.png",中天娱乐 HD
+https://hls-gateway.vpstv.net/streams/476996.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87%20HD.png",東森戲劇 HD
+https://hls-gateway.vpstv.net/streams/476994.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0%20HD.png",八大戏剧台 HD
+https://hls-gateway.vpstv.net/streams/488934.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0%20.png",TVBS歡樂台 
+https://hls-gateway.vpstv.net/streams/477068.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E4%BE%86%E6%88%B2%E5%8A%87%20HD.png",纬來戲劇 HD
+https://hls-gateway.vpstv.net/streams/477067.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0.png",八大精彩台
+https://hls-gateway.vpstv.net/streams/477035.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/MOMOTV%20HD.png",MOMOTV HD
+https://hls-gateway.vpstv.net/streams/476239.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A93.png",東森購物3
+https://hls-gateway.vpstv.net/streams/488989.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A91.png",東森購物1
+https://hls-gateway.vpstv.net/streams/488987.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%20HD.png",三立財經新聞 HD
+https://hls-gateway.vpstv.net/streams/488992.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A3%B9%E6%96%B0%E8%81%9E%20HD.png",壹新聞 HD
+https://hls-gateway.vpstv.net/streams/488993.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB%20HD.png",年代新闻 HD
+https://hls-gateway.vpstv.net/streams/709037.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%20HD.png",東森新聞 HD
+https://hls-gateway.vpstv.net/streams/476998.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E.png",中天新聞
+https://hls-gateway.vpstv.net/streams/477695.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%20HD.png",民視新聞 HD
+https://hls-gateway.vpstv.net/streams/479210.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E%20HD.png",三立新聞 HD
+https://hls-gateway.vpstv.net/streams/492922.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0%20.png",TVBS新闻台 
+https://hls-gateway.vpstv.net/streams/708927.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%E7%B6%9C%E5%90%88%20.png",TVBS綜合 
+https://hls-gateway.vpstv.net/streams/477042.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%20HD.png",東森財經新聞 HD
+https://hls-gateway.vpstv.net/streams/477062.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%9E%E5%87%A1%E6%96%B0%E8%81%9E%20.png",非凡新聞 
+https://hls-gateway.vpstv.net/streams/477083.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%20HD.png",華視新聞 HD
+https://hls-gateway.vpstv.net/streams/476266.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E8%B4%AD%E7%89%A95.png",东森购物5
+https://hls-gateway.vpstv.net/streams/493136.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",美亞電影台
+https://hls-gateway.vpstv.net/streams/709286.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%20HD.png",東森電影 HD
+https://hls-gateway.vpstv.net/streams/476995.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%20HD.png",纬来电影 HD
+https://hls-gateway.vpstv.net/streams/477063.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E7%A5%A5%E6%99%82%E4%BB%A3%20HD.png",龍祥時代 HD
+https://hls-gateway.vpstv.net/streams/476295.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HBO%20HD.png",HBO HD
+https://hls-gateway.vpstv.net/streams/476278.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E6%B4%8B%E7%89%87%20HD.png",東森洋片 HD
+https://hls-gateway.vpstv.net/streams/476997.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/AXN%E5%A3%B9%E6%B9%BE.png",AXN壹湾
+https://hls-gateway.vpstv.net/streams/476296.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hollywood%20HD.png",Hollywood HD
+https://hls-gateway.vpstv.net/streams/477065.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A3%B9%E7%94%B5%E5%BD%B1%20HD.png",壹电影 HD
+https://hls-gateway.vpstv.net/streams/476280.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/CINEMAX.png",CINEMAX
+https://hls-gateway.vpstv.net/streams/476283.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E4%BE%86%E8%82%B2%E6%A8%82.png",纬來育樂
+https://hls-gateway.vpstv.net/streams/477081.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%20HD.png",纬来体育 HD
+https://hls-gateway.vpstv.net/streams/477026.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/DAZN%201.png",DAZN 1
+https://hls-gateway.vpstv.net/streams/639643.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/DAZN%202.png",DAZN 2
+https://hls-gateway.vpstv.net/streams/476991.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/MOMO%E7%B6%9C%E5%90%88%E5%8F%B0.png",MOMO綜合台
+https://hls-gateway.vpstv.net/streams/488940.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A3%B9%E7%B6%9C%E5%90%88%20HD.png",壹綜合 HD
+https://hls-gateway.vpstv.net/streams/709284.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%20HD.png",纬来日本 HD
+https://hls-gateway.vpstv.net/streams/477039.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9C%8B%E8%88%88%E8%A1%9B%E8%A6%96.png",國興衛視
+https://hls-gateway.vpstv.net/streams/476971.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/BBC%20Lifestyle%20HD.png",BBC Lifestyle HD
+https://hls-gateway.vpstv.net/streams/476671.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0.png",三立綜合台
+https://hls-gateway.vpstv.net/streams/476257.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/Z%E9%A2%91%E9%81%93%20HD.png",Z频道 HD
+https://hls-gateway.vpstv.net/streams/525785.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/ANIMAX.png",ANIMAX
+https://hls-gateway.vpstv.net/streams/477583.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9%20HD.png",纬来精彩 HD
+https://hls-gateway.vpstv.net/streams/476286.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0.png",寰宇新聞台
+https://hls-gateway.vpstv.net/streams/476270.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F%E5%8F%B0.png",寰宇财经台
+https://hls-gateway.vpstv.net/streams/488994.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8E%86%E5%8F%B2%E9%A2%91%E9%81%93.png",历史频道
+https://hls-gateway.vpstv.net/streams/525779.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/EYE%E6%88%B2%E5%8A%87%E5%8F%B0.png",EYE戲劇台
+https://hls-gateway.vpstv.net/streams/476287.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%A4%A7%E5%A8%9B%E6%A8%82%E5%8F%B0%20HD.png",八大娛樂台 HD
+https://hls-gateway.vpstv.net/streams/477064.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png",三立戲劇台
+https://hls-gateway.vpstv.net/streams/476288.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%9E%E5%87%A1%E5%95%86%E4%B8%9A%E5%8F%B0.png",非凡商业台
+https://hls-gateway.vpstv.net/streams/488936.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93.png",達文西頻道
+https://hls-gateway.vpstv.net/streams/493134.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%8E%A2%E7%B4%A2%E4%BA%9E%E6%B4%B2.png",探索亞洲
+https://hls-gateway.vpstv.net/streams/476978.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%A6.png",探索科学
+https://hls-gateway.vpstv.net/streams/489008.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8F%AF%E7%B4%8D%E9%9B%BB%E5%BD%B1.png",華納電影
+https://hls-gateway.vpstv.net/streams/476301.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83.png",美食星球
+https://hls-gateway.vpstv.net/streams/476263.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HGTV%E5%B1%85%E5%AE%B6%E6%A8%82%E6%B4%BB.png",HGTV居家樂活
+https://hls-gateway.vpstv.net/streams/476328.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BD%AD%E5%8D%9A%E8%B4%A2%E7%BB%8F%E5%8F%B0.png",彭博财经台
+https://hls-gateway.vpstv.net/streams/493132.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AC%E8%A6%96%E4%B8%89%E5%8F%B0%20HD.png",公視三台 HD
+https://hls-gateway.vpstv.net/streams/493131.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E7%88%B1%E4%BA%8C%E5%8F%B0%20HD.png",大爱二台 HD
+https://hls-gateway.vpstv.net/streams/493133.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A.png",亞洲旅遊
+https://hls-gateway.vpstv.net/streams/476274.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E6%B9%BE%E5%8F%B0.png",寰宇新聞台湾台
+https://hls-gateway.vpstv.net/streams/708931.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%AB%98%E7%82%B9%E7%BB%BC%E5%90%88%20HD.png",高点综合 HD
+https://hls-gateway.vpstv.net/streams/709645.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%AC%AC%E4%B8%80%E5%95%86%E6%A5%AD.png",第一商業
+https://hls-gateway.vpstv.net/streams/709648.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0%20HD.png",民視第一台 HD
+https://hls-gateway.vpstv.net/streams/476243.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B0%91%E8%A6%96%E5%8F%B0%E6%B9%BE%E5%8F%B0%20HD.png",民視台湾台 HD
+https://hls-gateway.vpstv.net/streams/476244.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%20HD.png",中視菁采 HD
+https://hls-gateway.vpstv.net/streams/476260.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E%20HD.png",中視新聞 HD
+https://hls-gateway.vpstv.net/streams/476269.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%20HD.png",台視新聞 HD
+https://hls-gateway.vpstv.net/streams/476268.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E8%A6%96%E8%B2%A1%E7%B6%93%20HD.png",台視財經 HD
+https://hls-gateway.vpstv.net/streams/476271.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/AMC%20HD%20.png",AMC HD 
+https://hls-gateway.vpstv.net/streams/477058.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HBO%20HiTS.png",HBO HiTS
+https://hls-gateway.vpstv.net/streams/476972.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/HBO%20family.png",HBO family
+https://hls-gateway.vpstv.net/streams/476973.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%9F%E5%91%BD%E7%94%B5%E8%A7%86.png",生命电视
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts\u0026cpid=admin\u0026size=1920X1080
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8F%B0%E6%B9%BE%E7%95%AA%E8%96%AF%E9%9B%BB%E8%A6%96%E5%8F%B0.png",台湾番薯電視台
+https://hls-gateway.vpstv.net/streams/495096.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png",唯心电视
+https://hls-gateway.vpstv.net/streams/709571.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95.png",博斯運動
+https://hls-gateway.vpstv.net/streams/477034.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831.png",博斯高球1
+https://hls-gateway.vpstv.net/streams/477089.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832.png",博斯高球2
+https://hls-gateway.vpstv.net/streams/477073.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B.png",博斯魅力
+https://hls-gateway.vpstv.net/streams/477598.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83.png",博斯網球
+https://hls-gateway.vpstv.net/streams/477602.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90.png",博斯無限
+https://hls-gateway.vpstv.net/streams/477603.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%202.png",博斯運動 2
+https://hls-gateway.vpstv.net/streams/477029.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%20%E2%85%A1.png",博斯無限 Ⅱ
+https://hls-gateway.vpstv.net/streams/477604.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%9C%E6%96%B0%E9%97%BBnews.png",镜新闻news
+https://hls-gateway.vpstv.net/streams/476272.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E8%8F%AF%E5%8A%A8%E7%94%BB.png",龍華动画
+https://hls-gateway.vpstv.net/streams/493135.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87%20HD.png",龙华洋片 HD
+https://hls-gateway.vpstv.net/streams/477076.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E8%8F%AF%E6%97%A5%E9%9F%93.png",龍華日韓
+https://hls-gateway.vpstv.net/streams/476231.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E8%8F%AF%E7%B6%93%E5%85%B8.png",龍華經典
+https://hls-gateway.vpstv.net/streams/476294.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1.png",龍華電影
+https://hls-gateway.vpstv.net/streams/476300.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87.png",龍華戲劇
+https://hls-gateway.vpstv.net/streams/476293.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0.png",靖天國際台
+https://hls-gateway.vpstv.net/streams/476254.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCM%20%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",CCM 天映经典
+https://hls-gateway.vpstv.net/streams/476310.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%20.png",天映频道 
+https://hls-gateway.vpstv.net/streams/636710.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",靖天電影台
+https://hls-gateway.vpstv.net/streams/476290.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB%E5%8F%B0.png",靖天映画台
+https://hls-gateway.vpstv.net/streams/476302.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0.png",靖天卡通台
+https://hls-gateway.vpstv.net/streams/476249.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0.png",靖天日本台
+https://hls-gateway.vpstv.net/streams/476256.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0.png",靖天歡樂台
+https://hls-gateway.vpstv.net/streams/476253.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0.png",靖天育樂台
+https://hls-gateway.vpstv.net/streams/481789.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0.png",靖天資訊台
+https://hls-gateway.vpstv.net/streams/476258.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0.png",靖天綜合台
+https://hls-gateway.vpstv.net/streams/476259.m3u8
+#EXTINF:-1 group-title="港澳台推流" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0.png",智林體育台
+https://hls-gateway.vpstv.net/streams/488984.m3u8
+
 
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hoy77.png",Hoy77
 https://cdn.163189.xyz/live/hoy/stream.m3u8
@@ -2842,77 +3195,35 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="港澳台频道",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",-凤凰中文
-http://ali.hlspull.yximgs.com/live/awei_fhzw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",-凤凰资讯
-http://ali.hlspull.yximgs.com/live/awei_fhzx.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",-凤凰香港
-http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png",-中天亚洲
-http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88.png",-中天综合
-http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",-中天新闻
-http://ali.hlspull.yximgs.com/live/awei_ztxw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",-翡翠台
-http://ali.hlspull.yximgs.com/live/awei_jade.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",-无线新闻
-http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",-重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-tvbplus.png",-tvbplus
-http://ali.hlspull.yximgs.com/live/awei_j2.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80.png",-民视第一
-http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE.png",-民视台湾
-http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-HOY77.png",-HOY77
-http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-HOY78.png",-HOY78
-http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",-美亚电影
-http://ali.hlspull.yximgs.com/live/awei_mydy.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png",-东森超视
-http://ali.hlspull.yximgs.com/live/awei_dscs.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png",-东森综合
-http://ali.hlspull.yximgs.com/live/awei_dszh.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.png",-八大第一
-http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png",-八大综合
-http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/-%E7%88%B1%E5%B0%94%E8%BE%BE%E5%A8%B1%E4%B9%90.png",-爱尔达娱乐
-http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
+
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0(1).png",翡翠台(1)
 https://012v4.pendy.dpdns.org/hls/a46a302c-3984-490c-847b-0ead582269e4/playlist.m3u8
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0(1).png",明珠台(1)
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
-https://ali.hlspull.yximgs.com/live/167ztyl.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2.png",中天亚洲
-https://ali.hlspull.yximgs.com/live/167ztyz.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB2.png",中天新闻2
-https://ali.hlspull.yximgs.com/live/167ztxw2.flv
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87.png",鳳凰中文
+http://bx.757888.xyz/api.php?id=fhzw
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8A.png",鳳凰資訊
+http://bx.757888.xyz/api.php?id=fhzx
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E9%A6%99%E6%B8%AF.png",鳳凰香港
+http://bx.757888.xyz/api.php?id=fhhk
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png",中天新聞台
+http://bx.757888.xyz/api.php?id=ztxw
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-https://ali.hlspull.yximgs.com/live/167_jade.flv
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-2
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://ali.hlspull.yximgs.com/live/167_wxxw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
-https://ali.hlspull.yximgs.com/live/167_fhzw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
-https://ali.hlspull.yximgs.com/live/167_fhzx.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
-https://ali.hlspull.yximgs.com/live/167_fhxg.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
-https://ali.hlspull.yximgs.com/live/167_ztxw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png",寰宇新闻
-https://ali.hlspull.yximgs.com/live/167_hyxw.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/mytvsuperfree.png",mytvsuperfree
-https://ali.hlspull.yximgs.com/live/167_mytvsuperfree.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%83%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",黃金翡翠台
-https://ali.hlspull.yximgs.com/live/167_mytvnull-3.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png",創世電視
-https://ali.hlspull.yximgs.com/live/167_mytvnull-6.flv
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-1
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-3
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBplus.png",TVBplus
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=tvbplus
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-4
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png",东森电影
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-10
+#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png",龙华电影
+http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-12
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
