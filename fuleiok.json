@@ -1174,6 +1174,16 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
+      {
+      "name": "最强央卫",
+      "type": 0,
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/iptv.png",
+       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "playerType": 2,
+      "timeout": 10
+    }, 
        {
       "name": "央卫测试",
       "type": 0,
@@ -1192,16 +1202,6 @@
       "playerType": 2,
       "timeout": 10
     },
-    {
-      "name": "最强央卫",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-       "epg":"https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo":"https://epg.v1.mk/logo/{name}.png",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "playerType": 2,
-      "timeout": 10
-    }, 
       {
       "name": "央卫港澳台最新",
       "type": 0,
@@ -1220,7 +1220,7 @@
      {
       "name": "超清测试",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/aptv.png",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
        "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -1238,7 +1238,7 @@
 {
       "name": "最强综合",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -1264,7 +1264,7 @@
     {
       "name": "综合推荐2（港澳台1）",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou11.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou11.txt",
       "playerType": 2,
       "timeout": 10
     },  
@@ -1278,7 +1278,7 @@
       {
       "name": "电影歌曲",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou13.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou13.txt",
       "playerType": 2,
       "timeout": 10
     }, 
@@ -1306,56 +1306,56 @@
    {
       "name": "最新综合推荐1",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou12.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou12.txt",
       "playerType": 2,
       "timeout": 10
     },  
      {
       "name": "最新综合推荐2",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou.txt",
       "playerType": 2,
       "timeout": 10
     },  
     {
       "name": "港澳台推荐",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou8.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou8.txt",
       "playerType": 2,
       "timeout": 10
     },  
      {
       "name": "央卫高码",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou4.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou4.txt",
       "playerType": 2,
       "timeout": 10
     }, 
      {
       "name": "最新港澳台1",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou2.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou2.txt",
       "playerType": 2,
       "timeout": 10
     },
      {
       "name": "最新港澳台2",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou3.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou3.txt",
       "playerType": 2,
       "timeout": 10
     },
     {
       "name": "最新港澳台3",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou5.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou5.txt",
       "playerType": 2,
       "timeout": 10
     },
     {
       "name": "最新港澳台4",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/88.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/88.txt",
       "playerType": 2,
       "timeout": 10
     },  
@@ -1369,7 +1369,7 @@
     {
       "name": "超清测试2",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/ceshi987.m3u",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/ceshi123.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
        "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -1379,7 +1379,7 @@
     {
       "name": "港澳台测试",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou6.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou6.txt",
       "playerType": 2,
       "timeout": 10
     }, 
@@ -1395,9 +1395,7 @@
     {
       "name": "移动宽带专用",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
-
-41bf63ae4ea0/1739616589773/zq.txt",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt",
       "playerType": 2,
       "timeout": 10,
       "catchup": {
@@ -1421,7 +1419,7 @@
       {
       "name": "芙蕾独享2",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou7.txt",
+      "url": "https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/xiyou7.txt",
       "playerType": 2
     },
   {
