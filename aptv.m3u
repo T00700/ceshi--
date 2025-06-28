@@ -270,6 +270,25 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionI
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
+http://www.python888.top:2025/python.php?id=fhzw
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
+http://www.python888.top:2025/python.php?id=fhzx
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E7%A5%96%E5%9B%BD%E5%90%8C%E8%83%9E.png",凤凰香港
+http://www.python888.top:2025/python.php?id=fhhk
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png",凤凰香港台
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
 http://www.python888.top:2025/python.php?id=cctv1
