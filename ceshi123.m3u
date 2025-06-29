@@ -943,6 +943,37 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K欣赏",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4K.png",CCTV4K
+http://ott.mobaibox.com/PLTV/4/224/3221228228/1.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4K.png",CCTV4K
+http://ott.mobaibox.com/PLTV/4/224/3221228472/1.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8K.png",CCTV8K
+http://ott.mobaibox.com/PLTV/3/224/3221228165/1.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png",江苏卫视4K
+http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://ott.mobaibox.com/PLTV/*/224/3221228589/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
+http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
+http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%B5%E5%BD%B1.png",电影
+http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4K.png",CCTV4K
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AF%E4%BA%AB4K.png",纯享4K
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="江苏移动4K" tvg-logo="https://www.lysvc.cc/TVLogo/img/4K%E4%BF%AE%E5%A4%8D.png",4K修复
+http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
+
+
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="NewTV",黑莓电影
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="NewTV",黑莓动画
