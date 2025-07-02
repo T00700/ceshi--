@@ -4750,7 +4750,48 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 
 
-
+#EXTM3U
+#EXTINF:-1 group-title="地方频道",无锡新闻
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",无锡都市
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",无锡移动
+http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
+#EXTINF:-1 group-title="地方频道",无锡教育
+https://tv.wxjy.com.cn:9001/tvwebstream/tv_channel_1359/index.m3u8
+#EXTINF:-1 group-title="地方频道",无锡江阴新闻
+http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1 group-title="地方频道",无锡宜兴新闻
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1 group-title="地方频道",无锡宜兴紫砂
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
+#EXTINF:-1 group-title="地方频道",宜兴电视台
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1 group-title="地方频道",宜兴紫砂频道
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu2.png",江苏城市
+https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu3.png",江苏综艺
+https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu4.png",江苏影视
+https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png",江苏教育
+https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png",江苏体育休闲
+https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou2.png",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png",苏州生活资讯
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png",四川新闻
 http://wouu.net:9977/udp/239.93.0.47:5140
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan8.png",峨眉电影
@@ -4809,23 +4850,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.cn/tv/之江记录.png",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu2.png",江苏城市
-https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu3.png",江苏综艺
-https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu4.png",江苏影视
-https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png",江苏教育
-https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png",江苏体育休闲
-https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png",苏州新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou2.png",苏州社会经济
-https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png",苏州文化生活
-https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png",苏州生活资讯
+
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.cn/tv/内蒙古新闻综合.png",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
