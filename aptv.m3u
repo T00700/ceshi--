@@ -3,6 +3,139 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u
 
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
+http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
+http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
+http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
+http://39.134.64.87:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
+http://39.134.64.87:6610/PLTV/88888888/224/3221226010/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
+http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
+http://39.134.64.87:6610/PLTV/88888888/224/3221225734/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://39.134.64.87:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://39.134.64.87:6610/PLTV/88888888/224/3221225730/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://39.134.64.87:6610/PLTV/88888888/224/3221226565/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://39.134.64.87:6610/PLTV/88888888/224/3221225597/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://39.134.64.87:6610/PLTV/88888888/224/3221225731/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://39.134.64.87:6610/PLTV/88888888/224/3221226568/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://39.134.64.87:6610/PLTV/88888888/224/3221226011/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://39.134.64.87:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://39.134.64.87:6610/PLTV/88888888/224/3221226571/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
+http://39.134.64.87:6610/PLTV/88888888/224/3221226591/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
+http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
+http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
+http://39.134.64.87:6610/PLTV/88888888/224/3221225601/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
+http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
+http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV1.png",CETV1
+http://39.134.64.87:6610/PLTV/88888888/224/3221225652/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV2.png",CETV2
+http://39.134.64.87:6610/PLTV/88888888/224/3221226425/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV4.png",CETV4
+http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=、
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226307/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226345/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226339/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226397/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226546/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226327/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226406/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226459/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226477/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226338/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226341/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226344/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226248/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226313/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226549/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226409/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226474/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226323/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226389/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226392/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226439/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226444/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226454/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226457/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226460/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226516/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png",山东教育卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png",安多卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
+http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教8K.png",北京纪实科教8K
+http://148.135.93.213/brtv8k.php
+
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="央视IPV4",重温经典
 http://148.135.93.213/live.php?id=重温经典
@@ -136,139 +269,8 @@ http://148.135.93.213/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213/live.php?id=大湾区卫视
 
-#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教8K.png",北京纪实科教8K
-http://148.135.93.213/brtv8k.php
+
 #EXTM3U
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
-http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
-http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
-http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
-http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
-http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
-http://39.134.64.87:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
-http://39.134.64.87:6610/PLTV/88888888/224/3221226010/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
-http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
-http://39.134.64.87:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
-http://39.134.64.87:6610/PLTV/88888888/224/3221225734/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
-http://39.134.64.87:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
-http://39.134.64.87:6610/PLTV/88888888/224/3221225730/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
-http://39.134.64.87:6610/PLTV/88888888/224/3221226565/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
-http://39.134.64.87:6610/PLTV/88888888/224/3221225597/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
-http://39.134.64.87:6610/PLTV/88888888/224/3221225731/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
-http://39.134.64.87:6610/PLTV/88888888/224/3221226568/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://39.134.64.87:6610/PLTV/88888888/224/3221226011/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://39.134.64.87:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://39.134.64.87:6610/PLTV/88888888/224/3221226571/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
-http://39.134.64.87:6610/PLTV/88888888/224/3221226591/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
-http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
-http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
-http://39.134.64.87:6610/PLTV/88888888/224/3221225601/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
-http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
-http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV1.png",CETV1
-http://39.134.64.87:6610/PLTV/88888888/224/3221225652/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV2.png",CETV2
-http://39.134.64.87:6610/PLTV/88888888/224/3221226425/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV4.png",CETV4
-http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=、
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226307/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226345/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226339/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226397/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226546/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226327/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226406/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226459/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226477/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226338/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226341/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226344/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226248/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226313/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226549/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226409/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226474/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226323/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226389/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226392/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226439/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226444/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226454/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226457/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226460/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226516/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png",山东教育卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png",安多卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 
 #EXTINF:-1 group-title="凤凰秀" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
 http://www.python888.top:2025/python.php?id=fhzw
