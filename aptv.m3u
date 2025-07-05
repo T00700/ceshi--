@@ -4498,6 +4498,10 @@ https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359
 https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png",江苏体育休闲
 https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png",江苏体育
+http://ott.mobaibox.com/PLTV/1/224/3221225935/index.m3u8
+#EXTINF:-1 group-title="地方频道",徐州二套
+http://ott.mobaibox.com/PLTV/1/224/3221225947/index.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou2.png",苏州社会经济
