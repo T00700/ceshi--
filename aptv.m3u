@@ -6345,190 +6345,23 @@ http://tvbox6.icu/tv/migu.php?id=hxjc
 http://tvbox6.icu/tv/migu.php?id=qcxj
 #EXTINF:-1 group-title="上海频道",游戏风云
 http://tvbox6.icu/tv/migu.php?id=yxfy
-#EXTINF:-1 tvg-id="1905国外电影" tvg-name="1905国外电影" tvg-logo="http://logo.diyp.site:49377/logo.php?1905国外电影" group-title="广东频道",1905国外电影
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://183.61.168.1/hlslive.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-#EXTINF:-1 tvg-id="1905国内电影" tvg-name="1905国内电影" tvg-logo="http://logo.diyp.site:49377/logo.php?1905国内电影" group-title="广东频道",1905国内电影
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://183.61.168.1/hlslive.ks-cdn.m1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育" group-title="广东频道",广东体育
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://218.15.20.81:3388/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="广东频道",广东卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://218.15.20.81:3388/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="广东频道",大湾区卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://218.15.20.81:3388/hls/13/index.m3u8
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="http://logo.diyp.site:49377/logo.php?广东经济科教" group-title="广东频道",广东经济科教
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://218.15.20.81:3388/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="http://logo.diyp.site:49377/logo.php?重温经典" group-title="广东频道",重温经典
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东影视" group-title="广东频道",广东影视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://218.15.20.81:3388/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="http://logo.diyp.site:49377/logo.php?广东新闻" group-title="广东频道",广东新闻
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://218.15.20.81:3388/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育" group-title="广东频道",广东体育
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://222.128.55.152:9080/live/gdty.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://222.128.55.152:9080/live/gdzj.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="广东频道",大湾区卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东影视" group-title="广东频道",广东影视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://222.128.55.152:9080/live/gdys.m3u8
-#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="http://logo.diyp.site:49377/logo.php?广东民生" group-title="广东频道",广东民生
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://222.128.55.152:9080/live/gdms.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育" group-title="广东频道",广东体育
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育" group-title="广东频道",广东体育
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?星空卫视" group-title="广东频道",星空卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://219.135.180.210:18888/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育" group-title="广东频道",广东体育
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-https://ali.hlspull.yximgs.com/live/diyp_gdty.flv
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://103.85.23.157/php2/stjd2026.php?id=广东珠江
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育" group-title="广东频道",广东体育
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://103.85.23.157/php2/stjd2027.php?id=广东体育
-#EXTINF:-1 tvg-id="广东珠江（高清）" tvg-name="广东珠江（高清）" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江（高清）" group-title="广东频道",广东珠江（高清）
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/0019_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="经济科教（高清）" tvg-name="经济科教（高清）" tvg-logo="http://logo.diyp.site:49377/logo.php?经济科教（高清）" group-title="广东频道",经济科教（高清）
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="广东频道",大湾区卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1001_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东影视" group-title="广东频道",广东影视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="南方购物（高清）" tvg-name="南方购物（高清）" tvg-logo="http://logo.diyp.site:49377/logo.php?南方购物（高清）" group-title="广东频道",南方购物（高清）
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1003_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="http://logo.diyp.site:49377/logo.php?广东少儿" group-title="广东频道",广东少儿
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="http://logo.diyp.site:49377/logo.php?广东民生" group-title="广东频道",广东民生
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="http://logo.diyp.site:49377/logo.php?广东新闻" group-title="广东频道",广东新闻
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1006_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="广东体育（高清）" tvg-name="广东体育（高清）" tvg-logo="http://logo.diyp.site:49377/logo.php?广东体育（高清）" group-title="广东频道",广东体育（高清）
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="http://logo.diyp.site:49377/logo.php?嘉佳卡通" group-title="广东频道",嘉佳卡通
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="广东卫视（高清）" tvg-name="广东卫视（高清）" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视（高清）" group-title="广东频道",广东卫视（高清）
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1009_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://logo.diyp.site:49377/logo.php?翡翠台" group-title="广东频道",翡翠台
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1032_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="澳视澳门（高清）" tvg-name="澳视澳门（高清）" tvg-logo="http://logo.diyp.site:49377/logo.php?澳视澳门（高清）" group-title="广东频道",澳视澳门（高清）
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1033_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="http://logo.diyp.site:49377/logo.php?凤凰中文台" group-title="广东频道",凤凰中文台
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1034_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://logo.diyp.site:49377/logo.php?明珠台" group-title="广东频道",明珠台
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1035_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="http://logo.diyp.site:49377/logo.php?CHC高清电影" group-title="广东频道",CHC高清电影
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1037_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://logo.diyp.site:49377/logo.php?CHC动作电影" group-title="广东频道",CHC动作电影
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1038_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://logo.diyp.site:49377/logo.php?CHC家庭影院" group-title="广东频道",CHC家庭影院
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://113.105.29.43:60901/tsfile/live/1039_1.m3u8?key=txiptv
+
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png",广东影视
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png",广东民生
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png",大湾区卫视
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_dwq.flv
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/1259/64k.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="广东频道",大湾区卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8-IPv6
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="广东频道",大湾区卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8-IPv6
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="广东频道",大湾区卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8-IPv6
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://logo.diyp.site:49377/logo.php?广州综合" group-title="广东频道",广州综合
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
@@ -6565,26 +6398,6 @@ http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="广东频道",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="广东频道",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="广东频道",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="广东频道",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="广东频道",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="http://logo.diyp.site:49377/logo.php?广州新闻" group-title="广东频道",广州新闻
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
@@ -6633,30 +6446,6 @@ http://php.jdshipin.com:8880/gztv.php?id=fazhi
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳都市" group-title="广东频道",深圳都市
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://116.77.32.59:8277/szds/playlist.m3u8
-#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳电视剧" group-title="广东频道",深圳电视剧
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://116.77.32.59:8277/szdsj/playlist.m3u8
-#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳电视剧" group-title="广东频道",深圳电视剧
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://116.77.32.59:8277/streams/d/szdsj/playlist.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="广东频道",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://116.77.32.59:8277/streams/d/szws/playlist.m3u8
-#EXTINF:-1 tvg-id="深圳龙岗" tvg-name="深圳龙岗" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳龙岗" group-title="广东频道",深圳龙岗
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://zhfw-t.szlg.com:8080/live/television1.m3u8
-#EXTINF:-1 tvg-id="深圳众创" tvg-name="深圳众创" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳众创" group-title="广东频道",深圳众创
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://zhfw-t.szlg.com:8080/live/television2.m3u8
 #EXTINF:-1 tvg-id="番禺电视台" tvg-name="番禺电视台" tvg-logo="http://logo.diyp.site:49377/logo.php?番禺电视台" group-title="广东频道",番禺电视台
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
@@ -6669,42 +6458,10 @@ http://php.jdshipin.com:8880/0769.php?id=xwzh
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://php.jdshipin.com:8880/0769.php?id=shzx
-#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="http://logo.diyp.site:49377/logo.php?佛山综合" group-title="广东频道",佛山综合
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://php.jdshipin.com:8880/fstv.php?id=fszh
-#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="http://logo.diyp.site:49377/logo.php?佛山影视" group-title="广东频道",佛山影视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://php.jdshipin.com:8880/fstv.php?id=fsys
-#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="http://logo.diyp.site:49377/logo.php?佛山南海" group-title="广东频道",佛山南海
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://php.jdshipin.com:8880/fstv.php?id=fsnh
-#EXTINF:-1 tvg-id="佛山高明" tvg-name="佛山高明" tvg-logo="http://logo.diyp.site:49377/logo.php?佛山高明" group-title="广东频道",佛山高明
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://php.jdshipin.com:8880/fstv.php?id=fsgm
-#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="http://logo.diyp.site:49377/logo.php?云浮综合" group-title="广东频道",云浮综合
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-https://livestream.oeeee.com/slive/17806.m3u8
-#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="http://logo.diyp.site:49377/logo.php?云浮文旅" group-title="广东频道",云浮文旅
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-https://livestream.oeeee.com/slive/17807.m3u8
 #EXTINF:-1 tvg-id="广东韶关综合蓝光扩展" tvg-name="广东韶关综合蓝光扩展" tvg-logo="http://logo.diyp.site:49377/logo.php?广东韶关综合蓝光扩展" group-title="广东频道",广东韶关综合蓝光扩展
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 tvg-id="广东云浮综合" tvg-name="广东云浮综合" tvg-logo="http://logo.diyp.site:49377/logo.php?广东云浮综合" group-title="广东频道",广东云浮综合
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-https://livestream.oeeee.com/slive/17806.m3u8
-#EXTINF:-1 tvg-id="广东云浮文旅" tvg-name="广东云浮文旅" tvg-logo="http://logo.diyp.site:49377/logo.php?广东云浮文旅" group-title="广东频道",广东云浮文旅
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-https://livestream.oeeee.com/slive/17807.m3u8
 #EXTINF:-1 tvg-id="广东河源公共" tvg-name="广东河源公共" tvg-logo="http://logo.diyp.site:49377/logo.php?广东河源公共" group-title="广东频道",广东河源公共
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
