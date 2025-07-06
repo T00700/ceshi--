@@ -540,6 +540,65 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="FASHIONONE" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/FASHIONONE.png"group-title="极速全网通" ,FASHIONONE
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://139.155.142.13:9177/miguHD.php?id=CCTV1
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
+http://139.155.142.13:9177/miguHD.php?id=CCTV2
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
+http://139.155.142.13:9177/miguHD.php?id=CCTV3
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
+http://139.155.142.13:9177/miguHD.php?id=CCTV4
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
+http://139.155.142.13:9177/miguHD.php?id=CCTV5
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5%2B.png",CCTV5+
+http://139.155.142.13:9177/miguHD.php?id=CCTV5p
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
+http://139.155.142.13:9177/miguHD.php?id=CCTV6
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
+http://139.155.142.13:9177/miguHD.php?id=CCTV7
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
+http://139.155.142.13:9177/miguHD.php?id=CCTV8
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
+http://139.155.142.13:9177/miguHD.php?id=CCTV9
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://139.155.142.13:9177/miguHD.php?id=CCTV10
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://139.155.142.13:9177/miguHD.php?id=CCTV11
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://139.155.142.13:9177/miguHD.php?id=CCTV12
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
+http://139.155.142.13:9177/miguHD.php?id=CCTV13
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
+http://139.155.142.13:9177/miguHD.php?id=CCTV14
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
+http://139.155.142.13:9177/miguHD.php?id=CCTV15
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
+http://139.155.142.13:9177/miguHD.php?id=CCTV17
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC影迷电影
+http://139.155.142.13:9177/miguHD.php?id=CHC影迷电影
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC家庭影院
+http://139.155.142.13:9177/miguHD.php?id=CHC家庭影院
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",CHC动作电影
+http://139.155.142.13:9177/miguHD.php?id=CHC动作电影
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://139.155.142.13:9177/miguHD.php?id=东方卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://139.155.142.13:9177/miguHD.php?id=广东卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://139.155.142.13:9177/miguHD.php?id=江苏卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://139.155.142.13:9177/miguHD.php?id=江西卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://139.155.142.13:9177/miguHD.php?id=河南卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://139.155.142.13:9177/miguHD.php?id=浙江卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://139.155.142.13:9177/miguHD.php?id=湖北卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://139.155.142.13:9177/miguHD.php?id=陕西卫视
+#EXTINF:-1 group-title="全网通备" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://198.16.100.186:8278/beijing/playlist.m3u8?tid=MD5D2836914028369140&ct=20273&tsum=a5b068469f28162e31477052e2de91d6
 
 
 #EXTM3U
@@ -1130,118 +1189,103 @@ http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/ind
 
 
 #EXTM3U
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-1
-http://www.youwojipin.com:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-2
-http://www.youwojipin.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-3
-http://www.youwojipin.com:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-4
-http://www.youwojipin.com:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-5
-http://www.youwojipin.com:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-6
-http://www.youwojipin.com:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-7
-http://www.youwojipin.com:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-8
-http://www.youwojipin.com:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-9
-http://www.youwojipin.com:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-10
-http://www.youwojipin.com:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-11
-http://www.youwojipin.com:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-12
-http://www.youwojipin.com:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-13
-http://www.youwojipin.com:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-14
-http://www.youwojipin.com:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-15
-http://www.youwojipin.com:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-16
-http://www.youwojipin.com:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-17
-http://www.youwojipin.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-18
-http://www.youwojipin.com:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-19
-http://www.youwojipin.com:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-20
-http://www.youwojipin.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-21
-http://www.youwojipin.com:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-22
-http://www.youwojipin.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-23
-http://www.youwojipin.com:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-24
-http://www.youwojipin.com:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-25
-http://www.youwojipin.com:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-26
-http://www.youwojipin.com:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-27
-http://www.youwojipin.com:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-28
-http://www.youwojipin.com:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-29
-http://www.youwojipin.com:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-30
-http://www.youwojipin.com:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-31
-http://www.youwojipin.com:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-32
-http://www.youwojipin.com:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-33
-http://www.youwojipin.com:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-34
-http://www.youwojipin.com:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-35
-http://www.youwojipin.com:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-36
-http://www.youwojipin.com:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-37
-http://www.youwojipin.com:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-38
-http://www.youwojipin.com:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-39
-http://www.youwojipin.com:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-40
-http://www.youwojipin.com:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-41
-http://www.youwojipin.com:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-42
-http://www.youwojipin.com:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-43
-http://www.youwojipin.com:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-44
-http://www.youwojipin.com:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_咪视通-45
-http://www.youwojipin.com:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-1
-http://www.youwojipin.com:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-2
-http://www.youwojipin.com:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-3
-http://www.youwojipin.com:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-4
-http://www.youwojipin.com:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-5
-http://www.youwojipin.com:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_湖南bblive-6
-http://www.youwojipin.com:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_易视腾-1
-http://www.youwojipin.com:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_易视腾-2
-http://www.youwojipin.com:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_易视腾-3
-http://www.youwojipin.com:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_易视腾-4
-http://www.youwojipin.com:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪咕体育",咪咕视频_8M1080_易视腾-5
-http://www.youwojipin.com:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="咪咕体育",咪咕1-4K
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕2-4K
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播4
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播5
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播6
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播7
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播9
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播10
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播11
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播12
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播13
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播14
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播15
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播16
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播17
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播18
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播19
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播20
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播21
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播22
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播23
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播24
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播25
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播26
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播27
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播28
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播29
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播30
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播31
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播32
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播33
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播34
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播35
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播36
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播37
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",咪咕直播38
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩广场舞39
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩广场舞40
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩青少41
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩竞技42
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩篮球43
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩竞技44
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩篮球45
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="咪咕体育",睛彩青少
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1
+
 
 
 
