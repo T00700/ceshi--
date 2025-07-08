@@ -3180,6 +3180,13 @@ http://bx.757888.xyz/api.php?id=mz
 http://bx.757888.xyz/api.php?id=wxxw
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",美亞電影台
 http://bx.757888.xyz/api.php?id=meiya
+#EXTINF:-1 group-title="稳定港澳台",动物星球
+http://122.117.71.103:8633/动物星球.m3u8
+#EXTINF:-1 group-title="稳定港澳台",动物星球1
+http://198.16.100.186:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#EXTINF:-1 group-title="稳定港澳台",动物星球2
+http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+
 
 #EXTM3U
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
