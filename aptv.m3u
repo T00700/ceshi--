@@ -6257,18 +6257,23 @@ https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="陕西频道",陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西公共
-http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西乐家购物
-http://gxlive.snrtv.com/sx6-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西生活
-http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西体育休闲
-http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西卫视
+video://http://live.snrtv.com/star
+#EXTINF:-1 group-title="陕西频道",农林卫视
+video://http://live.snrtv.com/nl
 #EXTINF:-1 group-title="陕西频道",陕西新闻资讯
-http://gxlive.snrtv.com/sx1-SD.m3u8
+video://http://live.snrtv.com/1
+#EXTINF:-1 group-title="陕西频道",陕西都市青春
+video://http://live.snrtv.com/2
+#EXTINF:-1 group-title="陕西频道",陕西银龄
+video://http://live.snrtv.com/3
+#EXTINF:-1 group-title="陕西频道",陕西秦腔
+video://http://live.snrtv.com/5
+#EXTINF:-1 group-title="陕西频道",陕西乐家购物
+video://http://live.snrtv.com/6
+#EXTINF:-1 group-title="陕西频道",陕西体育休闲
+video://http://live.snrtv.com/7
+
 #EXTINF:-1 group-title="陕西频道",西安新闻综合
 http://xatv-yt.xiancity.cn/live/1/index.m3u8
 #EXTINF:-1 group-title="陕西频道",西安都市
