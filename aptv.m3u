@@ -6257,9 +6257,22 @@ https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="陕西频道",陕西卫视
-video://http://live.snrtv.com/star
 #EXTINF:-1 group-title="陕西频道",农林卫视
+http://stream.snrtv.com/sxbc-nl-cewBJ7.m3u8
+#EXTINF:-1 group-title="陕西频道",新闻资讯
+http://stream.snrtv.com/sxbc-1-cjlpLU.m3u8
+#EXTINF:-1 group-title="陕西频道",都市青春
+http://stream.snrtv.com/sxbc-2-rwDOQ7.m3u8
+#EXTINF:-1 group-title="陕西频道",银龄
+http://stream.snrtv.com/sxbc-3-btFOZ5.m3u8
+#EXTINF:-1 group-title="陕西频道",秦腔
+http://stream.snrtv.com/sxbc-5-nvzP25.m3u8
+#EXTINF:-1 group-title="陕西频道",体育休闲
+http://stream.snrtv.com/sxbc-7-dfiHSY.m3u8
+#EXTINF:-1 group-title="陕西频道",移动
+http://stream.snrtv.com/sxbc-yd-dioN05.m3u8
+
+#EXTINF:-1 group-title="陕西频道",农林卫视+
 video://http://live.snrtv.com/nl
 #EXTINF:-1 group-title="陕西频道",陕西新闻资讯
 video://http://live.snrtv.com/1
