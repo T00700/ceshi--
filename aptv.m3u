@@ -322,116 +322,108 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
-
 #EXTM3U
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
-http://www.python888.top:2025/python.php?id=cctv1
+http://2099.tv12.xyz/19_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
-http://www.python888.top:2025/python.php?id=cctv2
+http://2099.tv12.xyz/20_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
-http://www.python888.top:2025/python.php?id=cctv3
+http://2099.tv12.xyz/21_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
-http://www.python888.top:2025/python.php?id=cctv4
+http://2099.tv12.xyz/22_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
-http://www.python888.top:2025/python.php?id=cctv5
+http://2099.tv12.xyz/23_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5%2B.png",CCTV5+
-http://www.python888.top:2025/python.php?id=cctv5p
+http://2099.tv12.xyz/24_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
-http://www.python888.top:2025/python.php?id=cctv6
+http://2099.tv12.xyz/25_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
-http://www.python888.top:2025/python.php?id=cctv7
+http://2099.tv12.xyz/26_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
-http://www.python888.top:2025/python.php?id=cctv8
+http://2099.tv12.xyz/27_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
-http://www.python888.top:2025/python.php?id=cctv9
+http://2099.tv12.xyz/28_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
-http://www.python888.top:2025/python.php?id=cctv10
+http://2099.tv12.xyz/29_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
-http://www.python888.top:2025/python.php?id=cctv11
+http://2099.tv12.xyz/30_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
-http://www.python888.top:2025/python.php?id=cctv12
+http://2099.tv12.xyz/31_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://www.python888.top:2025/python.php?id=cctv13
+http://2099.tv12.xyz/32_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
-http://www.python888.top:2025/python.php?id=cctv14
+http://2099.tv12.xyz/33_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
-http://www.python888.top:2025/python.php?id=cctv15
+http://2099.tv12.xyz/34_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
-http://www.python888.top:2025/python.php?id=cctv16
+http://2099.tv12.xyz/35_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
-http://www.python888.top:2025/python.php?id=cctv17
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
-http://www.python888.top:2025/python.php?id=fhzw
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
-http://www.python888.top:2025/python.php?id=fhzx
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E7%A5%96%E5%9B%BD%E5%90%8C%E8%83%9E.png",凤凰香祖国同胞
-http://www.python888.top:2025/python.php?id=fhhk
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
-http://www.python888.top:2025/python.php?id=hunws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
-http://www.python888.top:2025/python.php?id=zjws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
-http://www.python888.top:2025/python.php?id=jsws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
-http://www.python888.top:2025/python.php?id=gdws
+http://2099.tv12.xyz/36_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
-http://www.python888.top:2025/python.php?id=dfws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
-http://www.python888.top:2025/python.php?id=dnws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
-http://www.python888.top:2025/python.php?id=lnws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
-http://www.python888.top:2025/python.php?id=szws
+http://2099.tv12.xyz/37_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://2099.tv12.xyz/38_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
-http://www.python888.top:2025/python.php?id=tjws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
-http://www.python888.top:2025/python.php?id=ahws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
-http://www.python888.top:2025/python.php?id=hbws1
+http://2099.tv12.xyz/39_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
-http://www.python888.top:2025/python.php?id=cqws
+http://2099.tv12.xyz/40_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
-http://www.python888.top:2025/python.php?id=jlws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
-http://www.python888.top:2025/python.php?id=hljws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
-http://www.python888.top:2025/python.php?id=sdws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
-http://www.python888.top:2025/python.php?id=hinws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
-http://www.python888.top:2025/python.php?id=gzws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
-http://www.python888.top:2025/python.php?id=hubws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
-http://www.python888.top:2025/python.php?id=hnws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
-http://www.python888.top:2025/python.php?id=gxws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
-http://www.python888.top:2025/python.php?id=jxws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
-http://www.python888.top:2025/python.php?id=sxws1
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
-http://www.python888.top:2025/python.php?id=nxws
+http://2099.tv12.xyz/41_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://2099.tv12.xyz/42_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
-http://www.python888.top:2025/python.php?id=nmgws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
-http://www.python888.top:2025/python.php?id=xzws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
-http://www.python888.top:2025/python.php?id=scws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
-http://www.python888.top:2025/python.php?id=sxws
+http://2099.tv12.xyz/43_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://2099.tv12.xyz/44_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
-http://www.python888.top:2025/python.php?id=gsws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
-http://www.python888.top:2025/python.php?id=xjws
+http://2099.tv12.xyz/45_1752408214496.m3u8
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
-http://www.python888.top:2025/python.php?id=qhws
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV1.png",CETV1
-http://www.python888.top:2025/python.php?id=cetv1
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV2.png",CETV2
-http://www.python888.top:2025/python.php?id=cetv2
-#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV4.png",CETV4
-http://www.python888.top:2025/python.php?id=cetv4
+http://2099.tv12.xyz/46_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://2099.tv12.xyz/47_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://2099.tv12.xyz/48_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://2099.tv12.xyz/49_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://2099.tv12.xyz/50_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://2099.tv12.xyz/51_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://2099.tv12.xyz/52_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://2099.tv12.xyz/53_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://2099.tv12.xyz/54_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://2099.tv12.xyz/55_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://2099.tv12.xyz/56_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://2099.tv12.xyz/57_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://2099.tv12.xyz/58_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://2099.tv12.xyz/59_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://2099.tv12.xyz/60_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://2099.tv12.xyz/61_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://2099.tv12.xyz/62_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://2099.tv12.xyz/63_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://2099.tv12.xyz/64_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://2099.tv12.xyz/65_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://2099.tv12.xyz/66_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://2099.tv12.xyz/67_1752408214496.m3u8
+#EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://2099.tv12.xyz/68_1752408214496.m3u8
+
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://www.python888.top:2025/python.php?id=jykt
 #EXTINF:-1 group-title="极速央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
