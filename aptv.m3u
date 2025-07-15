@@ -1442,54 +1442,58 @@ http://8.138.7.223/tv/lotustv.m3u8
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%9B%BD%E9%99%85.png",星空国际
 http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW%E4%BD%93%E8%82%B23.png",NOW体育3
-https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
-https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
-https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.png",寰宇新闻台
-https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/NOW%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",NOW新闻频道
-https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
-http://1.95.83.42:9908/fhx.php?id=fhhk
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
-http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBJ1.png",TVBJ1
-https://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY77.png",HOY77
-https://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="稳定港澳台",翡翠台
+http://erp.giihgtidg.com:8080/live/jade01.m3u8
+#EXTINF:-1 group-title="稳定港澳台",无线新闻
+http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+#EXTINF:-1 group-title="稳定港澳台",POPC
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogepopc.flv
+#EXTINF:-1 group-title="稳定港澳台",有线18
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
+#EXTINF:-1 group-title="稳定港澳台",广电翡翠
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+#EXTINF:-1 group-title="稳定港澳台",tvbplus
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus02.flv
+#EXTINF:-1 group-title="稳定港澳台",Hoy77
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+#EXTINF:-1 group-title="稳定港澳台",Hoy78
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+#EXTINF:-1 group-title="稳定港澳台",Now爆谷
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+#EXTINF:-1 group-title="稳定港澳台",Now星影
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
+#EXTINF:-1 group-title="稳定港澳台",Now新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
+#EXTINF:-1 group-title="稳定港澳台",东森新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
+#EXTINF:-1 group-title="稳定港澳台",中天新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+#EXTINF:-1 group-title="稳定港澳台",中天新闻2
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+#EXTINF:-1 group-title="稳定港澳台",寰宇新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
+#EXTINF:-1 group-title="稳定港澳台",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="稳定港澳台",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="稳定港澳台",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="稳定港澳台",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="稳定港澳台",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="稳定港澳台",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-33%E9%A2%91%E9%81%93.png",RTHK-33频道
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-34%E9%A2%91%E9%81%93.png",RTHK-34频道
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-35%E9%A2%91%E9%81%93.png",RTHK-35频道
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
-https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9CTI%2B.png",中天CTI+
-https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png",寰宇新闻
-https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB.png",年代新闻
-http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%20News.png",TVBS News
-http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
-http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/18%E5%8F%B0.png",18台
 http://bx.757888.xyz/api.php?id=18
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
 http://bx.757888.xyz/api.php?id=tvbp
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%B6%93%E5%85%B8%E9%A0%BB%E9%81%93.png",天映經典頻道
-http://bx.757888.xyz/api.php?id=tyjd
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
 http://bx.757888.xyz/api.php?id=mz
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%84%A1%E7%B7%9A%E6%96%B0%E8%81%9E%E5%8F%B0.png",無線新聞台
@@ -1497,11 +1501,7 @@ http://bx.757888.xyz/api.php?id=wxxw
 #EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",美亞電影台
 http://bx.757888.xyz/api.php?id=meiya
 #EXTINF:-1 group-title="稳定港澳台",动物星球
-http://122.117.71.103:8633/动物星球.m3u8
-#EXTINF:-1 group-title="稳定港澳台",动物星球1
 http://198.16.100.186:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 group-title="稳定港澳台",动物星球2
-http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 #EXTINF:-1 group-title="稳定港澳台",纬来体育
 http://live.catvod.com/smart.php?id=videolandsport
 #EXTINF:-1 group-title="稳定港澳台",纬来体育备
@@ -1588,22 +1588,10 @@ http://php.jdshipin.com/smt.php?id=Xinhe
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20AOD.png",Astro AOD
 http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20AEC.png",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%B1%E5%A5%87%E8%89%BA.png",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20QJ.png",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%E6%AC%A2%E5%96%9C%E5%8F%B0.png",Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4.png",八度空间
-http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B04k.png",翡翠台4k
@@ -1612,46 +1600,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88(TVB%20J1).png",翡翠台北美版(TVB J1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20J1.png",TVB J1
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/VIUTV.png",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%20TV.png",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK31.png",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK32.png",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1%E6%B8%AF%E6%BE%B3%E7%89%88.png",CCTV1港澳版
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20plus%E5%A4%872.png",TVB plus备2
-https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20plus%E5%A4%873.png",TVB plus备3
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20plus%E5%A4%874.png",TVB plus备4
-http://live.p2pcy.xyz:18000/hls/23df/23df_live.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 group-title="AK港澳台",鳳凰衛視中文台
@@ -1827,96 +1780,23 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 #EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
-https://cdn5.163189.xyz/live/mzt/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
-https://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png",澳视卫星
-https://cdn.163189.xyz/live/as/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4.png",八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBPlus.png",TVBPlus
-http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBPlus.png",TVBPlus
-http://cdn.163189.xyz/live/live1.1.php?id=tvbp
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBPlus.png",TVBPlus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20J1.png",TVB J1
-https://cdn3.163189.xyz/live/j1/stream.m3u8
 #EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20J1.png",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20J1.png",TVB J1
-https://cdn2.132.us.kg/live/j1/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK31.png",RTHK31
-https://cdn5.163189.xyz/live/rthk31/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK32.png",RTHK32
-https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK31.png",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK32.png",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK33.png",RTHK33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK34.png",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%2077.png",HOY 77
-https://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/HOY%2077.png",HOY 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/Viu%20TV.png",Viu TV
-https://cdn5.163189.xyz/live/viu/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/Viu%20TV.png",Viu TV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/CH5.png",CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/CH8.png",CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHU.png",CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20AOD.png",Astro AOD
 https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20AEC.png",Astro AEC
-https://cdn9.163189.xyz/smt1.1.php?id=AEC
-#EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/Astro%20QJ.png",Astro QJ
-https://cdn9.163189.xyz/smt1.1.php?id=Quanjia
 #EXTINF:-1 group-title="稳定香港" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBS%20NEWS.png",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 
 
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hoy77.png",Hoy77
-https://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoy77*.png",hoy77*
-http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoy78.png",hoy78
-http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoy78*.png",hoy78*
-http://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoytv.png",hoytv
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/hoytv*.png",hoytv*
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",凤凰中文
-http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",凤凰资讯
-http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png",澳视澳门
-https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoya.png",澳亚卫视
-https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
+
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",TVB无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png",TVB无线星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娱乐新闻台.jpg",TVB娱乐新闻
-http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB翡翠台 1080P
@@ -1925,38 +1805,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB翡翠台（备用）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png",TVB明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png",TVB J1
-https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png",星空卫视
-http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png",星光影视
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/耀才财经.png",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png",中天新闻
-http://222.128.55.152:9080/live/fc.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png",三立新闻
-https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png",寰宇新闻
-http://222.128.55.152:9080/live/hy.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai4.png",纬来电影
-http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai1.png",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai2.png",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png",大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/fanshutv.png",番薯台
@@ -1965,16 +1815,6 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AMCMovies.png",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龙华电影
-http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/港台电视31.png",港台电视31
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/港台电视32.png",港台电视32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港澳台频道",HOY TV
-http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 
 
@@ -2438,8 +2278,6 @@ http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A40056388400563
 
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="61.0 ms",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="424.98 ms",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="65.11 ms",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="3840*2160" response_time="55.23 ms",翡翠台
@@ -2450,56 +2288,18 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="48.65 ms",翡翠台北美版(TVB J1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="207.78 ms",TVB J1
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="215.68 ms",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="49.83 ms",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="50.94 ms",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="63.51 ms",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="61.11 ms",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="78.51 ms",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.67 ms",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="39.64 ms",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="56.43 ms",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="236.62 ms",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="251.34 ms",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="206.43 ms",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="54.0 ms",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="232.36 ms",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="218.43 ms",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="81.23 ms",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="215.07 ms",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="61.06 ms",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="126.65 ms",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="54.74 ms",RTHK33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="45.99 ms",八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.96 ms",CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="56.76 ms",CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="47.89 ms",CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="41.79 ms",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="72.55 ms",华丽翡翠台
@@ -2510,16 +2310,6 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.35 ms",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/typd.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="53.82 ms",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="45.8 ms",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.68 ms",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.45 ms",Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="42.09 ms",八度空间
-http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="59.29 ms",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.65 ms",亚洲武侠
@@ -2542,14 +2332,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="198.25 ms",GTV八大综合台
 http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="47.8 ms",AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="43.99 ms",華麗台 HD
-http://php.jdshipin.com:8880/smt.php?id=Wlt
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.88 ms",歡喜台 HD
-http://php.jdshipin.com:8880/smt.php?id=Huahee
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.83 ms",Astro QJ
-http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="70.88 ms",TVB Jade
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.06 ms",TVB Entertainment
@@ -2636,24 +2418,12 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c
 http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/EBC2.png" group-title="港澳备用" codec="h264" resolution="None*None" response_time="",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="483.78 ms",澳视澳门
-https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="37.5 ms",TVB无线星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="3840*2160" response_time="47.28 ms",TVB翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="514.79 ms",TVB J1
-https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="44.85 ms",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="40.96 ms",中天新闻
-http://222.128.55.152:9080/live/fc.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="40.98 ms",寰宇新闻
-http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="4.93 ms",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",MOMOTV
-rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.12 ms",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/LTV1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="263.92 ms",龙华电影
@@ -2662,12 +2432,9 @@ http://37.27.111.214:8080/live/19/hls.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="52.09 ms",港台电视32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.13 ms",HOY TV
-http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="14.29 ms",香港面包频道
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
-#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="7680*4320" response_time="164.0 ms",-8K北京纪实台
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
 #港澳台备用2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台备用2",凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
