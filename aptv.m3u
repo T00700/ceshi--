@@ -6020,7 +6020,7 @@ http://tvbox6.icu/tv/migu.php?id=qcxj
 #EXTINF:-1 group-title="上海频道",游戏风云
 http://tvbox6.icu/tv/migu.php?id=yxfy
 
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江特
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
