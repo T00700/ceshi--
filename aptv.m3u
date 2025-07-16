@@ -872,130 +872,84 @@ http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index
 http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="移动专区",黑莓动画
 http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
-http://hui.guo.my/api.php?id=filByq4NbWqIkXORmQJF
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
-http://hui.guo.my/api.php?id=Lflmdw1Ltxn2bkm7uIX2
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
-http://hui.guo.my/api.php?id=o4VD2RmHuyoFFyfhL2N8
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
-http://hui.guo.my/api.php?id=0nZWx75CgWpgXRIk9W8A
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
-http://hui.guo.my/api.php?id=XExVEkoyWlcsbfcFaJIb
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
-http://hui.guo.my/api.php?id=Vo7aO3OtdLiEhDPKuK4d
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5%2B.png",CCTV5+
-http://hui.guo.my/api.php?id=paaKpdWyUKf527RCbE88
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
-http://hui.guo.my/api.php?id=uGoQOBs8lRhDHnPO6X5a
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
-http://hui.guo.my/api.php?id=J8ebZeDf5PZZdUtovcwF
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
-http://hui.guo.my/api.php?id=AZG83lhiSZ8Ulz8J5Fo7
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9.png",CCTV9
-http://hui.guo.my/api.php?id=paFLvgQ9BImNXqDA1iQa
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
-http://hui.guo.my/api.php?id=iTeDQRFiVVwzoY9UMG8y
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
-http://hui.guo.my/api.php?id=NKqlxnYhYGVtn0nwqVla
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
-http://hui.guo.my/api.php?id=UStP3chGD2Mgpp6KsWUo
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
-http://hui.guo.my/api.php?id=r1CN1jK1zd3nHAkuKt3U
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
-http://hui.guo.my/api.php?id=O6E56HRqyvw6H58frp8E
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://hui.guo.my/api.php?id=HrIcMNczvDrBXxREfhtc
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://hui.guo.my/api.php?id=DGe8hi6IF6DT2th0rYt4
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",CCTV13
-http://hui.guo.my/api.php?id=U2VL4oKl2AH6Gr7w8y5M
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
-http://hui.guo.my/api.php?id=NfymHQNLEfELmKI49BwK
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14.png",CCTV14
-http://hui.guo.my/api.php?id=KUgUBFk6emNK1WVQKtXO
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV15.png",CCTV15
-http://hui.guo.my/api.php?id=d6Uo821XBLmT3Ek8v1TZ
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16.png",CCTV16
-http://hui.guo.my/api.php?id=3BWgqVMSbEY27TGoVMOB
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
-http://hui.guo.my/api.php?id=b7DWvt9lNTyxoT0PHpmp
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png",安多卫视
-http://hui.guo.my/api.php?id=2HmcgjmfGG1AJhCmnnu0
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
-http://hui.guo.my/api.php?id=esb68e4CnmmbWxdg39vA
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
-http://hui.guo.my/api.php?id=FbxyKr7FYY85s5QkUakd
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
-http://hui.guo.my/api.php?id=MeFsLkqFwBd9GLjGkQTq
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
-http://hui.guo.my/api.php?id=dRnT7X1nHbF4ZolS3Q9Q
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
-http://hui.guo.my/api.php?id=f6uvICnpJNqDpEZG6a2h
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
-http://hui.guo.my/api.php?id=NRWSKE6jppN4M8E9u7ej
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
-http://hui.guo.my/api.php?id=0FWSLNMpG4uUfCnLAfyw
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
-http://hui.guo.my/api.php?id=qpB9NnWgbtsUX1s4wgrQ
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
-http://hui.guo.my/api.php?id=WIUM300DTa8x20kLbm9m
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
-http://hui.guo.my/api.php?id=pruKGNSDaAvu3Zr0YMny
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
-http://hui.guo.my/api.php?id=9WtoRe5aIE7V4aXv2wfg
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
-http://hui.guo.my/api.php?id=MhsFksQWJgTdwLUERwpT
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
-http://hui.guo.my/api.php?id=hPatO2pZgNWG61CWpe7A
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
-http://hui.guo.my/api.php?id=KX9P2eyThsEQ6PaquEO9
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
-http://hui.guo.my/api.php?id=170p4k7EwJ6gC6oQVdVe
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
-http://hui.guo.my/api.php?id=RnX4G1IYG0IEgd0FARRq
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
-http://hui.guo.my/api.php?id=BN844YHZn5BSVxg6iEzh
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
-http://hui.guo.my/api.php?id=rbrV2vdHKJXYJWaIf8Ye
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视
-http://hui.guo.my/api.php?id=oeeZQH3DhygF8E3G1qUm
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
-http://hui.guo.my/api.php?id=mizKN8ykbDFoTyaoaAxS
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
-http://hui.guo.my/api.php?id=98ttc4Oo5fsmnMcsJoQF
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
-http://hui.guo.my/api.php?id=iF8HJ6JDvDv2TkMhwFVY
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
-http://hui.guo.my/api.php?id=pCKGbB1oXV8zHtRnDnI1
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png",山东教育卫视
-http://hui.guo.my/api.php?id=DPNWL84lpDaAdxOtcA2R
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
-http://hui.guo.my/api.php?id=Ey1oFUGrN7ZIMRiu4lF9
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
-http://hui.guo.my/api.php?id=F3xItUEVZpMiOuzV1900
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
-http://hui.guo.my/api.php?id=LQFD9FYKSECTdgqo91UX
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
-http://hui.guo.my/api.php?id=UvAnkRTuIO7WJI3sBMa9
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
-http://hui.guo.my/api.php?id=kRuhTP7USdzQR4N0A2Pl
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
-http://hui.guo.my/api.php?id=jFJfH1T8QBMlsgdvZF5K
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
-http://hui.guo.my/api.php?id=a8hmzden2B1gRyAVAPoQ
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
-http://hui.guo.my/api.php?id=pkU2yC2mw5zZRQv1EOIa
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png",延边卫视
-http://hui.guo.my/api.php?id=DSf1PU5gU5xPt233BFR2
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
-http://hui.guo.my/api.php?id=lXMPWGEcPqJ41DLleYGr
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
-http://hui.guo.my/api.php?id=fI3enODzraZQcvTdIBg2
-#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
-http://hui.guo.my/api.php?id=Wad9bWfqpktlILaYtEKn
 
+#EXTM3U
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-01.png",CCTV-01
+http://go.bkpcp.top/mg/cctv1
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-02.png",CCTV-02
+http://go.bkpcp.top/mg/cctv2
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-03.png",CCTV-03
+http://go.bkpcp.top/mg/cctv3
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-04.png",CCTV-04
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-05.png",CCTV-05
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-5%2B.png",CCTV-5+
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-06.png",CCTV-06
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-07.png",CCTV-07
+http://go.bkpcp.top/mg/cctv7
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-08.png",CCTV-08
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-09.png",CCTV-09
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-10.png",CCTV-10
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-11.png",CCTV-11
+http://go.bkpcp.top/mg/cctv11
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-12.png",CCTV-12
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-13.png",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-14.png",CCTV-14
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-15.png",CCTV-15
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-16.png",CCTV-16
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV-17.png",CCTV-17
+http://go.bkpcp.top/mg/cctv17
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/cct4%E6%AC%A7%E6%B4%B2.png",cct4欧洲
+http://go.bkpcp.top/mg/cctv4o
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/cct4%E7%BE%8E%E6%B4%B2.png",cct4美洲
+http://go.bkpcp.top/mg/cctv4m
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN-%E8%A5%BF.png",CGTN-西
+http://go.bkpcp.top/mg/cgtne
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN-%E9%98%BF.png",CGTN-阿
+http://go.bkpcp.top/mg/cgtna
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN-%E6%B3%95.png",CGTN-法
+http://go.bkpcp.top/mg/cgtnf
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://go.bkpcp.top/mg/dfws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://go.bkpcp.top/mg/zjws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://go.bkpcp.top/mg/jsws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://go.bkpcp.top/mg/hunws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://go.bkpcp.top/mg/gdws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864k.png",深圳卫视4k
+http://go.bkpcp.top/mg/szws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://go.bkpcp.top/mg/sdws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://go.bkpcp.top/mg/hnws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://go.bkpcp.top/mg/jxws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://go.bkpcp.top/mg/hubws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://go.bkpcp.top/mg/hinws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://go.bkpcp.top/mg/sxws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://go.bkpcp.top/mg/btws
+#EXTINF:-1 group-title="推流央卫" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E8%A7%86.png",黑龙江视
+http://go.bkpcp.top/mg/hljws
 
 
 
@@ -6032,10 +5986,24 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png",大湾区卫视
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_dwq.flv
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://logo.diyp.site:49377/logo.php?广东珠江" group-title="广东频道",广东珠江
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://ls.qingting.fm/live/1259/64k.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F%E5%A4%87.png",广东珠江备
+http://go.bkpcp.top/mg/gdzj
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2%E5%A4%87.png",广东体育备
+http://go.bkpcp.top/mg/gdty
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%E5%A4%87.png",大湾区卫视备
+http://go.bkpcp.top/mg/gddwq
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86%E5%A4%87.png",广东影视备
+http://go.bkpcp.top/mg/gdys
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB%E5%A4%87.png",广东新闻备
+http://go.bkpcp.top/mg/gdxw
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F%E5%A4%87.png",广东民生备
+http://go.bkpcp.top/mg/gdms
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/19%E2%81%B05%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png",19⁰5电影频道
+http://150.138.77.132:10037/1905电影网.php?id=1905
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864k.png",深圳卫视4k
+https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://logo.diyp.site:49377/logo.php?广州综合" group-title="广东频道",广州综合
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
