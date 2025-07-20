@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/mvtC3tIq.png;md5;bfc6ee1d4bbf8e847f076fffb299801c",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yVjqmI70.png;md5;f08fcff329753aa96823155c7c2dbe15",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "./logo.gif",
   "sites": [
@@ -37,7 +37,7 @@
       },
       "timeout": 5
     },
-{
+   {
       "key": "瓜子",
       "name": "🍉瓜子┃弹幕",
       "type": 3,
@@ -132,6 +132,19 @@
       "timeout": 10
     },
     {
+      "key": "零零弹幕版",
+      "name": "🐰零零┃弹幕",
+      "type": 3,
+      "api": "csp_ZeroTvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
       "key": "素白白弹幕版",
       "name": "🐇白白┃弹幕",
       "type": 3,
@@ -171,36 +184,10 @@
       "timeout": 10
     },
     {
-      "key": "时常弹幕",
-      "name": "🐥时常┃弹幕",
-      "type": 3,
-      "api": "csp_ShiChangGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "咖啡弹幕版",
       "name": "🍫咖啡┃弹幕",
       "type": 3,
       "api": "csp_KaFeiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "晴天弹幕版",
-      "name": "☀️晴天┃弹幕",
-      "type": 3,
-      "api": "csp_Sun4kGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -275,19 +262,6 @@
         "danmu": true
       },
       "timeout": 10
-    },
-    {
-      "key": "校长弹幕版",
-      "name": "💮小章┃4K弹幕",
-      "type": 3,
-      "api": "csp_XiaoZhangGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 30
     },
     {
       "key": "百度趣盘",
@@ -401,19 +375,6 @@
       "timeout": 25
     },
     {
-      "key": "表哥弹幕",
-      "name": "👨🏻‍🦱表哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_DbgGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
       "key": "至臻弹幕",
       "name": "💌至臻┃4K弹幕",
       "type": 3,
@@ -454,7 +415,7 @@
     },
     {
       "key": "SeedHub弹幕",
-      "name": "🍀SeedHub┃4K弹幕",
+      "name": "🍀Seed┃4K弹幕",
       "type": 3,
       "api": "csp_SeedHubGuard",
       "quickSearch": 1,
@@ -464,6 +425,19 @@
         "danmu": true
       },
       "timeout": 25
+    },
+    {
+      "key": "校长弹幕版",
+      "name": "💮小章┃4K弹幕",
+      "type": 3,
+      "api": "csp_XiaoZhangGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
     },
     {
       "key": "光影弹幕版",
@@ -521,20 +495,28 @@
       "filterable": 1,
       "timeout": 25
     },
-   
     {
-      "key": "我的阿里",
-      "name": "🐱我的┃阿里",
+      "key": "云巢",
+      "name": "☁️云巢┃4K",
       "type": 3,
-      "api": "csp_MyAliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
+      "api": "csp_PeccGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
       },
-      "timeout": 30
+      "timeout": 25
+    },
+    {
+      "key": "123社区",
+      "name": "🌂123┃4K",
+      "type": 3,
+      "api": "csp_Time123Guard",
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 25
     },
     {
       "key": "我的夸克",
@@ -607,6 +589,34 @@
       "timeout": 30
     },
     {
+      "key": "我的115",
+      "name": "🌷我的┃115",
+      "type": 3,
+      "api": "csp_My115Guard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的阿里",
+      "name": "🐱我的┃阿里",
+      "type": 3,
+      "api": "csp_MyAliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
+    {
       "key": "阿里合集",
       "name": "🦋阿里┃合集",
       "type": 3,
@@ -635,6 +645,28 @@
         "danmu": true
       },
       "timeout": 10
+    },
+    {
+      "key": "黑木耳",
+      "name": "🌻木耳┃无广",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "playUrl": "json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+      },
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日本动漫",
+        "港剧",
+        "韩剧",
+        "欧美剧",
+        "国产综艺"
+      ]
     },
     {
       "key": "星芽短剧",
@@ -981,19 +1013,6 @@
       "timeout": 25
     },
     {
-      "key": "盘搜",
-      "name": "🙀盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSoGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
       "key": "影搜",
       "name": "😼影子┃搜索",
       "type": 3,
@@ -1033,10 +1052,10 @@
       "timeout": 25
     },
     {
-      "key": "逸搜",
-      "name": "🌧逸搜┃搜索",
+      "key": "找盘",
+      "name": "🎾找盘┃搜索",
       "type": 3,
-      "api": "csp_TianYiSoGuard",
+      "api": "csp_V2PanGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
