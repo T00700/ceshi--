@@ -166,9 +166,9 @@ http://117.72.194.224:655/zb.php?id=cctv4a
 #EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://live.fanmingming.com/tv/CCTV4o.png" group-title="稳定央卫",CCTV4o
 http://117.72.194.224:655/zb.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="稳定央卫",CCTV5
-http://goo.bkpcp.top/mg/cctv5
+http://117.72.194.224:656/zb.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="稳定央卫",CCTV5+
-http://goo.bkpcp.top/mg/cctv5p
+http://117.72.194.224:656/zb.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="稳定央卫",CCTV6
 http://117.72.194.224:655/zb.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="稳定央卫",CCTV7
