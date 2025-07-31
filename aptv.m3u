@@ -291,7 +291,6 @@ http://117.72.194.224:655/zb.php?id=xfzgn
 
 
 #EXTM3U
-
 #EXTINF:-1 group-title="凤凰秀" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",凤凰中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1 group-title="凤凰秀" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",凤凰资讯台
@@ -1589,119 +1588,120 @@ http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/ind
 #EXTINF:-1 tvg-id="体育" tvg-name="体育" group-title="NewTV",体育
 http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-1
-http://cz.crossec.com:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-2
-http://cz.crossec.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-3
-http://cz.crossec.com:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-4
-http://cz.crossec.com:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-5
-http://cz.crossec.com:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-6
-http://cz.crossec.com:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-7
-http://cz.crossec.com:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-8
-http://cz.crossec.com:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-9
-http://cz.crossec.com:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-10
-http://cz.crossec.com:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-11
-http://cz.crossec.com:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-12
-http://cz.crossec.com:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-13
-http://cz.crossec.com:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-14
-http://cz.crossec.com:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-15
-http://cz.crossec.com:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-16
-http://cz.crossec.com:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-17
-http://cz.crossec.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-18
-http://cz.crossec.com:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-19
-http://cz.crossec.com:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-20
-http://cz.crossec.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-21
-http://cz.crossec.com:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-22
-http://cz.crossec.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-23
-http://cz.crossec.com:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-24
-http://cz.crossec.com:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-25
-http://cz.crossec.com:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-26
-http://cz.crossec.com:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-27
-http://cz.crossec.com:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-28
-http://cz.crossec.com:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-29
-http://cz.crossec.com:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-30
-http://cz.crossec.com:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-31
-http://cz.crossec.com:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-32
-http://cz.crossec.com:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-33
-http://cz.crossec.com:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-34
-http://cz.crossec.com:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-35
-http://cz.crossec.com:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-36
-http://cz.crossec.com:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-37
-http://cz.crossec.com:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-38
-http://cz.crossec.com:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-39
-http://cz.crossec.com:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-40
-http://cz.crossec.com:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-41
-http://cz.crossec.com:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-42
-http://cz.crossec.com:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-43
-http://cz.crossec.com:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-44
-http://cz.crossec.com:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_咪视通-45
-http://cz.crossec.com:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-1
-http://cz.crossec.com:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-2
-http://cz.crossec.com:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-3
-http://cz.crossec.com:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-4
-http://cz.crossec.com:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-5
-http://cz.crossec.com:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-6
-http://cz.crossec.com:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_易视腾-1
-http://cz.crossec.com:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_易视腾-2
-http://cz.crossec.com:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_易视腾-3
-http://cz.crossec.com:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_易视腾-4
-http://cz.crossec.com:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="咪视通体育",咪咕视频_8M1080_易视腾-5
-http://cz.crossec.com:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-1.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-1
+http://8.148.76.144:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-2" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-2.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-2
+http://8.148.76.144:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-3.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-3
+http://8.148.76.144:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-4.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-4
+http://8.148.76.144:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-5" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-5.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-5
+http://8.148.76.144:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-6" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-6.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-6
+http://8.148.76.144:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-7" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-7.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-7
+http://8.148.76.144:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-8" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-8.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-8
+http://8.148.76.144:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-9" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-9.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-9
+http://8.148.76.144:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-10" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-10.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-10
+http://8.148.76.144:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-11" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-11.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-11
+http://8.148.76.144:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-12" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-12.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-12
+http://8.148.76.144:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-13" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-13.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-13
+http://8.148.76.144:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-14" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-14.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-14
+http://8.148.76.144:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-15" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-15.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-15
+http://8.148.76.144:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-16" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-16.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-16
+http://8.148.76.144:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-17" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-17.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-17
+http://8.148.76.144:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-18" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-18.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-18
+http://8.148.76.144:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-19" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-19.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-19
+http://8.148.76.144:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-20" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-20.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-20
+http://8.148.76.144:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-21" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-21.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-21
+http://8.148.76.144:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-22" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-22.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-22
+http://8.148.76.144:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-23" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-23.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-23
+http://8.148.76.144:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-24" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-24.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-24
+http://8.148.76.144:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-25" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-25.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-25
+http://8.148.76.144:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-26" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-26.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-26
+http://8.148.76.144:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-27" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-27.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-27
+http://8.148.76.144:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-28" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-28.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-28
+http://8.148.76.144:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-29" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-29.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-29
+http://8.148.76.144:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-30" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-30.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-30
+http://8.148.76.144:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-31" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-31.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-31
+http://8.148.76.144:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-32" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-32.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-32
+http://8.148.76.144:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-33" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-33.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-33
+http://8.148.76.144:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-34" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-34.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-34
+http://8.148.76.144:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-35" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-35.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-35
+http://8.148.76.144:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-36" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-36.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-36
+http://8.148.76.144:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-37" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-37.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-37
+http://8.148.76.144:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-38" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-38.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-38
+http://8.148.76.144:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-39" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-39.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-39
+http://8.148.76.144:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-40" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-40.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-40
+http://8.148.76.144:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-41" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-41.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-41
+http://8.148.76.144:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-42" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-42.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-42
+http://8.148.76.144:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-43" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-43.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-43
+http://8.148.76.144:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-44" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-44.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-44
+http://8.148.76.144:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-45" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-45.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-45
+http://8.148.76.144:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-1.png" group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-1
+http://8.148.76.144:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-2" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-2.png" group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-2
+http://8.148.76.144:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-3.png" group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-3
+http://8.148.76.144:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-4.png" group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-4
+http://8.148.76.144:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-5" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-5.png" group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-5
+http://8.148.76.144:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-6" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-6.png" group-title="咪视通体育",咪咕视频_8M1080_湖南bblive-6
+http://8.148.76.144:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_易视腾-1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_易视腾-1.png" group-title="咪视通体育",咪咕视频_8M1080_易视腾-1
+http://8.148.76.144:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_易视腾-2" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_易视腾-2.png" group-title="咪视通体育",咪咕视频_8M1080_易视腾-2
+http://8.148.76.144:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_易视腾-3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_易视腾-3.png" group-title="咪视通体育",咪咕视频_8M1080_易视腾-3
+http://8.148.76.144:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_易视腾-4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_易视腾-4.png" group-title="咪视通体育",咪咕视频_8M1080_易视腾-4
+http://8.148.76.144:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="咪咕视频_8M1080_易视腾-5" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_易视腾-5.png" group-title="咪视通体育",咪咕视频_8M1080_易视腾-5
+http://8.148.76.144:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
+
 
 
 #EXTM3U
@@ -1817,97 +1817,7 @@ https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 
 
-#EXTM3U
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87.png",鳳凰中文
-http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8A.png",鳳凰資訊
-http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E9%A6%99%E6%B8%AF.png",鳳凰香港
-http://bx.757888.xyz/api.php?id=fhhk
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png",凤凰香港台
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://bx.757888.xyz/api.php?id=fct
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%A4%87.png",翡翠台备
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
-http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png",凤凰电影
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86.png",莲花卫视
-http://8.138.7.223/tv/lotustv.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%9B%BD%E9%99%85.png",星空国际
-http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-#EXTINF:-1 group-title="稳定港澳台",翡翠台
-http://erp.giihgtidg.com:8080/live/jade01.m3u8
-#EXTINF:-1 group-title="稳定港澳台",无线新闻
-http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-#EXTINF:-1 group-title="稳定港澳台",POPC
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogepopc.flv
-#EXTINF:-1 group-title="稳定港澳台",有线18
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
-#EXTINF:-1 group-title="稳定港澳台",广电翡翠
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-#EXTINF:-1 group-title="稳定港澳台",tvbplus
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus02.flv
-#EXTINF:-1 group-title="稳定港澳台",Hoy77
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
-#EXTINF:-1 group-title="稳定港澳台",Hoy78
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
-#EXTINF:-1 group-title="稳定港澳台",Now爆谷
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
-#EXTINF:-1 group-title="稳定港澳台",Now星影
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
-#EXTINF:-1 group-title="稳定港澳台",Now新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
-#EXTINF:-1 group-title="稳定港澳台",东森新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
-#EXTINF:-1 group-title="稳定港澳台",中天新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-#EXTINF:-1 group-title="稳定港澳台",中天新闻2
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
-#EXTINF:-1 group-title="稳定港澳台",寰宇新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
-#EXTINF:-1 group-title="稳定港澳台",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台",龙华经典
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台",龙华卡通
-https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台",龙华戏剧
-https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-33%E9%A2%91%E9%81%93.png",RTHK-33频道
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-34%E9%A2%91%E9%81%93.png",RTHK-34频道
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/RTHK-35%E9%A2%91%E9%81%93.png",RTHK-35频道
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/18%E5%8F%B0.png",18台
-http://bx.757888.xyz/api.php?id=18
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20Plus.png",TVB Plus
-http://bx.757888.xyz/api.php?id=tvbp
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
-http://bx.757888.xyz/api.php?id=mz
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%84%A1%E7%B7%9A%E6%96%B0%E8%81%9E%E5%8F%B0.png",無線新聞台
-http://bx.757888.xyz/api.php?id=wxxw
-#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",美亞電影台
-http://bx.757888.xyz/api.php?id=meiya
-#EXTINF:-1 group-title="稳定港澳台",动物星球
-http://198.16.100.186:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 group-title="稳定港澳台",纬来体育
-http://live.catvod.com/smart.php?id=videolandsport
-#EXTINF:-1 group-title="稳定港澳台",纬来体育备
-rtmp://f13h.mine.nu/sat/tv721
+
 
 #EXTM3U
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
@@ -1950,34 +1860,6 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%88%B1%E5%B0%94%E8%BE%BE%E5%A8%B1%E4%B9%90.png",爱尔达娱乐
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/18%E5%8F%B0.png",18台
-http://bx.757888.xyz/api.php?id=18
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVBPlus.png",TVBPlus
-http://bx.757888.xyz/api.php?id=tvbp
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E6%98%A0%E7%B6%93%E5%85%B8%E9%A0%BB%E9%81%93.png",天映經典頻道
-http://bx.757888.xyz/api.php?id=tyjd
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
-http://bx.757888.xyz/api.php?id=mz
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%84%A1%E7%B7%9A%E6%96%B0%E8%81%9E%E5%8F%B0.png",無線新聞台
-http://bx.757888.xyz/api.php?id=wxxw
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",美亞電影台
-http://bx.757888.xyz/api.php?id=meiya
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://bx.757888.xyz/api.php?id=fct
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%BD%B1%E9%A0%BB%E9%81%93.png",中國電影頻道
-http://bx.757888.xyz/api.php?id=zgdy
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1.png",東森電影
-http://bx.757888.xyz/api.php?id=dsdy
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1.png",龍華電影
-http://bx.757888.xyz/api.php?id=lhdy
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87.png",鳳凰中文
-http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8A.png",鳳凰資訊
-http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%B3%B3%E5%87%B0%E9%A6%99%E6%B8%AF.png",鳳凰香港
-http://bx.757888.xyz/api.php?id=fhhk
-#EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png",中天新聞台
-http://bx.757888.xyz/api.php?id=ztxw
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",华丽翡翠台
@@ -2107,6 +1989,73 @@ http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="AK港澳台",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",明珠台
+http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",明珠台
+http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+http://api.mg.itv888.cn:8080/streams/031a43f0d54/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台 backup" tvg-logo="https://live.fanmingming.com/tv/翡翠台 backup.png",翡翠台 backup
+http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png",无线新闻
+http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+#EXTINF:-1 tvg-name="tvbplus" tvg-logo="https://live.fanmingming.com/tv/tvbplus.png",tvbplus
+http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png",HOY资讯台
+http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+#EXTINF:-1 tvg-name="RHK31" tvg-logo="https://live.fanmingming.com/tv/RHK31.png",RHK31
+http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+#EXTINF:-1 tvg-name="RHK32" tvg-logo="https://live.fanmingming.com/tv/RHK32.png",RHK32
+http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+#EXTINF:-1 tvg-name="viutv" tvg-logo="https://live.fanmingming.com/tv/viutv.png",viutv
+http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+#EXTINF:-1 tvg-name="viutv6" tvg-logo="https://live.fanmingming.com/tv/viutv6.png",viutv6
+http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",凤凰中文台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png",凤凰香港台
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://bx.757888.xyz/api.php?id=fct
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%A4%87.png",翡翠台备
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86.png",莲花卫视
+http://8.138.7.223/tv/lotustv.m3u8
+#EXTINF:-1 group-title="稳定港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png",星空卫视
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 group-title="稳定港澳台",POPC
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogepopc.flv
+#EXTINF:-1 group-title="稳定港澳台",广电翡翠
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+#EXTINF:-1 group-title="稳定港澳台",tvbplus
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus02.flv
+#EXTINF:-1 group-title="稳定港澳台",Hoy77
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+#EXTINF:-1 group-title="稳定港澳台",Hoy78
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+#EXTINF:-1 group-title="稳定港澳台",东森新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
+#EXTINF:-1 group-title="稳定港澳台",中天新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+#EXTINF:-1 group-title="稳定港澳台",寰宇新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="广东珠江频道" tvg-logo="https://live.fanmingming.cn/tv/广东珠江频道.png" group-title="时效港澳台",广东珠江频道
