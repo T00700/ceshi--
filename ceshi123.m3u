@@ -6,7 +6,7 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1[1920*1080]" tvg-logo="https://live.fanmingming.com/tv/CCTV1[1920*1080].png" group-title="央视",CCTV1[1920*1080]
-http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8#http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1[1920*1080]" tvg-logo="https://live.fanmingming.com/tv/CCTV1[1920*1080].png" group-title="央视",CCTV1[1920*1080]
 http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1[1920*1080]" tvg-logo="https://live.fanmingming.com/tv/CCTV1[1920*1080].png" group-title="央视",CCTV1[1920*1080]
@@ -613,3 +613,4 @@ http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226603/index.m3u
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226638/index.m3u8
 #EXTINF:-1 tvg-name="BesTV[1920*1080]" tvg-logo="https://live.fanmingming.com/tv/BesTV[1920*1080].png" group-title="百事通",BesTV[1920*1080]
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226642/index.m3u8
+
