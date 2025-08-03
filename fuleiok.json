@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yVjqmI70.png;md5;f08fcff329753aa96823155c7c2dbe15",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "./logo.gif",
   "sites": [
@@ -1193,6 +1193,15 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
+       {
+      "name": "猫TV线路(EXO)",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
       {
       "name": "最强央卫",
       "type": 0,
@@ -1456,15 +1465,6 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-     {
-      "name": "猫TV线路(EXO)",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "猫TV线路(IJK)",
