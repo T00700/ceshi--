@@ -1846,7 +1846,7 @@ http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="AK港澳台",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="稳定港澳台",凤凰中文
 https://migu.188766.xyz/?migutoken=cd32e36fb624876b57ae3ced3e5bf3e5&id=fhzw&pp=1
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="稳定港澳台",凤凰资讯
@@ -1868,6 +1868,7 @@ https://migu.188766.xyz/?migutoken=cca3239c076824d3fc6e3b0c5b5abf9e&id=8tv&type=
 #EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="稳定港澳台",CH8
 https://migu.188766.xyz/?migutoken=127489fe7ee46c0a446f7d7f6e86f267&id=ch8&type=dy
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="稳定港澳台",凤凰香港
 http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="稳定港澳台",凤凰卫视
@@ -15025,6 +15026,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
