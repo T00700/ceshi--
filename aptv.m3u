@@ -5209,6 +5209,8 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png",苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou4.png",苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png",苏州生活资讯
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png",四川新闻
 http://wouu.net:9977/udp/239.93.0.47:5140
@@ -15063,6 +15065,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
