@@ -6654,7 +6654,7 @@ http://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 group-title="北京频道",延庆TV
 
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江特
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
+http://iptv.diyp.site/SxKUeuHRAe_公众号【DIYP】.php?key=gdtv&id=9
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
@@ -15069,6 +15069,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
