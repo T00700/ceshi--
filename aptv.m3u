@@ -1586,68 +1586,6 @@ http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
 http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 
 
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="NewTV",黑莓电影
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="NewTV",黑莓动画
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电竞" tvg-name="黑莓电竞" group-title="NewTV",黑莓电竞
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" group-title="NewTV",超级电影
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" group-title="NewTV",NewTV超级电视剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" group-title="NewTV",NewTV超级综艺
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" group-title="NewTV",NewTV超级体育
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV精品大剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" group-title="NewTV",NewTV精品纪录
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV精品体育
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV金牌综艺
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" group-title="NewTV",NewTV东北热剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="NewTV",NewTV动作电影
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV家庭剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" group-title="NewTV",NewTV军旅剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" group-title="NewTV",NewTV古装剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" group-title="NewTV",NewTV爱情喜剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" group-title="NewTV",NewTV欢乐剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" group-title="NewTV",NewTV明星大片
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" group-title="NewTV",NewTV海外剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" group-title="NewTV",NewTV惊悚悬疑
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" group-title="NewTV",NewTV军事评论
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" group-title="NewTV",NewTV怡伴健康
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" group-title="NewTV",NewTV武搏世界
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" group-title="NewTV",NewTV中国功夫
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" group-title="NewTV",NewTV农业致富
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" group-title="NewTV",NewTV潮妈辣婆
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" group-title="NewTV",NewTV炫舞未来
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-id="电视剧" tvg-name="电视剧" group-title="NewTV",电视剧
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="综艺" tvg-name="综艺" group-title="NewTV",综艺
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="体育" tvg-name="体育" group-title="NewTV",体育
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="咪咕视频_8M1080_咪视通-1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_咪视通-1.png" group-title="咪视通体育",咪咕视频_8M1080_咪视通-1
@@ -1862,20 +1800,6 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbL
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 group-title="咪咕体育",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="4.96 ms",镇江2套
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="2952.29 ms",广西国际
-https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="12.04 ms",洛阳文旅
-https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="20.92 ms",洛阳科教
-https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="2048.65 ms",洛阳综合
-https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 
 
 
@@ -14339,33 +14263,6 @@ https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Sky Sport 3 HD Deutschland" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/" group-title="天空体育",[HD]sport 3
-https://stream1.freetv.fun/sport-3-1.m3u8
-#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="天空体育",[BD]skysports
-https://stream1.freetv.fun/skysports-4.ctv
-#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="天空体育",[BD]skysports
-https://stream1.freetv.fun/skysports-11.ctv
-#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="天空体育",[BD]skysports
-https://stream1.freetv.fun/skysports-1.ctv
-#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="天空体育",[BD]skysports
-https://stream1.freetv.fun/skysports-17.ctv
-#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="天空体育",[BD]skysports[geo-blocked]
-https://stream1.freetv.fun/skysports-8.ctv
-#EXTINF:-1 tvg-name="Sky Sport Austria" tvg-id="" tvg-country="Austria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904164015560294_43.jpg" group-title="天空体育",[HD]sky sport austria 1
-https://stream1.freetv.fun/d210ccba16f792a315f217a528e0593f1e7fc6418745696318e7d7af6993bccc.ctv
-#EXTINF:-1 tvg-name="Sky Sport Austria" tvg-id="" tvg-country="Austria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904164015560294_43.jpg" group-title="天空体育",[HD]sport 1 austria
-https://stream1.freetv.fun/2ce87f16a5024d2bfc84b27791e30a111209cd7d8acd0011faf2fc56fff0ebc4.ctv
-#EXTINF:-1 tvg-name="Sky Sport F1 HD  (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821145109158787_71.png" group-title="天空体育",[HD]sky sport uhd de
-https://stream1.freetv.fun/sky-sport-uhd-de-1.m3u8
-#EXTINF:-1 tvg-name="Sky Sports HD 1 (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821145147575861_16.jpg" group-title="天空体育",[BD]skysports
-https://stream1.freetv.fun/skysports-2.ctv
-#EXTINF:-1 tvg-name="Sport Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415000118080279_93.png" group-title="天空体育",[BD]sports italia[geo-blocked]
-https://stream1.freetv.fun/sports-italia-1.m3u8
-#EXTINF:-1 tvg-name="Sport Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415000118080279_93.png" group-title="天空体育",[BD]sport italia live
-https://stream1.freetv.fun/sport-italia-live-1.m3u8
-#EXTINF:-1 tvg-name="SuperTennis TV" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232431306998_27.png" group-title="天空体育",[BD]supertoons tv[geo-blocked]
-https://stream1.freetv.fun/supertoons-tv-2.m3u8
-
 
 
 
@@ -15215,6 +15112,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
