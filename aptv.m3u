@@ -538,128 +538,92 @@ http://117.72.194.224:656/zb.php?id=xczx
 #EXTINF:-1 group-title="极速央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%B8%E7%A6%8F%E4%B8%AD%E5%9B%BD%E5%B9%B4.png",幸福中国年
 http://117.72.194.224:656/zb.php?id=xfzgn
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="极速全网通",CCTV1
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="极速全网通",CCTV2
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="极速全网通",CCTV3
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="极速全网通",CCTV4
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="极速全网通",CCTV5
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="极速全网通",CCTV5+
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="极速全网通",CCTV6
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="极速全网通",CCTV7
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="极速全网通",CCTV8
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="极速全网通",CCTV9
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="极速全网通",CCTV10
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="极速全网通",CCTV11
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="极速全网通",CCTV12
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="极速全网通",CCTV13
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="极速全网通",CCTV14
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="极速全网通",CCTV15
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="极速全网通",CCTV16
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="极速全网通",CCTV17
-http://61.163.58.168:2024/fhtvxf.php?id=CCTV17
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="极速全网通",北京卫视
-http://61.163.58.168:2024/fhtvxf.php?id=北京卫视
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="极速全网通",东方卫视
-http://61.163.58.168:2024/fhtvxf.php?id=东方卫视
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="极速全网通",湖南卫视
-http://61.163.58.168:2024/fhtvxf.php?id=湖南卫视
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="极速全网通",浙江卫视
-http://61.163.58.168:2024/fhtvxf.php?id=浙江卫视
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="极速全网通",江苏卫视
-http://61.163.58.168:2024/fhtvxf.php?id=江苏卫视
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="极速全网通",广东卫视
-http://61.163.58.168:2024/fhtvxf.php?id=广东卫视
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="极速全网通",山东卫视
-http://61.163.58.168:2024/fhtvxf.php?id=山东卫视
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="极速全网通",东南卫视
-http://61.163.58.168:2024/fhtvxf.php?id=东南卫视
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="极速全网通",深圳卫视
-http://61.163.58.168:2024/fhtvxf.php?id=深圳卫视
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="极速全网通",安徽卫视
-http://61.163.58.168:2024/fhtvxf.php?id=安徽卫视
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="极速全网通",湖北卫视
-http://61.163.58.168:2024/fhtvxf.php?id=湖北卫视
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="极速全网通",河北卫视
-http://61.163.58.168:2024/fhtvxf.php?id=河北卫视
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="极速全网通",河南卫视
-http://61.163.58.168:2024/fhtvxf.php?id=河南卫视
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="极速全网通",四川卫视
-http://61.163.58.168:2024/fhtvxf.php?id=四川卫视
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="极速全网通",天津卫视
-http://61.163.58.168:2024/fhtvxf.php?id=天津卫视
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="极速全网通",重庆卫视
-http://61.163.58.168:2024/fhtvxf.php?id=重庆卫视
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="极速全网通",海南卫视
-http://61.163.58.168:2024/fhtvxf.php?id=海南卫视
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="极速全网通",辽宁卫视
-http://61.163.58.168:2024/fhtvxf.php?id=辽宁卫视
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="极速全网通",黑龙江卫视
-http://61.163.58.168:2024/fhtvxf.php?id=黑龙江卫视
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="极速全网通",吉林卫视
-http://61.163.58.168:2024/fhtvxf.php?id=吉林卫视
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="极速全网通",山西卫视
-http://61.163.58.168:2024/fhtvxf.php?id=山西卫视
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="极速全网通",陕西卫视
-http://61.163.58.168:2024/fhtvxf.php?id=陕西卫视
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="极速全网通",广西卫视
-http://61.163.58.168:2024/fhtvxf.php?id=广西卫视
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="极速全网通",江西卫视
-http://61.163.58.168:2024/fhtvxf.php?id=江西卫视
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="极速全网通",贵州卫视
-http://61.163.58.168:2024/fhtvxf.php?id=贵州卫视
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="极速全网通",云南卫视
-http://61.163.58.168:2024/fhtvxf.php?id=云南卫视
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="极速全网通",甘肃卫视
-http://61.163.58.168:2024/fhtvxf.php?id=甘肃卫视
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="极速全网通",宁夏卫视
-http://61.163.58.168:2024/fhtvxf.php?id=宁夏卫视
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="极速全网通",青海卫视
-http://61.163.58.168:2024/fhtvxf.php?id=青海卫视
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="极速全网通",内蒙古卫视
-http://61.163.58.168:2024/fhtvxf.php?id=内蒙古卫视
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="极速全网通",新疆卫视
-http://61.163.58.168:2024/fhtvxf.php?id=新疆卫视
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="极速全网通",西藏卫视
-http://61.163.58.168:2024/fhtvxf.php?id=西藏卫视
-#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="极速全网通",中国教育1
-http://61.163.58.168:2024/fhtvxf.php?id=中国教育1
-#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="极速全网通",中国教育2
-http://61.163.58.168:2024/fhtvxf.php?id=中国教育2
-#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="极速全网通",中国教育4
-http://61.163.58.168:2024/fhtvxf.php?id=中国教育4
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="极速全网通",山东教育
-http://61.163.58.168:2024/fhtvxf.php?id=山东教育
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="极速全网通",嘉佳卡通
-http://61.163.58.168:2024/fhtvxf.php?id=嘉佳卡通
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="极速全网通",哈哈炫动
-http://61.163.58.168:2024/fhtvxf.php?id=哈哈炫动
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="极速全网通",卡酷少儿
-http://61.163.58.168:2024/fhtvxf.php?id=卡酷少儿
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="极速全网通",优漫卡通
-http://61.163.58.168:2024/fhtvxf.php?id=优漫卡通
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="极速全网通",金鹰卡通
-http://61.163.58.168:2024/fhtvxf.php?id=金鹰卡通
-
-
-
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="极速全网通", CCTV1综合
+https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=abf5d4482ab78fc8f2828cbe8d4ab578a2c8dc44a50e25f866177a7ae92362c0229619827d67b5f9ccb83e48436377965bcf2430016c88a191ec650e80e75443788ccd823934bea8c6be302684
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="极速全网通", CCTV2财经
+https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=5361411c244460b356d312d971ec9b115b121fe5daab539540b14fa420d545e2842050d9980d1d250d8e18d6f915b860b5688ddc7bc3816857819b9da7e54aa063f0108385cafcd7a33dff11fe
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="极速全网通", CCTV3综艺
+https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=4cc4512608ef4b639d2806fa1589cc5bfa5be086d7c483055dd1b2c062ab57ce087ee617fcb401e26ca94032b779cf8345828b21ba90ca9a6bddd61443bdfd6a9a289fb8280531ac6c8e5c746f
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="极速全网通", CCTV4中文国际
+https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=a588d8b958a65552700394058b86e891a7e06c8327ccd9b9eee09d4ca4a9583474b4aed365cf90bfb0255671f30d3764fb70ebce77c940e60ca47a198615f96903635c127a7db8ae76c57dcde3
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="极速全网通", CCTV5体育
+https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=8d1748aeae674272aa8febd22cc2223bc89928299e373e01ef27227e1ed9711633a0131da4b4232227f3afb925df68c7c0a896d8785a33df1a039c823b1c9795d5666b18a8773a437386e4f89c
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="极速全网通", CCTV5+体育赛事
+https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=0c2757c8d78019e1625a10edfa30690ad92b20520f2b5f62316fa80583dbfc99eab5922ccf47254828b9bd42fe809708a4d4c4e34330fc5db438720ca18e411fe0e36169b08a27519305d042a6
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="极速全网通", CCTV6电影
+https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=6bfef56d160a71d4b2fe079e8ef9e6b6829397a906e33c3f18701d77f2a5541610fc54642cf2a63076578813a3a741fea61bda2cadb2eb51c62dfc970add700aedc83de6c2e0de6f135fee807b
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="极速全网通", CCTV7国防军事
+https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=271c86b6f73d161e29399075d0a009a23cb54f42de07e00acf7ac24cf75cb6fa7e9734d84659a78ba4987ccf576e74a9c0f6943466aefdbdead546fc4d919c361f34c99dc0cbf2eb472cdac4ed
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="极速全网通", CCTV8电视剧
+https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=27abb6577ab32b1cfae931dcb9fbf71ac1649a10c1ca2c26ab6825a76ebb9202830cd2e8a0e8684100df3017eaf7d238b18420759b49f77406a653e3de3ce3073173215c58399edcf23b65f188
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="极速全网通", CCTV9纪录
+https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=e69c8e4425584f2dee031cd706badeb5e3ea3a0f9253cf682c931678767fbaa5da0eb60ccc444e87addef13f1fbc8292ba2950d44b6d5a104e672f1dc4a963d5cec757f9a22e2bfb70f9da6aaf
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="极速全网通", CCTV10科教
+https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=2fb2541de86ddf0832d0b6cd42c7b29d2bc32694badcd4605010cff8f0f0e0bdb9ec42e07767e5a4af960a6a140b248de8f1ba09fc1fcfb58f6367afb1e94657086e28f9d2007815d17156405f
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="极速全网通", CCTV11戏曲
+https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=167f721b7901636ee98a716ee8ac5c14929d6868f77dcf9e7fb04c5b29e971fa3e0a8d134d4553c4635666bdd6f30837e9c5cc9fd381e2a912f5d88a3621180477d1732c1b2def51980eb0c6b6
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="极速全网通", CCTV12社会与法
+https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=99c2c1ba9689958d0f520e0a2798bc63e0860c42e94ba7115469a340b5d065bc468d6a6a987a22d015ec2ff0d603c59ad22c708c6a6a645079939d73d86c826c6592ee47f7a7850f2e57840339
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="极速全网通", CCTV13新闻
+https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=51fec56b58eb0c9515955fdd5515432035bb55624e71ec13b5947d42876b4c403e1c79575fcf77396eb20f4954e636fb3aec37016686c9b976e9febd057c8f593af7459c57d6995a2b3227fa65
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="极速全网通", CCTV14少儿
+https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=73fb9bd1e9dfca856aede5f3ebc8fa05357075396f16b8e7efdd02509b313e0715aad895e5d9b1170f361da04b3507e556d30c1cc7aa3ca3e46e15d787377869a3648df84bb982ceb3fbfe9013
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="极速全网通", CCTV15音乐
+https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=aea37cca033e675bd213802416e0573c11f94dab42fcc441d087ef3797c088c72cf75a74b5505fb005c8e25808330aa79c5e893b3aa4fbe3eb7084ebfd9fd983e14cc6cc001038385db0c663cf
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="极速全网通", CCTV17农业农村
+https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=4671310a52bc78d0534a5ae358377addbbbc7c7df9cc9bc8dd8e099953ffca7526a8d1f3c4efc2d8088c8dccaf4a3f782356b3e5dd8da565c7ccbbe46e9e19ebf4a02ce5e4f90c87812df24016
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/315/202204010055_1626831001078_H169_1080.jpg" group-title="极速全网通", CCTV4欧洲
+https://mursor.ottiptv.cc/migu/608807419.m3u8?migutoken=77dbfa98ec2050a65df8298a3dc994e3cf12703fd2c96b97d8ebabd65c66a77f8c454131efd19aae319e8e98a4c483597205cf9928d990c9509956a0f6ccca438cb326e97a520acf021c982239
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/344/202204010055_1626830735444_H169_1080.jpg" group-title="极速全网通", CCTV4美洲
+https://mursor.ottiptv.cc/migu/608807416.m3u8?migutoken=b28ec1c42332c8cab8a090809b9d58e02648fc3cc426c6233dfa5143984f9dea7808172e60b2b2250886154cbc2fc0c184544182fbe66f56d0dc2ca19e5c16cb9261e14c0edf14c371ee34b835
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/356/202502251602_1740470533820_H169_1080.jpg" group-title="极速全网通", CGTN外语纪录
+https://mursor.ottiptv.cc/migu/609006487.m3u8?migutoken=40fbbfa857ddf4b9938734e148314f400d91d5458411885c3a470d65fb7dbc0ac03f2b8ccdacc805d4164ff69dab72c7992f72919b74847114b643f5938dec79724566179cb5b2efbe1524e1b6
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/303/202502251557_1740470224929_H169_1080.jpg" group-title="极速全网通", CGTN阿拉伯语
+https://mursor.ottiptv.cc/migu/609154345.m3u8?migutoken=65c313916420ec49fc75f3f7b3c2867c35ec25fec17c824217960e2715fe00d1304f7d3629a59999f4afe8d42812ba217058ef20598a9adfcd3a9f4771019a81df2941d36db2d37ab14c73854b
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/337/202502251600_1740470429939_H169_1080.jpg" group-title="极速全网通", CGTN西班牙语
+https://mursor.ottiptv.cc/migu/609006450.m3u8?migutoken=9d8705b42a6cb484e297008c14962c1ef92c2fd263cfbc8323aa3f0082da79d9a4cf5ef1c0b13a784f23a0d167e8565d9762e1b29e721725f7701a5c79d5ebb6b1201cfdb65014088ab139c296
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/324/202502251559_1740470364968_H169_1080.jpg" group-title="极速全网通", CGTN法语
+https://mursor.ottiptv.cc/migu/609006476.m3u8?migutoken=17db91c2e7fe9546cabee2d19c4ade2df9573d126a4484239bb4911d88be5a3e7fa292f4d7c03a395f98734b94f78ff97533d4724f2bf983c6dae191e142245a06628b79a8010ee6fa70071654
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/332/202502251558_1740470310039_H169_1080.jpg" group-title="极速全网通", CGTN俄语
+https://mursor.ottiptv.cc/migu/609006446.m3u8?migutoken=45cf0daf60bc97540b989840b514ae367366497eb7e4fdb7333d64ab32cf4ab56b32eed00b90d56c3531b3ee1ccc9a9e611a81b13f178762792cd3ea77bb089c14d059b10ceac9589125b8b439
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="极速全网通", 老故事
+https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=83550e593d260726799a60ba24c917350946970a6e79105bac7abedab0eaa55a0fbd06918645783d92b720adbf38bf519763df0fd4e8e31ee456cd17943c092afc8390b8f089f90b0f0375f6ac
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="极速全网通", 发现之旅
+https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=c485453d279361b5dfb5753acd95900319813fef7c7ba6f462f415218423b68a7a290132b06e238a2164113d6d4403aa3f3cccd34d74ec5bd083330a4d9eabbc09627230717bc4a39eb293fc54
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/355/202405081702_1715158104256_H169_1080.jpg" group-title="极速全网通", 中学生
+https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=dd93d29c6ead514bca73c7cbaafee4e13ac8c313ff6edd38c722745b5c16e29bf84b3a98e8f39817e1a4a995d78a6c705fddaefa3eec088ea7506716b7733d6f76a78ab464f924994b0ae00b9c
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/196/407/202204010052_1642124762081_H169_1080.jpg" group-title="极速全网通", CGTN
+https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=f6da0c21ef3ae9f92b0c11968e8c73781591f09287d27427573637d6ac15783074932fb057ca136014a18aa32d01238a55b21d69119b4e23dd91d58de4a66f58d123b443e337c63b5ba5cd9baa
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H169_1080.jpg" group-title="极速全网通", 东方卫视
+https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=816ae849186c10d4ecbae79a0204ed1807dc76e9f23245a58791f47be3f46e4ed96049eef17c5915d3a0f244ba3ba47740483c88e00b4a8e11e3293dec816d08a7dbf7d49bc207cd6547dc6f75
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="极速全网通", 江苏卫视
+https://mursor.ottiptv.cc/migu/623899368.m3u8?migutoken=8b34e4a4c61562d1e536873a579e101343e1e364aa784c2a793e32953e2f08767be1532d049719a8448227e08c155093011f35260e6f07018694aed53b0a1cfd24e40f4efb7cc2d856eaf855b2
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="极速全网通", 广东卫视
+https://mursor.ottiptv.cc/migu/608831231.m3u8?migutoken=4f2544151ba16c5330599675f8c8abfd5194ed52df0e4404d3af294e71763e9d0d8df50b8c27b5f35580a16a749abc977fa2ed1780fed8d1aa235721e2e5265713f129563c9a2a072a89670640
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="极速全网通", 江西卫视
+https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=0e8fe78b4ec86a4197b64409df652643a70ba5a89e68d31257ef0216125b45d10596e8386f2b972f08f453c030a0c3dab2d8e0bdf53bc590bf49796433de505623389bcfcbdd9314c8984e189b
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/585/202304031400_1679994685582_H169_1080.jpg" group-title="极速全网通", 河南卫视
+https://mursor.ottiptv.cc/migu/790187291.m3u8?migutoken=4f76ae6513151635c89c75e1cf07bc0d27a2a827d73705c61409473667d0597057945f9bb839ba78a1b322ad6068cdf899a357f18d2c11a18f231fb8421b1636d1d022de9c33158f18b0f81667
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/020/475/202207191732_1658131375175_H169_1080.jpg" group-title="极速全网通", 陕西卫视
+https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=25c92579c266f9f988863c8afcb68c9972c85a6655309669ac1ccb138544c07ab6cba2df43327af4896cd4af999ef559174f6043bc8b2118e641b738c1fcf3762ba9b6b2f463bc295d21bdbebd
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="极速全网通", 大湾区卫视
+https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=30ea7de77a0233ca9fd214e37d29c0f72403f6713ad3cde23caf18298f74994ae24a88a48e9bc4fae9b9c43a2ab3cd58f8b6f72a7d3d65c4a7bdeeb10b305de47fa837513c708ff6e288880677
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/163/202501231715_1658138621263_H169_1080.jpg" group-title="极速全网通", 湖北卫视
+https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=358b6e4b299c1a58a96aca7f0f1bb8f1fd4af225b82d159abfb9b1f5ea03cb5768158c9b197cca19c23defb75a55029ef4d3182df5ddd386755cb8a131a3a0f2a67763330f406d337e792c8cde
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/164/202501231715_1658138745288_H169_1080.jpg" group-title="极速全网通", 吉林卫视
+https://mursor.ottiptv.cc/migu/947472500.m3u8?migutoken=6af8bb7e31aaf3f951e75a9a12fc87ee468e63bfc9b9ee0d1c334e2cfdd3b893d38c0e3e9380e79a36fa980821ad1c80eeb9ba301ffc35a13e74fbe57446762fbf973847af5af388b7e286629c
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/166/202501231715_1658138568499_H169_1080.jpg" group-title="极速全网通", 青海卫视
+https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=419e8e08edb7818cf4e6992592d716447a4f44b7607d9f0961b3902f1971f7a09397ce6d65f56308a0ed365dc5a352f3f40a46191a292237936f0078572d7e7482608fe9f69778512b2cb131d5
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/182/202507151427_1744624877831_H169_1080.jpg" group-title="极速全网通", 东南卫视
+https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=62a36ff30e33ee4b8cf5e6c6153aa412a1b201a9ec5207b32dbc7790b6d847bf6fdf542fdcc0b06d8ad1b87602289594315e6924aa661e2abe93fa38ee9d8253ecc126aa227e075fb2f700b34a
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/165/202501231715_1658138887282_H169_1080.jpg" group-title="极速全网通", 海南卫视
+https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=acebd292a90f16c290f2dbd196e30c2efa3365d26362247634628e12c209a5f021534dbae6bb4ed01a7c1359631dec32f980c335e2769c5d841f2a58bf05003529759fb8a22a36bd00dc4c5a28
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/183/202507151427_1690875414853_H169_1080.jpg" group-title="极速全网通", 海峡卫视
+https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=8cadd39dc6cdd5b06f2b6c6be734d3ba20eb7994409a6ccfb2e20702dcbb2e95a353ce35c533300e5381a914007bf4f669e221328622e76eefed613bb2461bfd848418fc19bb9bcbfac06a23a3
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/186/202508051621_1754370268870_H169_1080.jpg" group-title="极速全网通", 中国农林卫视
+https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=099fafbbe2fcac29cc40be258691ca828c8bda013971bfbe801a00c28960ec0cea4839b45e271e8405d731158e23f5a62cb155406c104d2049de8319b82f155c9dff7af1948dbd357ea1e98343
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/192/202508061552_1754385897430_H169_1080.jpg" group-title="极速全网通", 兵团卫视
+https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=3be33fcea1bddf67b19a5f25725dad8d5ba598f7738c50fdaca616f8b9fc7d12b859300bfd0a7f7c35bef766861445a17502f1029f70aaf939d44cfb9e9d3fe7855e926884cad0b86a1a75f0a2
 
 
 
@@ -1671,41 +1635,6 @@ http://t.061899.xyz/tl/dq.php?id=xjws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="央卫测试",西藏卫视
 http://t.061899.xyz/tl/dq.php?id=xzws
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="全网通央视",CCTV1
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYx
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="全网通央视",CCTV2
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYy
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="全网通央视",CCTV3
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYz
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="全网通央视",CCTV4
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="全网通央视",CCTV5
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY1
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="全网通央视",CCTV5+
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY1cA==
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="全网通央视",CCTV6
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY2
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="全网通央视",CCTV7
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY3
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="全网通央视",CCTV8
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY4
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="全网通央视",CCTV9
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFY5
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="全网通央视",CCTV10
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxMA==
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="全网通央视",CCTV11
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxMQ==
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="全网通央视",CCTV12
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxMg==
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="全网通央视",CCTV13
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxMw==
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="全网通央视",CCTV14
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxNA==
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="全网通央视",CCTV15
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxNQ==
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="全网通央视",CCTV17
-http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2My41OC4xNjg6MjAyNC9maHR2eGYucGhwP2lkPUNDVFYxNw==
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
@@ -15393,6 +15322,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
