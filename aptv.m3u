@@ -586,6 +586,22 @@ https://mursor.ottiptv.cc/migu/609006450.m3u8?migutoken=5f615059bddd8be56e284c8c
 https://mursor.ottiptv.cc/migu/609006476.m3u8?migutoken=a56c7ef696caac4934d0238d5283f4523ab4b65c44b04d41423c32eba4f6fc75797f909674f574be4c69ad39424a22fc691a8c5bbc41acf670bd9ab4534bdbfac99184156eae92b6569eda6ba7
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/332/202502251558_1740470310039_H169_1080.jpg" group-title="极速全网通", CGTN俄语
 https://mursor.ottiptv.cc/migu/609006446.m3u8?migutoken=2dbae7b9a8f570b069415c7a707de54bf0d525b9454a7f2f769e6901d5789810e61b384419c4a31add100a75944f0e4a51faac8b9a97fe6ff7b516e52c77a669730388e1d2e5fcc0b847483e54
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="极速全网通",cctv16-MST
+https://mursor.ottiptv.cc/mst/6000061.m3u8
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="极速全网通",cctv8k-MCP
+https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
+#EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://11.112114.xyz/logo/CGTNALBY.png" group-title="极速全网通",cgtnar-MCP
+https://mursor.ottiptv.cc/mcp/cgtnar.m3u8
+#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="极速全网通",cgtndoc-MCP
+https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8
+#EXTINF:-1,tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="极速全网通",cgtn-MCP
+https://mursor.ottiptv.cc/mcp/cgtn.m3u8
+#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://11.112114.xyz/logo/cgtnfrench.png" group-title="极速全网通",cgtnfr-MCP
+https://mursor.ottiptv.cc/mcp/cgtnfr.m3u8
+#EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="极速全网通",cgtnru-MCP
+https://mursor.ottiptv.cc/mcp/cgtnru.m3u8
+#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="极速全网通",cgtnsp-MCP
+https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="极速全网通", 老故事
 https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=8d1add556c1b3f88d4ddb54f0600d108228a95663ea6b320865986045b1a75d7fd2bf5621b122d7639c140709a5b736d0cfeed69432ffd61f344f3403671528b6c49bc8989cdefa516d1111ca1
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="极速全网通", 发现之旅
@@ -624,24 +640,6 @@ https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=99f7fd42492b5ca3c7fefe0c
 https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=90f05109766bafa3991a29aa9251357ef17a9ec8b13a3bb864043481bfcd79da6b85a6d57b195bbd60da3987f38ce23c9027b86b080312709d7cad6143e40795bb75807d532510ce91147a7a6f
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/192/202508061552_1754385897430_H169_1080.jpg" group-title="极速全网通", 兵团卫视
 https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=15d49ead15fcbd8be2d0ca867d3c8b44d6b988d137b08db108378135eefcbed8d7624ec0270268b51dff726893c96ab18aaaed8aa4b3a1ebf9e5067d80bd53c6bb9b8e9f9d5bb131959128e4b3
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视",cctv16-MST
-https://mursor.ottiptv.cc/mst/6000061.m3u8
-#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视",cctv8k-MCP
-https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
-#EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://11.112114.xyz/logo/CGTNALBY.png" group-title="央视",cgtnar-MCP
-https://mursor.ottiptv.cc/mcp/cgtnar.m3u8
-#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="央视",cgtndoc-MCP
-https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8
-#EXTINF:-1,tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",cgtn-MCP
-https://mursor.ottiptv.cc/mcp/cgtn.m3u8
-#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://11.112114.xyz/logo/cgtnfrench.png" group-title="央视",cgtnfr-MCP
-https://mursor.ottiptv.cc/mcp/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视",cgtnru-MCP
-https://mursor.ottiptv.cc/mcp/cgtnru.m3u8
-#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视",cgtnsp-MCP
-https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育电视台-MCP
-https://mursor.ottiptv.cc/mcp/cetv1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="极速全网通",北京卫视-MCP
 https://mursor.ottiptv.cc/mcp/beijing.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="极速全网通",湖南卫视-MCP
@@ -15408,6 +15406,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
