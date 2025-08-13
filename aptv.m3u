@@ -1822,7 +1822,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbL
 
 
 
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
@@ -1891,6 +1891,163 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="超速港澳台" tvg-logo="https://www.lysvc.cc/TVLogo/img/TVB%20plus%E5%A4%873.png",TVB plus备3
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+#EXTINF:-1 tvg-name="年代新闻台" tvg-logo="https://live.fanmingming.com/tv/年代新闻台.png" group-title="超速港澳台",年代新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/港台电视31.png" group-title="超速港澳台",港台电视31
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="超速港澳台",凤凰卫视中文台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0
+#EXTINF:-1 tvg-name="NOW直播台" tvg-logo="https://live.fanmingming.com/tv/NOW直播台.png" group-title="超速港澳台",NOW直播台
+http://ai.wyp8.top/agent/dl1.php?id=NOW%E7%9B%B4%E6%92%AD%E5%8F%B0
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="超速港澳台",八大综合台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="超速港澳台",NOW新闻台
+http://ai.wyp8.top/agent/dl1.php?id=NOW%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="ELEVEN 1（DAZN 1）" tvg-logo="https://live.fanmingming.com/tv/ELEVEN 1（DAZN 1）.png" group-title="超速港澳台",ELEVEN 1（DAZN 1）
+http://ai.wyp8.top/agent/dl1.php?id=ELEVEN+1%EF%BC%88DAZN+1%EF%BC%89
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.com/tv/华丽翡翠台.png" group-title="超速港澳台",华丽翡翠台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 tvg-name="FOX新聞" tvg-logo="https://live.fanmingming.com/tv/FOX新聞.png" group-title="超速港澳台",FOX新聞
+http://ai.wyp8.top/agent/dl1.php?id=FOX%E6%96%B0%E8%81%9E
+#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://live.fanmingming.com/tv/民视影剧台.png" group-title="超速港澳台",民视影剧台
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影.png" group-title="超速港澳台",好莱坞电影
+http://ai.wyp8.top/agent/dl1.php?id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="https://live.fanmingming.com/tv/东森综合台.png" group-title="超速港澳台",东森综合台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png" group-title="超速港澳台",东森新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="超速港澳台",TVB明珠台
+http://ai.wyp8.top/agent/dl1.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="超速港澳台",中天亚洲台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2%E5%8F%B0
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.com/tv/TVBS HD.png" group-title="超速港澳台",TVBS HD
+http://ai.wyp8.top/agent/dl1.php?id=TVBS+HD
+#EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://live.fanmingming.com/tv/HOY国际财经台.png" group-title="超速港澳台",HOY国际财经台
+http://ai.wyp8.top/agent/dl1.php?id=HOY%E5%9B%BD%E9%99%85%E8%B4%A2%E7%BB%8F%E5%8F%B0
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻台.png" group-title="超速港澳台",TVB娱乐新闻台
+http://ai.wyp8.top/agent/dl1.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="超速港澳台",民视
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="超速港澳台",寰宇新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="超速港澳台",东森电影台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="超速港澳台",TVBS新闻台
+http://ai.wyp8.top/agent/dl1.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="香港有线18台" tvg-logo="https://live.fanmingming.com/tv/香港有线18台.png" group-title="超速港澳台",香港有线18台
+http://ai.wyp8.top/agent/dl1.php?id=%E9%A6%99%E6%B8%AF%E6%9C%89%E7%BA%BF18%E5%8F%B0
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾台.png" group-title="超速港澳台",寰宇新闻台湾台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="超速港澳台",Discovery
+http://ai.wyp8.top/agent/dl1.php?id=Discovery
+#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻台.png" group-title="超速港澳台",TVB无线新闻台
+http://ai.wyp8.top/agent/dl1.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/ViuTV6.png" group-title="超速港澳台",ViuTV6
+http://ai.wyp8.top/agent/dl1.php?id=ViuTV6
+#EXTINF:-1 tvg-name="ELEVEN 2（DAZN 2）" tvg-logo="https://live.fanmingming.com/tv/ELEVEN 2（DAZN 2）.png" group-title="超速港澳台",ELEVEN 2（DAZN 2）
+http://ai.wyp8.top/agent/dl1.php?id=ELEVEN+2%EF%BC%88DAZN+2%EF%BC%89
+#EXTINF:-1 tvg-name="香港有线18台(备)" tvg-logo="https://live.fanmingming.com/tv/香港有线18台(备).png" group-title="超速港澳台",香港有线18台(备)
+http://ai.wyp8.top/agent/dl1.php?id=%E9%A6%99%E6%B8%AF%E6%9C%89%E7%BA%BF18%E5%8F%B0%28%E5%A4%87%29
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="超速港澳台",凤凰卫视资讯台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0
+#EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://live.fanmingming.com/tv/华视新闻台.png" group-title="超速港澳台",华视新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://live.fanmingming.com/tv/纬来日本台.png" group-title="超速港澳台",纬来日本台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%E5%8F%B0
+#EXTINF:-1 tvg-name="MOMO综合台" tvg-logo="https://live.fanmingming.com/tv/MOMO综合台.png" group-title="超速港澳台",MOMO综合台
+http://ai.wyp8.top/agent/dl1.php?id=MOMO%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBO HD.png" group-title="超速港澳台",HBO HD
+http://ai.wyp8.top/agent/dl1.php?id=HBO+HD
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="超速港澳台",台视
+http://ai.wyp8.top/agent/dl1.php?id=%E5%8F%B0%E8%A7%86
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="超速港澳台",美亚电影台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="超速港澳台",华视
+http://ai.wyp8.top/agent/dl1.php?id=%E5%8D%8E%E8%A7%86
+#EXTINF:-1 tvg-name="大爱一台" tvg-logo="https://live.fanmingming.com/tv/大爱一台.png" group-title="超速港澳台",大爱一台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%A4%A7%E7%88%B1%E4%B8%80%E5%8F%B0
+#EXTINF:-1 tvg-name="NOW财经台" tvg-logo="https://live.fanmingming.com/tv/NOW财经台.png" group-title="超速港澳台",NOW财经台
+http://ai.wyp8.top/agent/dl1.php?id=NOW%E8%B4%A2%E7%BB%8F%E5%8F%B0
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="超速港澳台",民视台湾台
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/港台电视32.png" group-title="超速港澳台",港台电视32
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="超速港澳台",东森超视
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86
+#EXTINF:-1 tvg-name="TVBS精彩台" tvg-logo="https://live.fanmingming.com/tv/TVBS精彩台.png" group-title="超速港澳台",TVBS精彩台
+http://ai.wyp8.top/agent/dl1.php?id=TVBS%E7%B2%BE%E5%BD%A9%E5%8F%B0
+#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻台.png" group-title="超速港澳台",台视新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://live.fanmingming.com/tv/三立都会台.png" group-title="超速港澳台",三立都会台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://live.fanmingming.com/tv/纬来体育台.png" group-title="超速港澳台",纬来体育台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="超速港澳台",中天新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://live.fanmingming.com/tv/BBC新闻.png" group-title="超速港澳台",BBC新闻
+http://ai.wyp8.top/agent/dl1.php?id=BBC%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="超速港澳台",TVBS欢乐台
+http://ai.wyp8.top/agent/dl1.php?id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://live.fanmingming.com/tv/中天综合台.png" group-title="超速港澳台",中天综合台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="超速港澳台",非凡新闻
+http://ai.wyp8.top/agent/dl1.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="超速港澳台",ViuTV
+http://ai.wyp8.top/agent/dl1.php?id=ViuTV
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/HOY TV.png" group-title="超速港澳台",HOY TV
+http://ai.wyp8.top/agent/dl1.php?id=HOY+TV
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="超速港澳台",TVB翡翠台
+http://ai.wyp8.top/agent/dl1.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="https://live.fanmingming.com/tv/纬来育乐台.png" group-title="超速港澳台",纬来育乐台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://live.fanmingming.com/tv/三立综合台.png" group-title="超速港澳台",三立综合台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 tvg-name="CNN新闻" tvg-logo="https://live.fanmingming.com/tv/CNN新闻.png" group-title="超速港澳台",CNN新闻
+http://ai.wyp8.top/agent/dl1.php?id=CNN%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="超速港澳台",民视新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://live.fanmingming.com/tv/民视旅游台.png" group-title="超速港澳台",民视旅游台
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0
+#EXTINF:-1 tvg-name="香港有线新闻台" tvg-logo="https://live.fanmingming.com/tv/香港有线新闻台.png" group-title="超速港澳台",香港有线新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E9%A6%99%E6%B8%AF%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="超速港澳台",民视综艺台
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育2台.png" group-title="超速港澳台",爱尔达体育2台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="超速港澳台",民视第一台
+http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0
+#EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="https://live.fanmingming.com/tv/镜电视新闻台.png" group-title="超速港澳台",镜电视新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E9%95%9C%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育3台.png" group-title="超速港澳台",爱尔达体育3台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://live.fanmingming.com/tv/八大第一台.png" group-title="超速港澳台",八大第一台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="超速港澳台",中视
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E8%A7%86
+#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育4台.png" group-title="超速港澳台",爱尔达体育4台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B24%E5%8F%B0
+#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png" group-title="超速港澳台",HOY资讯台
+http://ai.wyp8.top/agent/dl1.php?id=HOY%E8%B5%84%E8%AE%AF%E5%8F%B0
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="超速港澳台",凤凰卫视香港台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0
+#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://live.fanmingming.com/tv/大爱二台.png" group-title="超速港澳台",大爱二台
+http://ai.wyp8.top/agent/dl1.php?id=%E5%A4%A7%E7%88%B1%E4%BA%8C%E5%8F%B0
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://live.fanmingming.com/tv/三立新闻台.png" group-title="超速港澳台",三立新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻台.png" group-title="超速港澳台",东森财经新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://live.fanmingming.com/tv/三立台湾台.png" group-title="超速港澳台",三立台湾台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="超速港澳台",公视
+http://ai.wyp8.top/agent/dl1.php?id=%E5%85%AC%E8%A7%86
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育1台.png" group-title="超速港澳台",爱尔达体育1台
+http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="超速港澳台",TVB Plus
+http://ai.wyp8.top/agent/dl1.php?id=TVB+Plus
+#EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="超速港澳台",中视新闻台
+http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+
 
 
 #EXTM3U
@@ -1994,20 +2151,6 @@ http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.com/tv/TVB生活台.png" group-title="时效港澳台",TVB生活台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/1YSKKplsCJMBhMsAS37PyLosrF2UCOeqYgPS0IDjve8UKxS5QS.flv
-#EXTINF:-1 tvg-name="功夫台" tvg-logo="https://live.fanmingming.com/tv/功夫台.png" group-title="时效港澳台",功夫台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/chNDM1yLosrFfbemYe3QFaC10n2vqBePUyvCKs7NLnIKhl7lKu.flv
-#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="时效港澳台",星河
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/uQ6GAaRJTHxrLosrFuthoagPy0FHuv5avbHvBZcOr5HvXfRxPV.flv
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.com/tv/Now华剧台.png" group-title="时效港澳台",Now华剧台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/B9AKX0X3gSWZVv91HLosrFsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://live.fanmingming.com/tv/Now剧集台.png" group-title="时效港澳台",Now剧集台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/qwBoHYA5D4CJaoEgtcAi3kQJ0fLosrFov2AtSIL9RQVzndAtee.flv
-#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://live.fanmingming.com/tv/Now紫金国际.png" group-title="时效港澳台",Now紫金国际
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/QrXWokLosrFeGAWr9KbBUj9SwAMpVECiuTogGgIBeU1qwawMVI.flv
-#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.com/tv/Now新闻台.png" group-title="时效港澳台",Now新闻台
-http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="时效港澳台",翡翠台
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="时效港澳台",无线新闻台
@@ -2023,19 +2166,7 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/bdb59ec9d515cdad77fe2ed50899adac.f
 #EXTINF:-1 tvg-name="功夫台" tvg-logo="https://live.fanmingming.com/tv/功夫台.png" group-title="时效港澳台",功夫台
 http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="时效港澳台",美亚电影台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="时效港澳台",美亚电影台
 https://fr-us7.jdiptv.cc/live/xgmydygy.m3u8
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="时效港澳台",天映频道
-http://t.061899.xyz/tl/168.php?id=typd
-#EXTINF:-1 tvg-name="CCM" tvg-logo="https://live.fanmingming.com/tv/CCM.png" group-title="时效港澳台",CCM
-http://t.061899.xyz/tl/168.php?id=tyjd
-#EXTINF:-1 tvg-name="粤语片" tvg-logo="https://live.fanmingming.com/tv/粤语片.png" group-title="时效港澳台",粤语片
-http://lxajh.top/tv/douyu.php?id=1226741
-#EXTINF:-1 tvg-name="POPC" tvg-logo="https://live.fanmingming.com/tv/POPC.png" group-title="时效港澳台",POPC
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogepopc.flv
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞台.png" group-title="时效港澳台",寰宇新聞台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="时效港澳台",中天新闻
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 tvg-name="唐人街" tvg-logo="https://live.fanmingming.com/tv/唐人街.png" group-title="时效港澳台",唐人街
@@ -15502,6 +15633,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
