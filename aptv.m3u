@@ -7120,19 +7120,70 @@ http://play-hsbj.vzan.com/2146882248/645899275683339739/live.m3u8
 http://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 group-title="北京频道",延庆TV
 
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江特
-http://iptv.diyp.site/SxKUeuHRAe_公众号【DIYP】.php?key=gdtv&id=9
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png",广东影视
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png",广东民生
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png",大湾区卫视
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_dwq.flv
-#EXTM3U
+#EXTINF:-1 tvg-id="魅力足球HD" tvg-name="魅力足球HD" tvg-logo="https://tvbus.diypapp.me/logo.php魅力足球HD.png" group-title="广东频道",魅力足球HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=1
+#EXTINF:-1 tvg-id="劲爆体育HD" tvg-name="劲爆体育HD" tvg-logo="https://tvbus.diypapp.me/logo.php劲爆体育HD.png" group-title="广东频道",劲爆体育HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=2
+#EXTINF:-1 tvg-id="新视觉高清" tvg-name="新视觉高清" tvg-logo="https://tvbus.diypapp.me/logo.php新视觉高清.png" group-title="广东频道",新视觉高清
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=3
+#EXTINF:-1 tvg-id="广东体育HD" tvg-name="广东体育HD" tvg-logo="https://tvbus.diypapp.me/logo.php广东体育HD.png" group-title="广东频道",广东体育HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=7
+#EXTINF:-1 tvg-id="广东新闻HD" tvg-name="广东新闻HD" tvg-logo="https://tvbus.diypapp.me/logo.php广东新闻HD.png" group-title="广东频道",广东新闻HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=8
+#EXTINF:-1 tvg-id="广东珠江HD" tvg-name="广东珠江HD" tvg-logo="https://tvbus.diypapp.me/logo.php广东珠江HD.png" group-title="广东频道",广东珠江HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=9
+#EXTINF:-1 tvg-id="广东影视HD" tvg-name="广东影视HD" tvg-logo="https://tvbus.diypapp.me/logo.php广东影视HD.png" group-title="广东频道",广东影视HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=10
+#EXTINF:-1 tvg-id="广东财经HD" tvg-name="广东财经HD" tvg-logo="https://tvbus.diypapp.me/logo.php广东财经HD.png" group-title="广东频道",广东财经HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=11
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" tvg-logo="https://tvbus.diypapp.me/logo.php广东卫视HD.png" group-title="广东频道",广东卫视HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=12
+#EXTINF:-1 tvg-id="大湾区卫视HD" tvg-name="大湾区卫视HD" tvg-logo="https://tvbus.diypapp.me/logo.php大湾区卫视HD.png" group-title="广东频道",大湾区卫视HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=13
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://tvbus.diypapp.me/logo.php广东民生.png" group-title="广东频道",广东民生
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=19
+#EXTINF:-1 tvg-id="广东4k超高清" tvg-name="广东4k超高清" tvg-logo="https://tvbus.diypapp.me/logo.php广东4k超高清.png" group-title="广东频道",广东4k超高清
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=18
+#EXTINF:-1 tvg-id="岭南戏曲HD" tvg-name="岭南戏曲HD" tvg-logo="https://tvbus.diypapp.me/logo.php岭南戏曲HD.png" group-title="广东频道",岭南戏曲HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=14
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" tvg-logo="https://tvbus.diypapp.me/logo.php深圳卫视HD.png" group-title="广东频道",深圳卫视HD
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=4
+#EXTINF:-1 tvg-id="深圳都市频道" tvg-name="深圳都市频道" tvg-logo="https://tvbus.diypapp.me/logo.php深圳都市频道.png" group-title="广东频道",深圳都市频道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=5
+#EXTINF:-1 tvg-id="深圳电视剧频道" tvg-name="深圳电视剧频道" tvg-logo="https://tvbus.diypapp.me/logo.php深圳电视剧频道.png" group-title="广东频道",深圳电视剧频道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/TOKCHY6WPM_公众号【DIYP】.php?key=gdtv&id=6
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F%E5%A4%87.png",广东珠江备
 http://go.bkpcp.top/mg/gdzj
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2%E5%A4%87.png",广东体育备
@@ -15537,6 +15588,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
