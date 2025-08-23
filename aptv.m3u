@@ -2156,7 +2156,105 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbL
 #EXTINF:-1 group-title="咪咕体育",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1
 
-
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 group-title="AK港澳台",鳳凰衛視中文台
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",鳳凰衛視資訊台
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",鳳凰衛視香港台
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",天映經典(1080)
+http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",明珠剧集台(北美)
+http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",明珠台
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",無線新聞台
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",美亞電影台(HK)
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",翡翠剧集台(北美)
+http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",翡翠台
+http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",翡翠综合台(北美)
+http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",黃金翡翠台
+http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Sky Sports F1
+http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",天映电影
+http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",東森洋片
+http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",好萊塢電影台
+http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",緯來體育台
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Animax (HK)
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",AXN
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Channel 5 HD
+http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Channel 8 HD
+http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Channel U HD
+http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Love Nature HD
+http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",PopC
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",ROCK Action
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TVB Plus
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",tvN
+http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",CNA
+http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",朝鲜恩情台
+http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Japan News 24H LIVE
+http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",日テレNEWS LIVE
+http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",8TV
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Astro Football
+http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",Astro Sport UHD
+http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",EuroSport 1
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",EuroSport 2
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TNT SPORTS 1
+http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TNT SPORTS 2
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TNT SPORTS 3
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",中天亚洲台
+http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",KLT-靖天國際台
+http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TVBS
+http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",民視
+http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",民視第一台
+http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",龍華日韓台
+http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TVB 星河
+http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",TVBS新聞
+http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",中天新闻台
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="AK港澳台",東森新聞
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
@@ -3194,105 +3292,7 @@ http://iptv.4666888.xyz/iptv.php?id=20301
 http://iptv.4666888.xyz/iptv.php?id=20302
 
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="AK港澳台",鳳凰衛視中文台
-http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",鳳凰衛視資訊台
-http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",鳳凰衛視香港台
-http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",天映經典(1080)
-http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",明珠剧集台(北美)
-http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",明珠台
-http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",無線新聞台
-http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",美亞電影台(HK)
-http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",翡翠剧集台(北美)
-http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",翡翠台
-http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",翡翠综合台(北美)
-http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",黃金翡翠台
-http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Sky Sports F1
-http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",天映电影
-http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",東森洋片
-http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",好萊塢電影台
-http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",緯來體育台
-http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Animax (HK)
-http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",AXN
-http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Channel 5 HD
-http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Channel 8 HD
-http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Channel U HD
-http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Love Nature HD
-http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",PopC
-http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",ROCK Action
-http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TVB Plus
-http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",tvN
-http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",CNA
-http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",朝鲜恩情台
-http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Japan News 24H LIVE
-http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",日テレNEWS LIVE
-http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",8TV
-http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Astro Football
-http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",Astro Sport UHD
-http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",EuroSport 1
-http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",EuroSport 2
-http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TNT SPORTS 1
-http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TNT SPORTS 2
-http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TNT SPORTS 3
-http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",中天亚洲台
-http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",KLT-靖天國際台
-http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TVBS
-http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",民視
-http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",民視第一台
-http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",龍華日韓台
-http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TVB 星河
-http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",TVBS新聞
-http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",中天新闻台
-http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AK港澳台",東森新聞
-http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="龙祥电影(粤)" tvg-logo="https://live.fanmingming.com/tv/龙祥电影(粤).png" group-title="稳定港澳台",龙祥电影(粤)
@@ -3418,204 +3418,6 @@ http://8.138.7.223/tv/lotustv.m3u8
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
 
-
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.com/tv/翡翠.png" group-title="斯玛特GAT",翡翠
-http://104.233.200.52:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.com/tv/翡翠.png" group-title="斯玛特GAT",翡翠
-http://104.233.200.52:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.com/tv/美亚电影.png" group-title="斯玛特GAT",美亚电影
-http://104.233.200.52:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.com/tv/美亚电影.png" group-title="斯玛特GAT",美亚电影
-http://104.233.200.52:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="斯玛特GAT",RTHK32
-http://104.233.200.52:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="斯玛特GAT",RTHK31
-http://104.233.200.52:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="斯玛特GAT",凤凰卫视
-http://104.233.200.52:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-#EXTINF:-1 tvg-name="无线财经资讯" tvg-logo="https://live.fanmingming.com/tv/无线财经资讯.png" group-title="斯玛特GAT",无线财经资讯
-http://104.233.200.52:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-#EXTINF:-1 tvg-name="VIUTV1" tvg-logo="https://live.fanmingming.com/tv/VIUTV1.png" group-title="斯玛特GAT",VIUTV1
-http://104.233.200.52:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="斯玛特GAT",无线新闻
-http://104.233.200.52:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="斯玛特GAT",龙华戏剧
-http://104.233.200.52:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="斯玛特GAT",龙华偶像
-http://104.233.200.52:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="斯玛特GAT",龙华卡通
-http://104.233.200.52:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="斯玛特GAT",非凡新闻
-http://104.233.200.52:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.com/tv/美亚电影.png" group-title="斯玛特GAT",美亚电影
-http://104.233.200.52:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://live.fanmingming.com/tv/Arirang.png" group-title="斯玛特GAT",Arirang
-http://104.233.200.52:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
-#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影.png" group-title="斯玛特GAT",好莱坞电影
-http://104.233.200.52:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育2.png" group-title="斯玛特GAT",爱尔达体育2
-http://104.233.200.52:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育1.png" group-title="斯玛特GAT",爱尔达体育1
-http://104.233.200.52:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="斯玛特GAT",民视新闻
-http://104.233.200.52:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾.png" group-title="斯玛特GAT",民视台湾
-http://104.233.200.52:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="斯玛特GAT",民视
-http://104.233.200.52:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="斯玛特GAT",年代新闻
-http://104.233.200.52:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 tvg-name="大爱1" tvg-logo="https://live.fanmingming.com/tv/大爱1.png" group-title="斯玛特GAT",大爱1
-http://104.233.200.52:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.com/tv/博斯高球2.png" group-title="斯玛特GAT",博斯高球2
-http://104.233.200.52:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.com/tv/博斯运动2.png" group-title="斯玛特GAT",博斯运动2
-http://104.233.200.52:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
-#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.com/tv/博斯运动1.png" group-title="斯玛特GAT",博斯运动1
-http://104.233.200.52:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="斯玛特GAT",博斯网球
-http://104.233.200.52:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="斯玛特GAT",华视
-http://104.233.200.52:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="斯玛特GAT",公视
-http://104.233.200.52:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://live.fanmingming.com/tv/八大综合.png" group-title="斯玛特GAT",八大综合
-http://104.233.200.52:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="斯玛特GAT",中视新闻
-http://104.233.200.52:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="斯玛特GAT",中视
-http://104.233.200.52:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="斯玛特GAT",中天娱乐
-http://104.233.200.52:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.com/tv/中天亚洲.png" group-title="斯玛特GAT",中天亚洲
-http://104.233.200.52:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="斯玛特GAT",东森超视
-http://104.233.200.52:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://live.fanmingming.com/tv/东森戏剧.png" group-title="斯玛特GAT",东森戏剧
-http://104.233.200.52:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/三立综合.png" group-title="斯玛特GAT",三立综合
-http://104.233.200.52:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
-#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.com/tv/三立戏剧.png" group-title="斯玛特GAT",三立戏剧
-http://104.233.200.52:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="斯玛特GAT",东森电影
-http://104.233.200.52:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://live.fanmingming.com/tv/东森综合.png" group-title="斯玛特GAT",东森综合
-http://104.233.200.52:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.com/tv/中天综合.png" group-title="斯玛特GAT",中天综合
-http://104.233.200.52:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://live.fanmingming.com/tv/八大综合.png" group-title="斯玛特GAT",八大综合
-http://104.233.200.52:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://live.fanmingming.com/tv/八大戏剧.png" group-title="斯玛特GAT",八大戏剧
-http://104.233.200.52:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.com/tv/八大第一.png" group-title="斯玛特GAT",八大第一
-http://104.233.200.52:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 tvg-name="小太阳" tvg-logo="https://live.fanmingming.com/tv/小太阳.png" group-title="斯玛特GAT",小太阳
-http://104.233.200.52:8278/Xiaotaiyang/playlist.m3u8?tid=MD0D9499792694997926&ct=19254&tsum=900f8779aea05605b068dd6741e0feae
-#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="斯玛特GAT",靖天卡通
-http://104.233.200.52:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://live.fanmingming.com/tv/靖天国际.png" group-title="斯玛特GAT",靖天国际
-http://104.233.200.52:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.com/tv/TVBS News.png" group-title="斯玛特GAT",TVBS News
-http://104.233.200.52:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="斯玛特GAT",TVBS
-http://104.233.200.52:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://live.fanmingming.com/tv/EYETV戏剧.png" group-title="斯玛特GAT",EYETV戏剧
-http://104.233.200.52:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://live.fanmingming.com/tv/EYETV旅游.png" group-title="斯玛特GAT",EYETV旅游
-http://104.233.200.52:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="斯玛特GAT",TVBS欢乐
-http://104.233.200.52:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="斯玛特GAT",TVBS欢乐
-http://104.233.200.52:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="斯玛特GAT",TVBS欢乐
-http://104.233.200.52:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://live.fanmingming.com/tv/WWE.png" group-title="斯玛特GAT",WWE
-http://104.233.200.52:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/三立台湾.png" group-title="斯玛特GAT",三立台湾
-http://104.233.200.52:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.com/tv/三立戏剧.png" group-title="斯玛特GAT",三立戏剧
-http://104.233.200.52:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.com/tv/三立戏剧.png" group-title="斯玛特GAT",三立戏剧
-http://104.233.200.52:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="斯玛特GAT",中视新闻
-http://104.233.200.52:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="斯玛特GAT",中视新闻
-http://104.233.200.52:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.com/tv/八大第一.png" group-title="斯玛特GAT",八大第一
-http://104.233.200.52:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.com/tv/八大第一.png" group-title="斯玛特GAT",八大第一
-http://104.233.200.52:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.com/tv/博斯高球1.png" group-title="斯玛特GAT",博斯高球1
-http://104.233.200.52:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.com/tv/博斯高球1.png" group-title="斯玛特GAT",博斯高球1
-http://104.233.200.52:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育1.png" group-title="斯玛特GAT",爱尔达体育1
-http://104.233.200.52:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育2.png" group-title="斯玛特GAT",爱尔达体育2
-http://104.233.200.52:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 tvg-name="星卫电影" tvg-logo="https://live.fanmingming.com/tv/星卫电影.png" group-title="斯玛特GAT",星卫电影
-http://104.233.200.52:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="斯玛特GAT",非凡新闻
-http://104.233.200.52:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="斯玛特GAT",非凡新闻
-http://104.233.200.52:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="斯玛特GAT",龙华戏剧
-http://104.233.200.52:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="斯玛特GAT",龙华戏剧
-http://104.233.200.52:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/国家地理.png" group-title="斯玛特GAT",国家地理
-http://104.233.200.52:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-#EXTINF:-1 tvg-name="地理野生动物" tvg-logo="https://live.fanmingming.com/tv/地理野生动物.png" group-title="斯玛特GAT",地理野生动物
-http://104.233.200.52:8278/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
-#EXTINF:-1 tvg-name="野生动物" tvg-logo="https://live.fanmingming.com/tv/野生动物.png" group-title="斯玛特GAT",野生动物
-http://104.233.200.52:8278/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
-#EXTINF:-1 tvg-name="地理野生动物" tvg-logo="https://live.fanmingming.com/tv/地理野生动物.png" group-title="斯玛特GAT",地理野生动物
-http://104.233.200.52:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
-#EXTINF:-1 tvg-name="NatGeo Tamil" tvg-logo="https://live.fanmingming.com/tv/NatGeo Tamil.png" group-title="斯玛特GAT",NatGeo Tamil
-http://104.233.200.52:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
-#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/国家地理.png" group-title="斯玛特GAT",国家地理
-http://104.233.200.52:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="斯玛特GAT",动物星球
-http://104.233.200.52:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 tvg-name="动物星球1" tvg-logo="https://live.fanmingming.com/tv/动物星球1.png" group-title="斯玛特GAT",动物星球1
-http://104.233.200.52:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
-#EXTINF:-1 tvg-name="CNA亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/CNA亚洲新闻.png" group-title="斯玛特GAT",CNA亚洲新闻
-http://104.233.200.52:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="斯玛特GAT",Euronews
-http://104.233.200.52:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
-#EXTINF:-1 tvg-name="TLC旅游生活" tvg-logo="https://live.fanmingming.com/tv/TLC旅游生活.png" group-title="斯玛特GAT",TLC旅游生活
-http://104.233.200.52:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-#EXTINF:-1 tvg-name="新加坡8" tvg-logo="https://live.fanmingming.com/tv/新加坡8.png" group-title="斯玛特GAT",新加坡8
-http://104.233.200.52:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-#EXTINF:-1 tvg-name="Tnn24" tvg-logo="https://live.fanmingming.com/tv/Tnn24.png" group-title="斯玛特GAT",Tnn24
-http://104.233.200.52:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="斯玛特GAT",Thrill
-http://104.233.200.52:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://live.fanmingming.com/tv/TV9.png" group-title="斯玛特GAT",TV9
-http://104.233.200.52:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
-#EXTINF:-1 tvg-name="TV9 Indonesia" tvg-logo="https://live.fanmingming.com/tv/TV9 Indonesia.png" group-title="斯玛特GAT",TV9 Indonesia
-http://104.233.200.52:8278/TV9_eko/playlist.m3u8?tid=MF4F9337624493376244&ct=19249&tsum=c0c0a819b22ab768c25d0ac336f514e5
-#EXTINF:-1 tvg-name="TV8" tvg-logo="https://live.fanmingming.com/tv/TV8.png" group-title="斯玛特GAT",TV8
-http://104.233.200.52:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
-#EXTINF:-1 tvg-name="TV3" tvg-logo="https://live.fanmingming.com/tv/TV3.png" group-title="斯玛特GAT",TV3
-http://104.233.200.52:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
-#EXTINF:-1 tvg-name="TV3 backup" tvg-logo="https://live.fanmingming.com/tv/TV3 backup.png" group-title="斯玛特GAT",TV3 backup
-http://104.233.200.52:8278/TV3_backup/playlist.m3u8?tid=MA3A2227976222279762&ct=19249&tsum=f74de478f6a153a62550be93406fc29c
-#EXTINF:-1 tvg-name="TV2" tvg-logo="https://live.fanmingming.com/tv/TV2.png" group-title="斯玛特GAT",TV2
-http://104.233.200.52:8278/TV2/playlist.m3u8?tid=MBFB5221296352212963&ct=19249&tsum=c67dd739f98d016c5553f838aad85446
-#EXTINF:-1 tvg-name="TV1" tvg-logo="https://live.fanmingming.com/tv/TV1.png" group-title="斯玛特GAT",TV1
-http://104.233.200.52:8278/TV1/playlist.m3u8?tid=MC7C8155208481552084&ct=19249&tsum=298dc1db831fd77434f364d0fc12793f
-#EXTINF:-1 tvg-name="TPTV" tvg-logo="https://live.fanmingming.com/tv/TPTV.png" group-title="斯玛特GAT",TPTV
-http://104.233.200.52:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.com/tv/TLC.png" group-title="斯玛特GAT",TLC
-http://104.233.200.52:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
-#EXTINF:-1 tvg-name="Suria" tvg-logo="https://live.fanmingming.com/tv/Suria.png" group-title="斯玛特GAT",Suria
-http://104.233.200.52:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-#EXTINF:-1 tvg-name="体育3" tvg-logo="https://live.fanmingming.com/tv/体育3.png" group-title="斯玛特GAT",体育3
-http://104.233.200.52:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-#EXTINF:-1 tvg-name="体育2" tvg-logo="https://live.fanmingming.com/tv/体育2.png" group-title="斯玛特GAT",体育2
-http://104.233.200.52:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
@@ -14342,6 +14144,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
