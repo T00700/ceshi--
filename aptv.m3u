@@ -15,6 +15,7 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 
 
+
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="极速全网通",CCTV-1 高清
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
@@ -3180,6 +3181,321 @@ http://iptv.4666888.xyz/iptv.php?id=20301
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://live.fanmingming.com/tv/靖天资讯.png" group-title="新推流GAT",靖天资讯
 http://iptv.4666888.xyz/iptv.php?id=20302
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="Plus综合频限" tvg-logo="https://live.fanmingming.com/tv/Plus综合频限.png" group-title="频限GAT",Plus综合频限
+http://t.061899.xyz/tl/js/api.php?id=tvbplus
+#EXTINF:-1 tvg-name="pₒₚc电影频限" tvg-logo="https://live.fanmingming.com/tv/pₒₚc电影频限.png" group-title="频限GAT",pₒₚc电影频限
+http://t.061899.xyz/tl/js/api.php?id=popc
+#EXTINF:-1 tvg-name="Now爆谷频限" tvg-logo="https://live.fanmingming.com/tv/Now爆谷频限.png" group-title="频限GAT",Now爆谷频限
+http://t.061899.xyz/tl/js/api.php?id=nowbgt
+#EXTINF:-1 tvg-name="Now星影频限" tvg-logo="https://live.fanmingming.com/tv/Now星影频限.png" group-title="频限GAT",Now星影频限
+http://t.061899.xyz/tl/js/api.php?id=nowbgxyt
+#EXTINF:-1 tvg-name="中天新闻频限" tvg-logo="https://live.fanmingming.com/tv/中天新闻频限.png" group-title="频限GAT",中天新闻频限
+http://t.061899.xyz/tl/js/api.php?id=ztxw
+#EXTINF:-1 tvg-name="中天新闻加限" tvg-logo="https://live.fanmingming.com/tv/中天新闻加限.png" group-title="频限GAT",中天新闻加限
+http://t.061899.xyz/tl/js/api.php?id=2ctiztt
+#EXTINF:-1 tvg-name="有线新闻频限" tvg-logo="https://live.fanmingming.com/tv/有线新闻频限.png" group-title="频限GAT",有线新闻频限
+http://t.061899.xyz/tl/js/api.php?id=78hoy
+#EXTINF:-1 tvg-name="有线新闻频限" tvg-logo="https://live.fanmingming.com/tv/有线新闻频限.png" group-title="频限GAT",有线新闻频限
+http://t.061899.xyz/tl/js/api.php?id=78hoy1
+#EXTINF:-1 tvg-name="无线新闻频限" tvg-logo="https://live.fanmingming.com/tv/无线新闻频限.png" group-title="频限GAT",无线新闻频限
+http://t.061899.xyz/tl/js/api.php?id=tvbwxxwt
+#EXTINF:-1 tvg-name="Now新闻频限" tvg-logo="https://live.fanmingming.com/tv/Now新闻频限.png" group-title="频限GAT",Now新闻频限
+http://t.061899.xyz/tl/js/api.php?id=nowxwt
+#EXTINF:-1 tvg-name="凤凰中文频限" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频限.png" group-title="频限GAT",凤凰中文频限
+http://t.061899.xyz/tl/js/api.php?id=fhzwt
+#EXTINF:-1 tvg-name="凤凰资讯频限" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频限.png" group-title="频限GAT",凤凰资讯频限
+http://t.061899.xyz/tl/js/api.php?id=fhzxt
+#EXTINF:-1 tvg-name="凤凰香港频限" tvg-logo="https://live.fanmingming.com/tv/凤凰香港频限.png" group-title="频限GAT",凤凰香港频限
+http://t.061899.xyz/tl/js/api.php?id=fhxgt
+#EXTINF:-1 tvg-name="无线翡翠频限" tvg-logo="https://live.fanmingming.com/tv/无线翡翠频限.png" group-title="频限GAT",无线翡翠频限
+http://t.061899.xyz/tl/js/api.php?id=fct
+#EXTINF:-1 tvg-name="无线明珠频限" tvg-logo="https://live.fanmingming.com/tv/无线明珠频限.png" group-title="频限GAT",无线明珠频限
+http://t.061899.xyz/tl/js/api.php?id=tvbmzt
+#EXTINF:-1 tvg-name="无线娱乐频限" tvg-logo="https://live.fanmingming.com/tv/无线娱乐频限.png" group-title="频限GAT",无线娱乐频限
+http://t.061899.xyz/tl/js/api.php?id=tvbylxw
+#EXTINF:-1 tvg-name="无线生活频限" tvg-logo="https://live.fanmingming.com/tv/无线生活频限.png" group-title="频限GAT",无线生活频限
+http://t.061899.xyz/tl/js/api.php?id=tvbsht
+#EXTINF:-1 tvg-name="无线星河国限" tvg-logo="https://live.fanmingming.com/tv/无线星河国限.png" group-title="频限GAT",无线星河国限
+http://t.061899.xyz/tl/js/api.php?id=tvbxhpdg
+#EXTINF:-1 tvg-name="无线星河粤限" tvg-logo="https://live.fanmingming.com/tv/无线星河粤限.png" group-title="频限GAT",无线星河粤限
+http://t.061899.xyz/tl/js/api.php?id=tvbxhpdy
+#EXTINF:-1 tvg-name="无线功夫国限" tvg-logo="https://live.fanmingming.com/tv/无线功夫国限.png" group-title="频限GAT",无线功夫国限
+http://t.061899.xyz/tl/js/api.php?id=tvbgfty
+#EXTINF:-1 tvg-name="无线功夫粤限" tvg-logo="https://live.fanmingming.com/tv/无线功夫粤限.png" group-title="频限GAT",无线功夫粤限
+http://t.061899.xyz/tl/js/api.php?id=tvbgftg
+#EXTINF:-1 tvg-name="无线千禧频限" tvg-logo="https://live.fanmingming.com/tv/无线千禧频限.png" group-title="频限GAT",无线千禧频限
+http://t.061899.xyz/tl/js/api.php?id=tvbqxjd
+#EXTINF:-1 tvg-name="无线经典频限" tvg-logo="https://live.fanmingming.com/tv/无线经典频限.png" group-title="频限GAT",无线经典频限
+http://t.061899.xyz/tl/js/api.php?id=mytvqxjdt
+#EXTINF:-1 tvg-name="无线综合频限" tvg-logo="https://live.fanmingming.com/tv/无线综合频限.png" group-title="频限GAT",无线综合频限
+http://t.061899.xyz/tl/js/api.php?id=tvbsuperfree
+#EXTINF:-1 tvg-name="无线亚综频限" tvg-logo="https://live.fanmingming.com/tv/无线亚综频限.png" group-title="频限GAT",无线亚综频限
+http://t.061899.xyz/tl/js/api.php?id=yzzhylt
+#EXTINF:-1 tvg-name="无线亚剧频限" tvg-logo="https://live.fanmingming.com/tv/无线亚剧频限.png" group-title="频限GAT",无线亚剧频限
+http://t.061899.xyz/tl/js/api.php?id=yzjt
+#EXTINF:-1 tvg-name="无线华剧频限" tvg-logo="https://live.fanmingming.com/tv/无线华剧频限.png" group-title="频限GAT",无线华剧频限
+http://t.061899.xyz/tl/js/api.php?id=hyjt
+#EXTINF:-1 tvg-name="无线戏曲频限" tvg-logo="https://live.fanmingming.com/tv/无线戏曲频限.png" group-title="频限GAT",无线戏曲频限
+http://t.061899.xyz/tl/js/api.php?id=xqt
+#EXTINF:-1 tvg-name="无线粤片频限" tvg-logo="https://live.fanmingming.com/tv/无线粤片频限.png" group-title="频限GAT",无线粤片频限
+http://t.061899.xyz/tl/js/api.php?id=yypt
+#EXTINF:-1 tvg-name="无线少儿频限" tvg-logo="https://live.fanmingming.com/tv/无线少儿频限.png" group-title="频限GAT",无线少儿频限
+http://t.061899.xyz/tl/js/api.php?id=handsup
+#EXTINF:-1 tvg-name="有线综合频限" tvg-logo="https://live.fanmingming.com/tv/有线综合频限.png" group-title="频限GAT",有线综合频限
+http://t.061899.xyz/tl/js/api.php?id=77hoy
+#EXTINF:-1 tvg-name="有线综合频限" tvg-logo="https://live.fanmingming.com/tv/有线综合频限.png" group-title="频限GAT",有线综合频限
+http://t.061899.xyz/tl/js/api.php?id=77hoy1
+#EXTINF:-1 tvg-name="有线赛讯频限" tvg-logo="https://live.fanmingming.com/tv/有线赛讯频限.png" group-title="频限GAT",有线赛讯频限
+http://t.061899.xyz/tl/js/api.php?id=76hoy
+#EXTINF:-1 tvg-name="有线赛讯频限" tvg-logo="https://live.fanmingming.com/tv/有线赛讯频限.png" group-title="频限GAT",有线赛讯频限
+http://t.061899.xyz/tl/js/api.php?id=76hoy1
+#EXTINF:-1 tvg-name="有线赛马频限" tvg-logo="https://live.fanmingming.com/tv/有线赛马频限.png" group-title="频限GAT",有线赛马频限
+http://t.061899.xyz/tl/js/api.php?id=18hkct
+#EXTINF:-1 tvg-name="无线赛马频限" tvg-logo="https://live.fanmingming.com/tv/无线赛马频限.png" group-title="频限GAT",无线赛马频限
+http://t.061899.xyz/tl/js/api.php?id=18cpm
+#EXTINF:-1 tvg-name="88台赛马频限" tvg-logo="https://live.fanmingming.com/tv/88台赛马频限.png" group-title="频限GAT",88台赛马频限
+http://t.061899.xyz/tl/js/api.php?id=88pmt
+#EXTINF:-1 tvg-name="28aI赛马频限" tvg-logo="https://live.fanmingming.com/tv/28aI赛马频限.png" group-title="频限GAT",28aI赛马频限
+http://t.061899.xyz/tl/js/api.php?id=28aizhsm
+#EXTINF:-1 tvg-name="黄金翡翠频限" tvg-logo="https://live.fanmingming.com/tv/黄金翡翠频限.png" group-title="频限GAT",黄金翡翠频限
+http://t.061899.xyz/tl/js/api.php?id=hjfct
+#EXTINF:-1 tvg-name="黄金华剧频限" tvg-logo="https://live.fanmingming.com/tv/黄金华剧频限.png" group-title="频限GAT",黄金华剧频限
+http://t.061899.xyz/tl/js/api.php?id=hjhjt
+#EXTINF:-1 tvg-name="Now华剧频限" tvg-logo="https://live.fanmingming.com/tv/Now华剧频限.png" group-title="频限GAT",Now华剧频限
+http://t.061899.xyz/tl/js/api.php?id=nowhjt
+#EXTINF:-1 tvg-name="Now剧集频限" tvg-logo="https://live.fanmingming.com/tv/Now剧集频限.png" group-title="频限GAT",Now剧集频限
+http://t.061899.xyz/tl/js/api.php?id=nowjjt
+#EXTINF:-1 tvg-name="Now紫金频限" tvg-logo="https://live.fanmingming.com/tv/Now紫金频限.png" group-title="频限GAT",Now紫金频限
+http://t.061899.xyz/tl/js/api.php?id=nowjellizjgj
+#EXTINF:-1 tvg-name="Now直播频限" tvg-logo="https://live.fanmingming.com/tv/Now直播频限.png" group-title="频限GAT",Now直播频限
+http://t.061899.xyz/tl/js/api.php?id=nowzbt
+#EXTINF:-1 tvg-name="Now财经频限" tvg-logo="https://live.fanmingming.com/tv/Now财经频限.png" group-title="频限GAT",Now财经频限
+http://t.061899.xyz/tl/js/api.php?id=nowcjt
+#EXTINF:-1 tvg-name="VIUTV-粤频限" tvg-logo="https://live.fanmingming.com/tv/VIUTV-粤频限.png" group-title="频限GAT",VIUTV-粤频限
+http://t.061899.xyz/tl/js/api.php?id=viutv
+#EXTINF:-1 tvg-name="VIUTV-英频限" tvg-logo="https://live.fanmingming.com/tv/VIUTV-英频限.png" group-title="频限GAT",VIUTV-英频限
+http://t.061899.xyz/tl/js/api.php?id=6viutv
+#EXTINF:-1 tvg-name="RTHK-31频限" tvg-logo="https://live.fanmingming.com/tv/RTHK-31频限.png" group-title="频限GAT",RTHK-31频限
+http://t.061899.xyz/tl/js/api.php?id=31rthk
+#EXTINF:-1 tvg-name="RTHK-32频限" tvg-logo="https://live.fanmingming.com/tv/RTHK-32频限.png" group-title="频限GAT",RTHK-32频限
+http://t.061899.xyz/tl/js/api.php?id=32rthk
+#EXTINF:-1 tvg-name="HUB娱家频限" tvg-logo="https://live.fanmingming.com/tv/HUB娱家频限.png" group-title="频限GAT",HUB娱家频限
+http://t.061899.xyz/tl/js/api.php?id=yjt
+#EXTINF:-1 tvg-name="HUB都会频限" tvg-logo="https://live.fanmingming.com/tv/HUB都会频限.png" group-title="频限GAT",HUB都会频限
+http://t.061899.xyz/tl/js/api.php?id=dht
+#EXTINF:-1 tvg-name="Ftv1时代频限" tvg-logo="https://live.fanmingming.com/tv/Ftv1时代频限.png" group-title="频限GAT",Ftv1时代频限
+http://t.061899.xyz/tl/js/api.php?id=1xsd
+#EXTINF:-1 tvg-name="Ftv2时代频限" tvg-logo="https://live.fanmingming.com/tv/Ftv2时代频限.png" group-title="频限GAT",Ftv2时代频限
+http://t.061899.xyz/tl/js/api.php?id=2xsd
+#EXTINF:-1 tvg-name="城市电视频限" tvg-logo="https://live.fanmingming.com/tv/城市电视频限.png" group-title="频限GAT",城市电视频限
+http://t.061899.xyz/tl/js/api.php?id=csds
+#EXTINF:-1 tvg-name="天映经典频限" tvg-logo="https://live.fanmingming.com/tv/天映经典频限.png" group-title="频限GAT",天映经典频限
+http://t.061899.xyz/tl/js/api.php?id=tyjd
+#EXTINF:-1 tvg-name="美亚电影国限" tvg-logo="https://live.fanmingming.com/tv/美亚电影国限.png" group-title="频限GAT",美亚电影国限
+http://t.061899.xyz/tl/js/api.php?id=mydyy
+#EXTINF:-1 tvg-name="美亚电影粤限" tvg-logo="https://live.fanmingming.com/tv/美亚电影粤限.png" group-title="频限GAT",美亚电影粤限
+http://t.061899.xyz/tl/js/api.php?id=mydyg
+#EXTINF:-1 tvg-name="中国电影频限" tvg-logo="https://live.fanmingming.com/tv/中国电影频限.png" group-title="频限GAT",中国电影频限
+http://t.061899.xyz/tl/js/api.php?id=zgdypd
+#EXTINF:-1 tvg-name="mytv直播-2限" tvg-logo="https://live.fanmingming.com/tv/mytv直播-2限.png" group-title="频限GAT",mytv直播-2限
+http://t.061899.xyz/tl/js/api.php?id=2mysuperzbzqt
+#EXTINF:-1 tvg-name="mytv直播-3限" tvg-logo="https://live.fanmingming.com/tv/mytv直播-3限.png" group-title="频限GAT",mytv直播-3限
+http://t.061899.xyz/tl/js/api.php?id=3mysuperzbzqt
+#EXTINF:-1 tvg-name="mytv直播-4限" tvg-logo="https://live.fanmingming.com/tv/mytv直播-4限.png" group-title="频限GAT",mytv直播-4限
+http://t.061899.xyz/tl/js/api.php?id=4mysuperzbzqt
+#EXTINF:-1 tvg-name="mytv直播-5限" tvg-logo="https://live.fanmingming.com/tv/mytv直播-5限.png" group-title="频限GAT",mytv直播-5限
+http://t.061899.xyz/tl/js/api.php?id=5mysuperzbzqt
+#EXTINF:-1 tvg-name="mytv直播-6限" tvg-logo="https://live.fanmingming.com/tv/mytv直播-6限.png" group-title="频限GAT",mytv直播-6限
+http://t.061899.xyz/tl/js/api.php?id=6mysuperzbzqt
+#EXTINF:-1 tvg-name="中天新闻频限" tvg-logo="https://live.fanmingming.com/tv/中天新闻频限.png" group-title="频限GAT",中天新闻频限
+http://t.061899.xyz/tl/js/api.php?id=ztxw
+#EXTINF:-1 tvg-name="中天新闻加限" tvg-logo="https://live.fanmingming.com/tv/中天新闻加限.png" group-title="频限GAT",中天新闻加限
+http://t.061899.xyz/tl/js/api.php?id=2ctiztt
+#EXTINF:-1 tvg-name="寰宇新闻频限" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻频限.png" group-title="频限GAT",寰宇新闻频限
+http://t.061899.xyz/tl/js/api.php?id=hyxw
+#EXTINF:-1 tvg-name="东森新闻频限" tvg-logo="https://live.fanmingming.com/tv/东森新闻频限.png" group-title="频限GAT",东森新闻频限
+http://t.061899.xyz/tl/js/api.php?id=dsxw
+#EXTINF:-1 tvg-name="tvbs新闻频限" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻频限.png" group-title="频限GAT",tvbs新闻频限
+http://t.061899.xyz/tl/js/api.php?id=tvbsxwt
+#EXTINF:-1 tvg-name="公视新闻频限" tvg-logo="https://live.fanmingming.com/tv/公视新闻频限.png" group-title="频限GAT",公视新闻频限
+http://t.061899.xyz/tl/js/api.php?id=gsxww
+#EXTINF:-1 tvg-name="中视新闻频限" tvg-logo="https://live.fanmingming.com/tv/中视新闻频限.png" group-title="频限GAT",中视新闻频限
+http://t.061899.xyz/tl/js/api.php?id=zsxw
+#EXTINF:-1 tvg-name="公视闽南频限" tvg-logo="https://live.fanmingming.com/tv/公视闽南频限.png" group-title="频限GAT",公视闽南频限
+http://t.061899.xyz/tl/js/api.php?id=gs
+#EXTINF:-1 tvg-name="中视闽南频限" tvg-logo="https://live.fanmingming.com/tv/中视闽南频限.png" group-title="频限GAT",中视闽南频限
+http://t.061899.xyz/tl/js/api.php?id=zs
+#EXTINF:-1 tvg-name="寰宇闽南频限" tvg-logo="https://live.fanmingming.com/tv/寰宇闽南频限.png" group-title="频限GAT",寰宇闽南频限
+http://t.061899.xyz/tl/js/api.php?id=hyxwtw
+#EXTINF:-1 tvg-name="tvbs闽南频限" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频限.png" group-title="频限GAT",tvbs闽南频限
+http://t.061899.xyz/tl/js/api.php?id=tvbshd
+#EXTINF:-1 tvg-name="霹雳闽南频限" tvg-logo="https://live.fanmingming.com/tv/霹雳闽南频限.png" group-title="频限GAT",霹雳闽南频限
+http://t.061899.xyz/tl/js/api.php?id=pltwt
+#EXTINF:-1 tvg-name="公视戏剧频限" tvg-logo="https://live.fanmingming.com/tv/公视戏剧频限.png" group-title="频限GAT",公视戏剧频限
+http://t.061899.xyz/tl/js/api.php?id=gsxj
+#EXTINF:-1 tvg-name="民视第一频限" tvg-logo="https://live.fanmingming.com/tv/民视第一频限.png" group-title="频限GAT",民视第一频限
+http://t.061899.xyz/tl/js/api.php?id=msdyt
+#EXTINF:-1 tvg-name="民视闽语频限" tvg-logo="https://live.fanmingming.com/tv/民视闽语频限.png" group-title="频限GAT",民视闽语频限
+http://t.061899.xyz/tl/js/api.php?id=mstwt
+#EXTINF:-1 tvg-name="民视影剧频限" tvg-logo="https://live.fanmingming.com/tv/民视影剧频限.png" group-title="频限GAT",民视影剧频限
+http://t.061899.xyz/tl/js/api.php?id=msyjt
+#EXTINF:-1 tvg-name="民视旅游频限" tvg-logo="https://live.fanmingming.com/tv/民视旅游频限.png" group-title="频限GAT",民视旅游频限
+http://t.061899.xyz/tl/js/api.php?id=mslyt
+#EXTINF:-1 tvg-name="民视综艺频限" tvg-logo="https://live.fanmingming.com/tv/民视综艺频限.png" group-title="频限GAT",民视综艺频限
+http://t.061899.xyz/tl/js/api.php?id=mszyt
+#EXTINF:-1 tvg-name="中视经典频限" tvg-logo="https://live.fanmingming.com/tv/中视经典频限.png" group-title="频限GAT",中视经典频限
+http://t.061899.xyz/tl/js/api.php?id=zsjd
+#EXTINF:-1 tvg-name="中视菁采频限" tvg-logo="https://live.fanmingming.com/tv/中视菁采频限.png" group-title="频限GAT",中视菁采频限
+http://t.061899.xyz/tl/js/api.php?id=zsjc
+#EXTINF:-1 tvg-name="中天综合频限" tvg-logo="https://live.fanmingming.com/tv/中天综合频限.png" group-title="频限GAT",中天综合频限
+http://t.061899.xyz/tl/js/api.php?id=ztzh
+#EXTINF:-1 tvg-name="中天娱乐频限" tvg-logo="https://live.fanmingming.com/tv/中天娱乐频限.png" group-title="频限GAT",中天娱乐频限
+http://t.061899.xyz/tl/js/api.php?id=ztyl
+#EXTINF:-1 tvg-name="台视综合频限" tvg-logo="https://live.fanmingming.com/tv/台视综合频限.png" group-title="频限GAT",台视综合频限
+http://t.061899.xyz/tl/js/api.php?id=tszh
+#EXTINF:-1 tvg-name="台视财经频限" tvg-logo="https://live.fanmingming.com/tv/台视财经频限.png" group-title="频限GAT",台视财经频限
+http://t.061899.xyz/tl/js/api.php?id=tscj
+#EXTINF:-1 tvg-name="寰宇财经频限" tvg-logo="https://live.fanmingming.com/tv/寰宇财经频限.png" group-title="频限GAT",寰宇财经频限
+http://t.061899.xyz/tl/js/api.php?id=hycj
+#EXTINF:-1 tvg-name="八大第一频限" tvg-logo="https://live.fanmingming.com/tv/八大第一频限.png" group-title="频限GAT",八大第一频限
+http://t.061899.xyz/tl/js/api.php?id=bddyt
+#EXTINF:-1 tvg-name="八大精彩频限" tvg-logo="https://live.fanmingming.com/tv/八大精彩频限.png" group-title="频限GAT",八大精彩频限
+http://t.061899.xyz/tl/js/api.php?id=bdjct
+#EXTINF:-1 tvg-name="八大娱乐频限" tvg-logo="https://live.fanmingming.com/tv/八大娱乐频限.png" group-title="频限GAT",八大娱乐频限
+http://t.061899.xyz/tl/js/api.php?id=bdylt
+#EXTINF:-1 tvg-name="龙祥时代频限" tvg-logo="https://live.fanmingming.com/tv/龙祥时代频限.png" group-title="频限GAT",龙祥时代频限
+http://t.061899.xyz/tl/js/api.php?id=lxsd
+#EXTINF:-1 tvg-name="龙华电影频限" tvg-logo="https://live.fanmingming.com/tv/龙华电影频限.png" group-title="频限GAT",龙华电影频限
+http://t.061899.xyz/tl/js/api.php?id=lhdy
+#EXTINF:-1 tvg-name="龙华偶像频限" tvg-logo="https://live.fanmingming.com/tv/龙华偶像频限.png" group-title="频限GAT",龙华偶像频限
+http://t.061899.xyz/tl/js/api.php?id=lhox
+#EXTINF:-1 tvg-name="龙华戏剧频限" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频限.png" group-title="频限GAT",龙华戏剧频限
+http://t.061899.xyz/tl/js/api.php?id=lhxj
+#EXTINF:-1 tvg-name="龙华日韩频限" tvg-logo="https://live.fanmingming.com/tv/龙华日韩频限.png" group-title="频限GAT",龙华日韩频限
+http://t.061899.xyz/tl/js/api.php?id=lhrh
+#EXTINF:-1 tvg-name="龙华影剧频限" tvg-logo="https://live.fanmingming.com/tv/龙华影剧频限.png" group-title="频限GAT",龙华影剧频限
+http://t.061899.xyz/tl/js/api.php?id=lhyj
+#EXTINF:-1 tvg-name="龙华洋片频限" tvg-logo="https://live.fanmingming.com/tv/龙华洋片频限.png" group-title="频限GAT",龙华洋片频限
+http://t.061899.xyz/tl/js/api.php?id=lhyp
+#EXTINF:-1 tvg-name="龙华卡通频限" tvg-logo="https://live.fanmingming.com/tv/龙华卡通频限.png" group-title="频限GAT",龙华卡通频限
+http://t.061899.xyz/tl/js/api.php?id=lhkt
+#EXTINF:-1 tvg-name="龙华经典频限" tvg-logo="https://live.fanmingming.com/tv/龙华经典频限.png" group-title="频限GAT",龙华经典频限
+http://t.061899.xyz/tl/js/api.php?id=lhjd
+#EXTINF:-1 tvg-name="纬来精彩频限" tvg-logo="https://live.fanmingming.com/tv/纬来精彩频限.png" group-title="频限GAT",纬来精彩频限
+http://t.061899.xyz/tl/js/api.php?id=wljc
+#EXTINF:-1 tvg-name="东森幼幼频限" tvg-logo="https://live.fanmingming.com/tv/东森幼幼频限.png" group-title="频限GAT",东森幼幼频限
+http://t.061899.xyz/tl/js/api.php?id=dsyy
+#EXTINF:-1 tvg-name="MO_亲子频限" tvg-logo="https://live.fanmingming.com/tv/MO_亲子频限.png" group-title="频限GAT",MO_亲子频限
+http://t.061899.xyz/tl/js/api.php?id=momoqzt
+#EXTINF:-1 tvg-name="MO_综合频限" tvg-logo="https://live.fanmingming.com/tv/MO_综合频限.png" group-title="频限GAT",MO_综合频限
+http://t.061899.xyz/tl/js/api.php?id=momozht
+#EXTINF:-1 tvg-name="闽南戏剧频限" tvg-logo="https://live.fanmingming.com/tv/闽南戏剧频限.png" group-title="频限GAT",闽南戏剧频限
+http://t.061899.xyz/tl/js/api.php?id=twxj
+#EXTINF:-1 tvg-name="壹电影综频限" tvg-logo="https://live.fanmingming.com/tv/壹电影综频限.png" group-title="频限GAT",壹电影综频限
+http://t.061899.xyz/tl/js/api.php?id=ydy
+#EXTINF:-1 tvg-name="tvbs精采频限" tvg-logo="https://live.fanmingming.com/tv/tvbs精采频限.png" group-title="频限GAT",tvbs精采频限
+http://t.061899.xyz/tl/js/api.php?id=tvbsjct
+#EXTINF:-1 tvg-name="tvbs欢乐频限" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐频限.png" group-title="频限GAT",tvbs欢乐频限
+http://t.061899.xyz/tl/js/api.php?id=tvbshlt
+#EXTINF:-1 tvg-name="靖天综合频限" tvg-logo="https://live.fanmingming.com/tv/靖天综合频限.png" group-title="频限GAT",靖天综合频限
+http://t.061899.xyz/tl/js/api.php?id=jtzht
+#EXTINF:-1 tvg-name="靖天电影频限" tvg-logo="https://live.fanmingming.com/tv/靖天电影频限.png" group-title="频限GAT",靖天电影频限
+http://t.061899.xyz/tl/js/api.php?id=jtdyt
+#EXTINF:-1 tvg-name="靖天资讯频限" tvg-logo="https://live.fanmingming.com/tv/靖天资讯频限.png" group-title="频限GAT",靖天资讯频限
+http://t.061899.xyz/tl/js/api.php?id=jtzxt
+#EXTINF:-1 tvg-name="靖天戏剧频限" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧频限.png" group-title="频限GAT",靖天戏剧频限
+http://t.061899.xyz/tl/js/api.php?id=jtxjt
+#EXTINF:-1 tvg-name="靖洋戏剧频限" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧频限.png" group-title="频限GAT",靖洋戏剧频限
+http://t.061899.xyz/tl/js/api.php?id=jyxjt
+#EXTINF:-1 tvg-name="靖天卡通频限" tvg-logo="https://live.fanmingming.com/tv/靖天卡通频限.png" group-title="频限GAT",靖天卡通频限
+http://t.061899.xyz/tl/js/api.php?id=jtktt
+#EXTINF:-1 tvg-name="靖洋卡通频限" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通频限.png" group-title="频限GAT",靖洋卡通频限
+http://t.061899.xyz/tl/js/api.php?id=jyktt
+#EXTINF:-1 tvg-name="靖天国际频限" tvg-logo="https://live.fanmingming.com/tv/靖天国际频限.png" group-title="频限GAT",靖天国际频限
+http://t.061899.xyz/tl/js/api.php?id=jtgjt
+#EXTINF:-1 tvg-name="靖天育乐频限" tvg-logo="https://live.fanmingming.com/tv/靖天育乐频限.png" group-title="频限GAT",靖天育乐频限
+http://t.061899.xyz/tl/js/api.php?id=jtylt
+#EXTINF:-1 tvg-name="靖天映画频限" tvg-logo="https://live.fanmingming.com/tv/靖天映画频限.png" group-title="频限GAT",靖天映画频限
+http://t.061899.xyz/tl/js/api.php?id=jtyht
+#EXTINF:-1 tvg-name="靖天欢乐频限" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐频限.png" group-title="频限GAT",靖天欢乐频限
+http://t.061899.xyz/tl/js/api.php?id=jthlt
+#EXTINF:-1 tvg-name="华艺综合频限" tvg-logo="https://live.fanmingming.com/tv/华艺综合频限.png" group-title="频限GAT",华艺综合频限
+http://t.061899.xyz/tl/js/api.php?id=mbchyzht
+#EXTINF:-1 tvg-name="LUXE_TV频限" tvg-logo="https://live.fanmingming.com/tv/LUXE_TV频限.png" group-title="频限GAT",LUXE_TV频限
+http://t.061899.xyz/tl/js/api.php?id=luxetv
+#EXTINF:-1 tvg-name="亚洲旅游频限" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游频限.png" group-title="频限GAT",亚洲旅游频限
+http://t.061899.xyz/tl/js/api.php?id=yzlyt
+#EXTINF:-1 tvg-name="闽南'Plus频限" tvg-logo="https://live.fanmingming.com/tv/闽南'Plus频限.png" group-title="频限GAT",闽南'Plus频限
+http://t.061899.xyz/tl/js/api.php?id=plustw
+#EXTINF:-1 tvg-name="EYE-旅游频限" tvg-logo="https://live.fanmingming.com/tv/EYE-旅游频限.png" group-title="频限GAT",EYE-旅游频限
+http://t.061899.xyz/tl/js/api.php?id=eyetvly
+#EXTINF:-1 tvg-name="EYE-戏剧频限" tvg-logo="https://live.fanmingming.com/tv/EYE-戏剧频限.png" group-title="频限GAT",EYE-戏剧频限
+http://t.061899.xyz/tl/js/api.php?id=eyetvxj
+#EXTINF:-1 tvg-name="ELta日韩频限" tvg-logo="https://live.fanmingming.com/tv/ELta日韩频限.png" group-title="频限GAT",ELta日韩频限
+http://t.061899.xyz/tl/js/api.php?id=eltarh
+#EXTINF:-1 tvg-name="ELta影剧频限" tvg-logo="https://live.fanmingming.com/tv/ELta影剧频限.png" group-title="频限GAT",ELta影剧频限
+http://t.061899.xyz/tl/js/api.php?id=eltayj
+#EXTINF:-1 tvg-name="ELta综合频限" tvg-logo="https://live.fanmingming.com/tv/ELta综合频限.png" group-title="频限GAT",ELta综合频限
+http://t.061899.xyz/tl/js/api.php?id=eltazh
+#EXTINF:-1 tvg-name="ELta娱乐频限" tvg-logo="https://live.fanmingming.com/tv/ELta娱乐频限.png" group-title="频限GAT",ELta娱乐频限
+http://t.061899.xyz/tl/js/api.php?id=eltayl
+#EXTINF:-1 tvg-name="ELta生活频限" tvg-logo="https://live.fanmingming.com/tv/ELta生活频限.png" group-title="频限GAT",ELta生活频限
+http://t.061899.xyz/tl/js/api.php?id=eltashly
+#EXTINF:-1 tvg-name="博斯无限频限" tvg-logo="https://live.fanmingming.com/tv/博斯无限频限.png" group-title="频限GAT",博斯无限频限
+http://t.061899.xyz/tl/js/api.php?id=bswx
+#EXTINF:-1 tvg-name="博斯魅力频限" tvg-logo="https://live.fanmingming.com/tv/博斯魅力频限.png" group-title="频限GAT",博斯魅力频限
+http://t.061899.xyz/tl/js/api.php?id=bsml
+#EXTINF:-1 tvg-name="智林体育频限" tvg-logo="https://live.fanmingming.com/tv/智林体育频限.png" group-title="频限GAT",智林体育频限
+http://t.061899.xyz/tl/js/api.php?id=zltyt
+#EXTINF:-1 tvg-name="TRAcesp频限" tvg-logo="https://live.fanmingming.com/tv/TRAcesp频限.png" group-title="频限GAT",TRAcesp频限
+http://t.061899.xyz/tl/js/api.php?id=tracesportstars
+#EXTINF:-1 tvg-name="AXN电影频限" tvg-logo="https://live.fanmingming.com/tv/AXN电影频限.png" group-title="频限GAT",AXN电影频限
+http://t.061899.xyz/tl/js/api.php?id=axnpd
+#EXTINF:-1 tvg-name="华纳电影频限" tvg-logo="https://live.fanmingming.com/tv/华纳电影频限.png" group-title="频限GAT",华纳电影频限
+http://t.061899.xyz/tl/js/api.php?id=hndy
+#EXTINF:-1 tvg-name="Amc电影频限" tvg-logo="https://live.fanmingming.com/tv/Amc电影频限.png" group-title="频限GAT",Amc电影频限
+http://t.061899.xyz/tl/js/api.php?id=amczady
+#EXTINF:-1 tvg-name="CINemax频限" tvg-logo="https://live.fanmingming.com/tv/CINemax频限.png" group-title="频限GAT",CINemax频限
+http://t.061899.xyz/tl/js/api.php?id=cinemax
+#EXTINF:-1 tvg-name="HBO高清频限" tvg-logo="https://live.fanmingming.com/tv/HBO高清频限.png" group-title="频限GAT",HBO高清频限
+http://t.061899.xyz/tl/js/api.php?id=hbohd
+#EXTINF:-1 tvg-name="astroaod粤限" tvg-logo="https://live.fanmingming.com/tv/astroaod粤限.png" group-title="频限GAT",astroaod粤限
+http://t.061899.xyz/tl/js/api.php?id=astroaod
+#EXTINF:-1 tvg-name="astroaod国限" tvg-logo="https://live.fanmingming.com/tv/astroaod国限.png" group-title="频限GAT",astroaod国限
+http://t.061899.xyz/tl/js/api.php?id=astroaod1
+#EXTINF:-1 tvg-name="astr-欢喜频限" tvg-logo="https://live.fanmingming.com/tv/astr-欢喜频限.png" group-title="频限GAT",astr-欢喜频限
+http://t.061899.xyz/tl/js/api.php?id=astrohxt
+#EXTINF:-1 tvg-name="中旺电视频限" tvg-logo="https://live.fanmingming.com/tv/中旺电视频限.png" group-title="频限GAT",中旺电视频限
+http://t.061899.xyz/tl/js/api.php?id=zwds
+#EXTINF:-1 tvg-name="Fashionb频限" tvg-logo="https://live.fanmingming.com/tv/Fashionb频限.png" group-title="频限GAT",Fashionb频限
+http://t.061899.xyz/tl/js/api.php?id=fashionbox
+#EXTINF:-1 tvg-name="TVN韩综频限" tvg-logo="https://live.fanmingming.com/tv/TVN韩综频限.png" group-title="频限GAT",TVN韩综频限
+http://t.061899.xyz/tl/js/api.php?id=tVN
+#EXTINF:-1 tvg-name="TVN综韩频限" tvg-logo="https://live.fanmingming.com/tv/TVN综韩频限.png" group-title="频限GAT",TVN综韩频限
+http://t.061899.xyz/tl/js/api.php?id=tvn
+#EXTINF:-1 tvg-name="KIX_韩综频限" tvg-logo="https://live.fanmingming.com/tv/KIX_韩综频限.png" group-title="频限GAT",KIX_韩综频限
+http://t.061899.xyz/tl/js/api.php?id=kix
+#EXTINF:-1 tvg-name="rock娱乐频限" tvg-logo="https://live.fanmingming.com/tv/rock娱乐频限.png" group-title="频限GAT",rock娱乐频限
+http://t.061899.xyz/tl/js/api.php?id=rockcjyl
+#EXTINF:-1 tvg-name="rock综艺频限" tvg-logo="https://live.fanmingming.com/tv/rock综艺频限.png" group-title="频限GAT",rock综艺频限
+http://t.061899.xyz/tl/js/api.php?id=rockzyyl
+#EXTINF:-1 tvg-name="AXN电影频限" tvg-logo="https://live.fanmingming.com/tv/AXN电影频限.png" group-title="频限GAT",AXN电影频限
+http://t.061899.xyz/tl/js/api.php?id=axn
+#EXTINF:-1 tvg-name="ANIMAX-频限" tvg-logo="https://live.fanmingming.com/tv/ANIMAX-频限.png" group-title="频限GAT",ANIMAX-频限
+http://t.061899.xyz/tl/js/api.php?id=animax
+#EXTINF:-1 tvg-name="thrill电影频限" tvg-logo="https://live.fanmingming.com/tv/thrill电影频限.png" group-title="频限GAT",thrill电影频限
+http://t.061899.xyz/tl/js/api.php?id=Thrill
+#EXTINF:-1 tvg-name="ZooMoo-频限" tvg-logo="https://live.fanmingming.com/tv/ZooMoo-频限.png" group-title="频限GAT",ZooMoo-频限
+http://t.061899.xyz/tl/js/api.php?id=zoomoo
+#EXTINF:-1 tvg-name="Nickelod'频限" tvg-logo="https://live.fanmingming.com/tv/Nickelod'频限.png" group-title="频限GAT",Nickelod'频限
+http://t.061899.xyz/tl/js/api.php?id=nickelodeon
+#EXTINF:-1 tvg-name="Nick儿童频限" tvg-logo="https://live.fanmingming.com/tv/Nick儿童频限.png" group-title="频限GAT",Nick儿童频限
+http://t.061899.xyz/tl/js/api.php?id=nickjretpd
+#EXTINF:-1 tvg-name="Dream'W频限" tvg-logo="https://live.fanmingming.com/tv/Dream'W频限.png" group-title="频限GAT",Dream'W频限
+http://t.061899.xyz/tl/js/api.php?id=dreamworks
+#EXTINF:-1 tvg-name="NBA_TV-频限" tvg-logo="https://live.fanmingming.com/tv/NBA_TV-频限.png" group-title="频限GAT",NBA_TV-频限
+http://t.061899.xyz/tl/js/api.php?id=nbatv
 
 
 
@@ -14696,6 +15012,7 @@ http://api.mytv666.top/api/hk.php?id=3561323535353230366331396166326338366665396
 http://api.mytv666.top/api/hk.php?id=6439336265303632383566343461326233393961613861353532633231323266267469643d77696e74763132332669643d313039
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="推流港澳台2",Discovery
 http://api.mytv666.top/api/hk.php?id=3136386361626565666132623631313664353563353234303965343739353437267469643d77696e74763132332669643d313133
+
 
 
 
