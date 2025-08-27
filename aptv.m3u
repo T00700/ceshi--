@@ -13,6 +13,134 @@ http://8.138.7.223/tv/cctv7.m3u8
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",可联系店主
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV1.png" group-title="极速全网通",CCTV1
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV2.png" group-title="极速全网通",CCTV2
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV3.png" group-title="极速全网通",CCTV3
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV4.png" group-title="极速全网通",CCTV4
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV5.png" group-title="极速全网通",CCTV5
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV5+.png" group-title="极速全网通",CCTV5+
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV6.png" group-title="极速全网通",CCTV6
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV7.png" group-title="极速全网通",CCTV7
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV8.png" group-title="极速全网通",CCTV8
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV9.png" group-title="极速全网通",CCTV9
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV10.png" group-title="极速全网通",CCTV10
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV11.png" group-title="极速全网通",CCTV11
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV12.png" group-title="极速全网通",CCTV12
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV13.png" group-title="极速全网通",CCTV13
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV14.png" group-title="极速全网通",CCTV14
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV15.png" group-title="极速全网通",CCTV15
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV16.png" group-title="极速全网通",CCTV16
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tvbus.diypapp.me/logo.phpCCTV17.png" group-title="极速全网通",CCTV17
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=18
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tvbus.diypapp.me/logo.php北京卫视.png" group-title="极速全网通",北京卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=20
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tvbus.diypapp.me/logo.php深圳卫视.png" group-title="极速全网通",深圳卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=21
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tvbus.diypapp.me/logo.php江苏卫视.png" group-title="极速全网通",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=22
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tvbus.diypapp.me/logo.php湖南卫视.png" group-title="极速全网通",湖南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=23
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tvbus.diypapp.me/logo.php东方卫视.png" group-title="极速全网通",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=24
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tvbus.diypapp.me/logo.php浙江卫视.png" group-title="极速全网通",浙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=25
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tvbus.diypapp.me/logo.php山东卫视.png" group-title="极速全网通",山东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=26
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://tvbus.diypapp.me/logo.php四川卫视.png" group-title="极速全网通",四川卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=27
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://tvbus.diypapp.me/logo.php重庆卫视.png" group-title="极速全网通",重庆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=28
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://tvbus.diypapp.me/logo.php湖北卫视.png" group-title="极速全网通",湖北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=29
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://tvbus.diypapp.me/logo.php海南卫视.png" group-title="极速全网通",海南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=31
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://tvbus.diypapp.me/logo.php西藏卫视.png" group-title="极速全网通",西藏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=32
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tvbus.diypapp.me/logo.php黑龙江卫视.png" group-title="极速全网通",黑龙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=33
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tvbus.diypapp.me/logo.php重温经典.png" group-title="极速全网通",重温经典
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://iptv.diyp.site/zAAKLAIdWs_公众号【DIYP】.php?key=guonei&id=19
 
 
 
@@ -14926,6 +15054,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
