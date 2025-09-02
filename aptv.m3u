@@ -2608,9 +2608,7 @@ http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
 #EXTINF:-1 tvg-name="广东卫视4K备" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K备.png" group-title="4K欣赏",广东卫视4K备
 http://106.53.99.30/tv/api.php?id=gdws4k
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://live.fanmingming.com/tv/北京卫视4k.png" group-title="4K欣赏",北京卫视4k
-http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-#EXTINF:-1 tvg-name="北京卫视4K备" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K备.png" group-title="4K欣赏",北京卫视4K备
-http://106.53.99.30/tv/api.php?id=bjws4k
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.com/tv/河北4K.png" group-title="4K欣赏",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="河北电视4K" tvg-logo="https://live.fanmingming.com/tv/河北电视4K.png" group-title="4K欣赏",河北电视4K
@@ -6523,20 +6521,23 @@ http://tvbox6.icu/tv/migu.php?id=qcxj
 http://tvbox6.icu/tv/migu.php?id=yxfy
 
 
-#EXTINF:-1 group-title="北京频道",北京卫视
-http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
-#EXTINF:-1 group-title="北京频道",北京文艺
-http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
-#EXTINF:-1 group-title="北京频道",北京纪实科教
-http://qtest-play.btime.cn/live/btv_sn_20170706_s3.m3u8
-#EXTINF:-1 group-title="北京频道",北京影视
-http://qtest-play.btime.cn/live/btv_sn_20170706_s4.m3u8
-#EXTINF:-1 group-title="北京频道",北京财经
-http://qtest-play.btime.cn/live/btv_sn_20170706_s5.m3u8
-#EXTINF:-1 group-title="北京频道",北京休闲体育
-http://qtest-play.btime.cn/live/btv_sn_20170706_s6.m3u8
-#EXTINF:-1 group-title="北京频道",北京生活
-http://qtest-play.btime.cn/live/btv_sn_20170706_s7.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K超高清.png" group-title="北京频道",北京卫视4K超高清
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京卫视
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京频道",北京新闻
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京频道",北京影视
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京频道",北京生活
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京频道",北京财经
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
+https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF
 #EXTINF:-1 group-title="北京频道",北京新闻
 http://qtest-play.btime.cn/live/btv_sn_20170706_s9.m3u8
 #EXTINF:-1 group-title="北京频道",北京新闻
@@ -15618,6 +15619,7 @@ http://api.mytv666.top/api/hk.php?id=3561323535353230366331396166326338366665396
 http://api.mytv666.top/api/hk.php?id=6439336265303632383566343461326233393961613861353532633231323266267469643d77696e74763132332669643d313039
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="推流港澳台2",Discovery
 http://api.mytv666.top/api/hk.php?id=3136386361626565666132623631313664353563353234303965343739353437267469643d77696e74763132332669643d313133
+
 
 
 
