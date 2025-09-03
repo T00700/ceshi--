@@ -14,6 +14,12 @@ http://8.138.7.223/tv/cctv7.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="央视-4K_直播" tvg-logo="https://live.fanmingming.com/tv/央视-4K_直播.png" group-title="阅兵独享",央视-4K_直播
+https://freetv.top/m4k/cctv4k.m3u8
+#EXTINF:-1 tvg-name="央视-4K备_直播" tvg-logo="https://live.fanmingming.com/tv/央视-4K备_直播.png" group-title="阅兵独享",央视-4K备_直播
+http://zhibo.fltth.com/yuebing.m3u8
+#EXTINF:-1 tvg-name="央视-4K-2K播" tvg-logo="https://live.fanmingming.com/tv/央视-4K-2K播.png" group-title="阅兵独享",央视-4K-2K播
+https://freetv.top/m2k/cctv4k.m3u8
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="阅兵独享",广东卫视4K
 http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="阅兵独享",广东卫视4K+
@@ -15646,6 +15652,7 @@ http://api.mytv666.top/api/hk.php?id=3561323535353230366331396166326338366665396
 http://api.mytv666.top/api/hk.php?id=6439336265303632383566343461326233393961613861353532633231323266267469643d77696e74763132332669643d313039
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="推流港澳台2",Discovery
 http://api.mytv666.top/api/hk.php?id=3136386361626565666132623631313664353563353234303965343739353437267469643d77696e74763132332669643d313133
+
 
 
 
