@@ -13,91 +13,6 @@ http://8.138.7.223/tv/cctv7.m3u8
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",可联系店主
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="央视-4K_直播" tvg-logo="https://live.fanmingming.com/tv/央视-4K_直播.png" group-title="阅兵独享",央视-4K_直播
-https://freetv.top/m4k/cctv4k.m3u8
-#EXTINF:-1 tvg-name="央视-4K备_直播" tvg-logo="https://live.fanmingming.com/tv/央视-4K备_直播.png" group-title="阅兵独享",央视-4K备_直播
-http://zhibo.fltth.com/yuebing.m3u8
-#EXTINF:-1 tvg-name="央视-4K-2K播" tvg-logo="https://live.fanmingming.com/tv/央视-4K-2K播.png" group-title="阅兵独享",央视-4K-2K播
-https://freetv.top/m2k/cctv4k.m3u8
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="阅兵独享",广东卫视4K
-http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="阅兵独享",广东卫视4K+
-http://8.138.7.223/tv/api.php?id=gdws4k
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="阅兵独享",广东卫视4K*
-http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
-#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://live.fanmingming.com/tv/北京卫视4k.png" group-title="阅兵独享",北京卫视4k
-https://migu.188766.xyz/?migutoken=65c84621087220797980fa9982c3f8b5&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://live.fanmingming.com/tv/北京卫视4k.png" group-title="阅兵独享",北京卫视4k+
-https://潇雨萌萌公众号.tv12.xyz/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="阅兵独享",北京卫视4K*
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png" group-title="阅兵独享",深圳卫视4K
-http://go.bkpcp.top/mg/szws
-#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K超高清.png" group-title="阅兵独享",CCTV4K超高清
-http://114.107.47.1:8188/rtp/238.1.78.137:6968
-#EXTINF:-1 tvg-name="CCTV4K超高清+" tvg-logo="https://live.fanmingming.com/tv/CCTV4K超高清+.png" group-title="阅兵独享",CCTV4K超高清+
-http://121.29.141.59:4022/rtp/239.253.93.134:6631
-#EXTINF:-1 tvg-name="央视网抖直播" tvg-logo="https://live.fanmingming.com/tv/央视网抖直播.png" group-title="阅兵独享",央视网抖直播
-http://jackgao.top:35455/bilibili/8178490
-#EXTINF:-1 tvg-name="央视网抖直播" tvg-logo="https://live.fanmingming.com/tv/央视网抖直播.png" group-title="阅兵独享",央视网抖直播
-http://jackgao.top:35455/douyin/870887192950
-#EXTINF:-1 tvg-name="央视网快看播" tvg-logo="https://live.fanmingming.com/tv/央视网快看播.png" group-title="阅兵独享",央视网快看播
-http://jackgao.top:35455/bilibili/22142427
-#EXTINF:-1 tvg-name="央视网快看播" tvg-logo="https://live.fanmingming.com/tv/央视网快看播.png" group-title="阅兵独享",央视网快看播
-http://jackgao.top:35455/douyin/127453393722
-#EXTINF:-1 tvg-name="央视一套直播" tvg-logo="https://live.fanmingming.com/tv/央视一套直播.png" group-title="阅兵独享",央视一套直播
-http://jackgao.top:35455/douyin/456815963645
-#EXTINF:-1 tvg-name="央视二套直播" tvg-logo="https://live.fanmingming.com/tv/央视二套直播.png" group-title="阅兵独享",央视二套直播
-http://jackgao.top:35455/douyin/296728101980
-#EXTINF:-1 tvg-name="央视四套直播" tvg-logo="https://live.fanmingming.com/tv/央视四套直播.png" group-title="阅兵独享",央视四套直播
-http://jackgao.top:35455/douyin/166806983360
-#EXTINF:-1 tvg-name="小央视频直播" tvg-logo="https://live.fanmingming.com/tv/小央视频直播.png" group-title="阅兵独享",小央视频直播
-http://jackgao.top:35455/douyin/547977714661
-#EXTINF:-1 tvg-name="央视频抖直播" tvg-logo="https://live.fanmingming.com/tv/央视频抖直播.png" group-title="阅兵独享",央视频抖直播
-http://jackgao.top:35455/douyin/50828500437
-#EXTINF:-1 tvg-name="央广网抖直播" tvg-logo="https://live.fanmingming.com/tv/央广网抖直播.png" group-title="阅兵独享",央广网抖直播
-http://jackgao.top:35455/douyin/667431506077
-#EXTINF:-1 tvg-name="央视新闻直播" tvg-logo="https://live.fanmingming.com/tv/央视新闻直播.png" group-title="阅兵独享",央视新闻直播
-http://jackgao.top:35455/douyin/282773369501
-#EXTINF:-1 tvg-name="新闻联播直播" tvg-logo="https://live.fanmingming.com/tv/新闻联播直播.png" group-title="阅兵独享",新闻联播直播
-http://jackgao.top:35455/douyin/330698468897
-#EXTINF:-1 tvg-name="新华社抖直播" tvg-logo="https://live.fanmingming.com/tv/新华社抖直播.png" group-title="阅兵独享",新华社抖直播
-http://jackgao.top:35455/douyin/403447259997
-#EXTINF:-1 tvg-name="新华社快看播" tvg-logo="https://live.fanmingming.com/tv/新华社快看播.png" group-title="阅兵独享",新华社快看播
-http://jackgao.top:35455/douyin/832345075447
-#EXTINF:-1 tvg-name="中国新闻网播" tvg-logo="https://live.fanmingming.com/tv/中国新闻网播.png" group-title="阅兵独享",中国新闻网播
-http://jackgao.top:35455/douyin/734352268449
-#EXTINF:-1 tvg-name="中国新闻社播" tvg-logo="https://live.fanmingming.com/tv/中国新闻社播.png" group-title="阅兵独享",中国新闻社播
-http://jackgao.top:35455/douyin/15236241349
-#EXTINF:-1 tvg-name="央影网抖直播" tvg-logo="https://live.fanmingming.com/tv/央影网抖直播.png" group-title="阅兵独享",央影网抖直播
-http://jackgao.top:35455/douyin/208823316033
-#EXTINF:-1 tvg-name="看看新闻直播" tvg-logo="https://live.fanmingming.com/tv/看看新闻直播.png" group-title="阅兵独享",看看新闻直播
-http://jackgao.top:35455/douyin/808207714751
-#EXTINF:-1 tvg-name="香港导报直播" tvg-logo="https://live.fanmingming.com/tv/香港导报直播.png" group-title="阅兵独享",香港导报直播
-http://jackgao.top:35455/douyin/21533027681
-#EXTINF:-1 tvg-name="dv现场抖直播" tvg-logo="https://live.fanmingming.com/tv/dv现场抖直播.png" group-title="阅兵独享",dv现场抖直播
-http://jackgao.top:35455/douyin/469457683016
-#EXTINF:-1 tvg-name="广东珠江直播" tvg-logo="https://live.fanmingming.com/tv/广东珠江直播.png" group-title="阅兵独享",广东珠江直播
-http://jackgao.top:35455/douyin/43311982874
-#EXTINF:-1 tvg-name="今日关注直播" tvg-logo="https://live.fanmingming.com/tv/今日关注直播.png" group-title="阅兵独享",今日关注直播
-http://jackgao.top:35455/douyin/302453514547
-#EXTINF:-1 tvg-name="广州ING-直播" tvg-logo="https://live.fanmingming.com/tv/广州ING-直播.png" group-title="阅兵独享",广州ING-直播
-http://jackgao.top:35455/douyin/388615883521
-#EXTINF:-1 tvg-name="中山网抖直播" tvg-logo="https://live.fanmingming.com/tv/中山网抖直播.png" group-title="阅兵独享",中山网抖直播
-http://jackgao.top:35455/douyin/954175180811
-#EXTINF:-1 tvg-name="广竞体育直播" tvg-logo="https://live.fanmingming.com/tv/广竞体育直播.png" group-title="阅兵独享",广竞体育直播
-http://jackgao.top:35455/douyin/802006140488
-#EXTINF:-1 tvg-name="广东4k抖直播" tvg-logo="https://live.fanmingming.com/tv/广东4k抖直播.png" group-title="阅兵独享",广东4k抖直播
-http://jackgao.top:35455/douyin/450779218335
-#EXTINF:-1 tvg-name="人民日报直播" tvg-logo="https://live.fanmingming.com/tv/人民日报直播.png" group-title="阅兵独享",人民日报直播
-http://jackgao.top:35455/douyin/35849862298
-#EXTINF:-1 tvg-name="海南日报直播" tvg-logo="https://live.fanmingming.com/tv/海南日报直播.png" group-title="阅兵独享",海南日报直播
-http://jackgao.top:35455/douyin/33068222133
-#EXTINF:-1 tvg-name="海南电视直播" tvg-logo="https://live.fanmingming.com/tv/海南电视直播.png" group-title="阅兵独享",海南电视直播
-http://jackgao.top:35455/douyin/402523360291
-#EXTINF:-1 tvg-name="湖南新闻直播" tvg-logo="https://live.fanmingming.com/tv/湖南新闻直播.png" group-title="阅兵独享",湖南新闻直播
-http://jackgao.top:35455/douyin/27594494041
 
 
 
@@ -15829,6 +15744,7 @@ http://api.mytv666.top/api/hk.php?id=3561323535353230366331396166326338366665396
 http://api.mytv666.top/api/hk.php?id=6439336265303632383566343461326233393961613861353532633231323266267469643d77696e74763132332669643d313039
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="推流港澳台2",Discovery
 http://api.mytv666.top/api/hk.php?id=3136386361626565666132623631313664353563353234303965343739353437267469643d77696e74763132332669643d313133
+
 
 
 
