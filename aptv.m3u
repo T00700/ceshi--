@@ -6870,6 +6870,10 @@ http://n1.gzbody.com:85/rtp/239.77.1.130:5146
 http://n1.gzbody.com:85/rtp/239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="广东频道",汕头经济生活
 http://59.35.185.47:8188/udp/239.253.43.46:5146
+#EXTINF:-1 tvg-name="汕尾综合" tvg-logo="https://live.fanmingming.com/tv/汕尾综合.png" group-title="广东频道",汕尾综合
+https://iswtv.swrtv.com/live/xwzhpd.m3u8
+#EXTINF:-1 tvg-name="汕尾生活" tvg-logo="https://live.fanmingming.com/tv/汕尾生活.png" group-title="广东频道",汕尾生活
+https://iswtv.swrtv.com/live/whshpd.m3u8
 #EXTINF:-1 tvg-id="番禺电视台" tvg-name="番禺电视台" tvg-logo="http://logo.diyp.site:49377/logo.php?番禺电视台" group-title="广东频道",番禺电视台
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
@@ -15466,6 +15470,7 @@ https://php.946985.xyz/4gtv.php?ch=4gtv-live022
 https://php.946985.xyz/4gtv.php?ch=4gtv-live024
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏剧免费看1.png" group-title="超清港澳台",戲劇免費看1台
 https://php.946985.xyz/4gtv.php?ch=4gtv-live010
+
 
 
 
