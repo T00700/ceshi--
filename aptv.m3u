@@ -1738,15 +1738,15 @@ https://migu.188766.xyz/?migutoken=747358dc6f7cc17ee2e302f999786557&id=%E5%A4%A7
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/香港卫视.png" group-title="超速央卫",香港卫视
 https://migu.188766.xyz/?migutoken=02ff240d356513c471daf8287b3622cf&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超清频道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超速央卫",北京卫视4K
 https://migu.188766.xyz/?migutoken=36d6857d6df541c131797db066de3f14&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超清频道",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超速央卫",广东卫视4K
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超清频道",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超速央卫",广东卫视4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超清频道",苏州4K
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超速央卫",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="超清频道",河北4K
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="超速央卫",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 
 
@@ -15458,6 +15458,7 @@ https://php.946985.xyz/4gtv.php?ch=4gtv-live022
 https://php.946985.xyz/4gtv.php?ch=4gtv-live024
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏剧免费看1.png" group-title="超清港澳台",戲劇免費看1台
 https://php.946985.xyz/4gtv.php?ch=4gtv-live010
+
 
 
 
