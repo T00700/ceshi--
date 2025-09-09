@@ -1668,6 +1668,353 @@ http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeD
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="电信央卫",天津卫视
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOC4yMy4xOTIuMzM6OTk5OS9uZXdsaXZlL2xpdmUvaGxzLzIzL2xpdmUubTN1OA==
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="稳定央卫",CCTV-1
+http://hnyst.130519.xyz/000000001666/100000000100111211/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="稳定央卫",CCTV-2
+http://hnyst.130519.xyz/000000001666/100000000100111001/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV23" tvg-logo="https://live.fanmingming.com/tv/CCTV23.png" group-title="稳定央卫",CCTV-23
+http://hnyst.130519.xyz/000000001777/400000000100111057/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="稳定央卫",CCTV-4
+http://hnyst.130519.xyz/000000001666/100000000100111102/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="稳定央卫",CCTV-4
+http://hnyst.130519.xyz/000000001666/100000000100111003/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="稳定央卫",CCTV-5+
+http://hnyst.130519.xyz/000000001666/100000000100111103/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="稳定央卫",CCTV-5+
+http://hnyst.130519.xyz/000000001666/100000000100111005/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="稳定央卫",CCTV-5
+http://hnyst.130519.xyz/000000001777/400000000100111058/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="稳定央卫",CCTV-6
+http://hnyst.130519.xyz/000000001777/400000000100111059/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="稳定央卫",CCTV-7
+http://hnyst.130519.xyz/000000001666/100000000100111007/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="稳定央卫",CCTV-8
+http://hnyst.130519.xyz/000000001666/100000000100111105/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="稳定央卫",CCTV-9
+http://hnyst.130519.xyz/000000001666/100000000100111009/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="稳定央卫",CCTV-9(英)
+http://hnyst.130519.xyz/000000001666/100000000100111053/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="稳定央卫",CCTV-10
+http://hnyst.130519.xyz/000000001666/100000000100111010/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="稳定央卫",CCTV-11
+http://hnyst.130519.xyz/000000001666/100000000100111011/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="稳定央卫",CCTV-12
+http://hnyst.130519.xyz/000000001666/100000000100111012/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="稳定央卫",CCTV-13
+http://hnyst.130519.xyz/000000001666/100000000100111013/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="稳定央卫",CCTV-14
+http://hnyst.130519.xyz/000000001666/100000000100111014/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="稳定央卫",CCTV-15
+http://hnyst.130519.xyz/000000001666/100000000100111015/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="稳定央卫",CCTV-16
+http://hnyst.130519.xyz/000000001666/100000000100111091/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="稳定央卫",CCTV-16 4K
+http://hnyst.130519.xyz/000000001666/100000000100111092/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="稳定央卫",CCTV-17
+http://hnyst.130519.xyz/000000001666/100000000100111016/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CGTN-英文" tvg-logo="https://live.fanmingming.com/tv/CGTN-英文.png" group-title="稳定央卫",CGTN-英文
+http://hnyst.130519.xyz/000000001666/1000000002000009569/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CQTV科教" tvg-logo="https://live.fanmingming.com/tv/CQTV科教.png" group-title="稳定央卫",CQTV科教
+http://hnyst.130519.xyz/000000001777/400000000100111021/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="CQTV移动" tvg-logo="https://live.fanmingming.com/tv/CQTV移动.png" group-title="稳定央卫",CQTV移动
+http://hnyst.130519.xyz/000000001777/400000000100111023/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="阿拉伯语频道" tvg-logo="https://live.fanmingming.com/tv/阿拉伯语频道.png" group-title="稳定央卫",阿拉伯语频道
+http://hnyst.130519.xyz/000000001666/1000000006000280001/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="稳定央卫",安徽卫视
+http://hnyst.130519.xyz/000000001666/100000000100111038/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="稳定央卫",北京卫视
+http://hnyst.130519.xyz/000000001666/100000000100111018/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="稳定央卫",兵团卫视
+http://hnyst.130519.xyz/000000001666/1000000005000266005/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="稳定央卫",东方卫视
+http://hnyst.130519.xyz/000000001666/100000000100111024/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="稳定央卫",东方卫视
+http://hnyst.130519.xyz/000000001666/100000000100111109/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="稳定央卫",东南卫视
+http://hnyst.130519.xyz/000000001666/100000000100111028/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="稳定央卫",东南卫视
+http://hnyst.130519.xyz/000000001666/100000000100111110/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="稳定央卫",甘肃卫视
+http://hnyst.130519.xyz/000000001666/100000000100111040/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="稳定央卫",广东卫视
+http://hnyst.130519.xyz/000000001666/100000000100111019/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="稳定央卫",广西卫视
+http://hnyst.130519.xyz/000000001666/100000000100111030/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="稳定央卫",贵州卫视
+http://hnyst.130519.xyz/000000001666/100000000100111034/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="稳定央卫",海南卫视
+http://hnyst.130519.xyz/000000001666/100000000100111072/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="稳定央卫",河北卫视
+http://hnyst.130519.xyz/000000001666/100000000100111031/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="稳定央卫",河南卫视
+http://hnyst.130519.xyz/000000001666/100000000100111090/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="稳定央卫",黑龙江卫视
+http://hnyst.130519.xyz/000000001666/100000000100111052/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="稳定央卫",湖北卫视
+http://hnyst.130519.xyz/000000001666/100000000100111035/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="稳定央卫",湖南卫视
+http://hnyst.130519.xyz/000000001666/100000000100111023/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="稳定央卫",吉林卫视
+http://hnyst.130519.xyz/000000001666/100000000100111049/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="稳定央卫",江苏卫视
+http://hnyst.130519.xyz/000000001666/100000000100111021/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="稳定央卫",江西卫视
+http://hnyst.130519.xyz/000000001666/100000000100111026/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="稳定央卫",康巴卫视
+http://hnyst.130519.xyz/000000001666/1000000005000266002/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="稳定央卫",辽宁卫视
+http://hnyst.130519.xyz/000000001666/100000000100111027/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png" group-title="稳定央卫",南方卫视
+http://hnyst.130519.xyz/000000001666/1000000002000011619/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="稳定央卫",内蒙古卫视
+http://hnyst.130519.xyz/000000001666/100000000100111041/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="稳定央卫",宁夏卫视
+http://hnyst.130519.xyz/000000001666/100000000100111039/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="稳定央卫",青海卫视
+http://hnyst.130519.xyz/000000001666/100000000100111036/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="稳定央卫",厦门卫视
+http://hnyst.130519.xyz/000000001666/1000000005000266006/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="稳定央卫",山东卫视
+http://hnyst.130519.xyz/000000001666/100000000100111037/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="稳定央卫",山西卫视
+http://hnyst.130519.xyz/000000001666/100000000100111032/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="稳定央卫",陕西卫视
+http://hnyst.130519.xyz/000000001666/100000000100111033/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="稳定央卫",深圳卫视
+http://hnyst.130519.xyz/000000001666/100000000100111022/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="稳定央卫",四川卫视
+http://hnyst.130519.xyz/000000001666/100000000100111029/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="稳定央卫",天津卫视
+http://hnyst.130519.xyz/000000001666/100000000100111025/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="稳定央卫",西藏卫视
+http://hnyst.130519.xyz/000000001666/100000000100111073/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="稳定央卫",新疆卫视
+http://hnyst.130519.xyz/000000001666/100000000100111050/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="稳定央卫",延边卫视
+http://hnyst.130519.xyz/000000001666/1000000005000266008/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="稳定央卫",云南卫视
+http://hnyst.130519.xyz/000000001666/100000000100111051/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="稳定央卫",浙江卫视
+http://hnyst.130519.xyz/000000001666/100000000100111020/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="稳定央卫",重庆卫视
+http://hnyst.130519.xyz/000000001666/100000000100111017/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="稳定央卫",重庆卫视
+http://hnyst.130519.xyz/000000001666/100000000100111108/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实.png" group-title="稳定央卫",北京纪实
+http://hnyst.130519.xyz/000000001666/100000000100111076/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.com/tv/超级电视剧.png" group-title="稳定央卫",超级电视剧
+http://hnyst.130519.xyz/000000001666/100000000100111008/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="稳定央卫",超级电影
+http://hnyst.130519.xyz/000000001666/100000000100111006/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="稳定央卫",超级体育
+http://hnyst.130519.xyz/000000001666/100000000100111004/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.com/tv/超级综艺.png" group-title="稳定央卫",超级综艺
+http://hnyst.130519.xyz/000000001666/100000000100111002/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/潮妈辣婆.png" group-title="稳定央卫",潮妈辣婆
+http://hnyst.130519.xyz/000000001666/100000000100111075/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="稳定央卫",纯享4K
+http://hnyst.130519.xyz/000000001666/100000000100111083/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="稳定央卫",哒啵赛事
+http://hnyst.130519.xyz/000000001666/100000000100111055/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="党建" tvg-logo="https://live.fanmingming.com/tv/党建.png" group-title="稳定央卫",党建
+http://hnyst.130519.xyz/000000001666/100000000100111099/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="稳定央卫",动漫秀场
+http://hnyst.130519.xyz/000000001666/100000000100111231/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="稳定央卫",动作电影
+http://hnyst.130519.xyz/000000001666/100000000100111057/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="稳定央卫",都市剧场
+http://hnyst.130519.xyz/000000001666/100000000100111209/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="俄语频道" tvg-logo="https://live.fanmingming.com/tv/俄语频道.png" group-title="稳定央卫",俄语频道
+http://hnyst.130519.xyz/000000001666/1000000006000280004/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="法语频道" tvg-logo="https://live.fanmingming.com/tv/法语频道.png" group-title="稳定央卫",法语频道
+http://hnyst.130519.xyz/000000001666/1000000006000280003/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="稳定央卫",风尚购物
+http://hnyst.130519.xyz/000000001666/100000000100111089/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="高尔夫标清4M" tvg-logo="https://live.fanmingming.com/tv/高尔夫标清4M.png" group-title="稳定央卫",高尔夫标清4M
+http://hnyst.130519.xyz/000000001666/100000000100111107/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="稳定央卫",古装剧场
+http://hnyst.130519.xyz/000000001666/100000000100111056/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="稳定央卫",好享购物
+http://hnyst.130519.xyz/000000001666/100000000100111087/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="稳定央卫",黑莓电影
+http://hnyst.130519.xyz/000000001666/100000000100111064/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="稳定央卫",黑莓动画
+http://hnyst.130519.xyz/000000001666/100000000100111054/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png" group-title="稳定央卫",欢乐剧场
+http://hnyst.130519.xyz/000000001666/100000000100111098/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="稳定央卫",欢笑剧场
+http://hnyst.130519.xyz/000000001666/100000000100111230/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="稳定央卫",欢笑剧场4K
+http://hnyst.130519.xyz/000000001666/100000000100111208/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="环球购物" tvg-logo="https://live.fanmingming.com/tv/环球购物.png" group-title="稳定央卫",环球购物
+http://hnyst.130519.xyz/000000001666/100000000100111086/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png" group-title="稳定央卫",家庭剧场
+http://hnyst.130519.xyz/000000001666/100000000100111059/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="稳定央卫",家有购物
+http://hnyst.130519.xyz/000000001666/100000000100111088/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="稳定央卫",嘉佳卡通
+http://hnyst.130519.xyz/000000001666/100000000100111077/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/金牌综艺.png" group-title="稳定央卫",金牌综艺
+http://hnyst.130519.xyz/000000001666/100000000100111067/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="稳定央卫",金鹰纪实
+http://hnyst.130519.xyz/000000001666/100000000100111078/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="稳定央卫",金鹰卡通
+http://hnyst.130519.xyz/000000001666/100000000100111044/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png" group-title="稳定央卫",惊悚悬疑
+http://hnyst.130519.xyz/000000001666/100000000100111060/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="稳定央卫",精彩影视
+http://hnyst.130519.xyz/000000001666/6000000006000320630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="稳定央卫",精彩影视
+http://hnyst.130519.xyz/000000001666/100000000100111200/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="稳定央卫",精品大剧
+http://hnyst.130519.xyz/000000001666/100000000100111066/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="稳定央卫",精品大剧
+http://hnyst.130519.xyz/000000001777/400000000100111014/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://live.fanmingming.com/tv/精品纪录.png" group-title="稳定央卫",精品纪录
+http://hnyst.130519.xyz/000000001666/100000000100111070/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="稳定央卫",精品体育
+http://hnyst.130519.xyz/000000001666/100000000100111074/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="精品综合" tvg-logo="https://live.fanmingming.com/tv/精品综合.png" group-title="稳定央卫",精品综合
+http://hnyst.130519.xyz/000000001666/100000000100111063/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="稳定央卫",军旅剧场
+http://hnyst.130519.xyz/000000001666/100000000100111058/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/军事评论.png" group-title="稳定央卫",军事评论
+http://hnyst.130519.xyz/000000001666/100000000100111068/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="卡酷卡通" tvg-logo="https://live.fanmingming.com/tv/卡酷卡通.png" group-title="稳定央卫",卡酷卡通
+http://hnyst.130519.xyz/000000001666/100000000100111079/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="稳定央卫",卡酷少儿
+http://hnyst.130519.xyz/000000001666/100000000100111045/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕冬奥-雪上" tvg-logo="https://live.fanmingming.com/tv/咪咕冬奥-雪上.png" group-title="稳定央卫",咪咕冬奥-雪上
+http://hnyst.130519.xyz/000000001666/100000000100111096/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕冬奥-直击" tvg-logo="https://live.fanmingming.com/tv/咪咕冬奥-直击.png" group-title="稳定央卫",咪咕冬奥-直击
+http://hnyst.130519.xyz/000000001666/100000000100111097/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕精彩足球" tvg-logo="https://live.fanmingming.com/tv/咪咕精彩足球.png" group-title="稳定央卫",咪咕精彩足球
+http://hnyst.130519.xyz/000000001666/100000000100111093/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕精彩足球" tvg-logo="https://live.fanmingming.com/tv/咪咕精彩足球.png" group-title="稳定央卫",咪咕精彩足球
+http://hnyst.130519.xyz/000000002666/100000000100111093/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕全民热练" tvg-logo="https://live.fanmingming.com/tv/咪咕全民热练.png" group-title="稳定央卫",咪咕全民热练
+http://hnyst.130519.xyz/000000001666/100000000100111101/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕综合体育" tvg-logo="https://live.fanmingming.com/tv/咪咕综合体育.png" group-title="稳定央卫",咪咕综合体育
+http://hnyst.130519.xyz/000000001666/100000000100111094/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="咪咕综合体育" tvg-logo="https://live.fanmingming.com/tv/咪咕综合体育.png" group-title="稳定央卫",咪咕综合体育
+http://hnyst.130519.xyz/000000002666/100000000100111094/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://live.fanmingming.com/tv/农业致富.png" group-title="稳定央卫",农业致富
+http://hnyst.130519.xyz/000000001666/100000000100111069/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="稳定央卫",求索纪录
+http://hnyst.130519.xyz/000000001666/6000000002000032052/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="稳定央卫",求索纪录
+http://hnyst.130519.xyz/000000001666/100000000100111228/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="热播精选" tvg-logo="https://live.fanmingming.com/tv/热播精选.png" group-title="稳定央卫",热播精选
+http://hnyst.130519.xyz/000000001666/100000000100111061/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="稳定央卫",山东教育
+http://hnyst.130519.xyz/000000001666/100000000100111046/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="稳定央卫",上海纪实
+http://hnyst.130519.xyz/000000001666/100000000100111080/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://live.fanmingming.com/tv/武搏世界.png" group-title="稳定央卫",武搏世界
+http://hnyst.130519.xyz/000000001666/100000000100111062/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="西班牙语频道" tvg-logo="https://live.fanmingming.com/tv/西班牙语频道.png" group-title="稳定央卫",西班牙语频道
+http://hnyst.130519.xyz/000000001666/1000000006000280002/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png" group-title="稳定央卫",炫动卡通
+http://hnyst.130519.xyz/000000001666/100000000100111048/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.com/tv/炫舞未来.png" group-title="稳定央卫",炫舞未来
+http://hnyst.130519.xyz/000000001666/100000000100111081/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="稳定央卫",央广购物
+http://hnyst.130519.xyz/000000001666/100000000100111104/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://live.fanmingming.com/tv/怡伴健康.png" group-title="稳定央卫",怡伴健康
+http://hnyst.130519.xyz/000000001666/100000000100111071/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="稳定央卫",优购物
+http://hnyst.130519.xyz/000000001666/100000000100111085/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="稳定央卫",优漫卡通
+http://hnyst.130519.xyz/000000001666/100000000100111047/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="稳定央卫",游戏风云
+http://hnyst.130519.xyz/000000001666/100000000100111232/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://live.fanmingming.com/tv/中国功夫.png" group-title="稳定央卫",中国功夫
+http://hnyst.130519.xyz/000000001666/100000000100111082/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://live.fanmingming.com/tv/中国教育-1.png" group-title="稳定央卫",中国教育-1
+http://hnyst.130519.xyz/000000001666/100000000100111043/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="中国教育2套" tvg-logo="https://live.fanmingming.com/tv/中国教育2套.png" group-title="稳定央卫",中国教育2套
+http://hnyst.130519.xyz/000000001666/100000000100111100/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="中国教育4套" tvg-logo="https://live.fanmingming.com/tv/中国教育4套.png" group-title="稳定央卫",中国教育4套
+http://hnyst.130519.xyz/000000001666/100000000100111042/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="稳定央卫",中华美食
+http://hnyst.130519.xyz/000000001666/100000000100111106/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="中视购物" tvg-logo="https://live.fanmingming.com/tv/中视购物.png" group-title="稳定央卫",中视购物
+http://hnyst.130519.xyz/000000001666/100000000100111084/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="稳定央卫",重庆汽摩
+http://hnyst.130519.xyz/000000001777/400000000100111022/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="稳定央卫",重庆少儿
+http://hnyst.130519.xyz/000000001777/400000000100111020/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="稳定央卫",重庆社会与法
+http://hnyst.130519.xyz/000000001777/400000000100111016/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://live.fanmingming.com/tv/重庆时尚购物.png" group-title="稳定央卫",重庆时尚购物
+http://hnyst.130519.xyz/000000001777/400000000100111025/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="稳定央卫",重庆时尚生活
+http://hnyst.130519.xyz/000000001777/400000000100111017/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="稳定央卫",重庆新农村
+http://hnyst.130519.xyz/000000001777/400000000100111019/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="稳定央卫",重庆影视
+http://hnyst.130519.xyz/000000001777/400000000100111015/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="稳定央卫",重庆娱乐
+http://hnyst.130519.xyz/000000001777/400000000100111018/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="稳定央卫",爱谍战
+http://hnyst.130519.xyz/000000001666/6000000006000070630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="稳定央卫",爱谍战
+http://hnyst.130519.xyz/000000001666/100000000100111221/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="稳定央卫",爱动漫
+http://hnyst.130519.xyz/000000001666/6000000006000280630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="稳定央卫",爱动漫
+http://hnyst.130519.xyz/000000001666/100000000100111205/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="稳定央卫",爱科幻
+http://hnyst.130519.xyz/000000001666/6000000006000020630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="稳定央卫",爱科幻
+http://hnyst.130519.xyz/000000001666/100000000100111222/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://live.fanmingming.com/tv/爱科学.png" group-title="稳定央卫",爱科学
+http://hnyst.130519.xyz/000000001666/6000000006000160630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://live.fanmingming.com/tv/爱科学.png" group-title="稳定央卫",爱科学
+http://hnyst.130519.xyz/000000001666/100000000100111207/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://live.fanmingming.com/tv/爱浪漫.png" group-title="稳定央卫",爱浪漫
+http://hnyst.130519.xyz/000000001666/6000000006000040630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://live.fanmingming.com/tv/爱浪漫.png" group-title="稳定央卫",爱浪漫
+http://hnyst.130519.xyz/000000001666/100000000100111202/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://live.fanmingming.com/tv/爱旅行.png" group-title="稳定央卫",爱旅行
+http://hnyst.130519.xyz/000000001666/6000000006000250630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://live.fanmingming.com/tv/爱旅行.png" group-title="稳定央卫",爱旅行
+http://hnyst.130519.xyz/000000001666/100000000100111229/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="稳定央卫",爱奇谈
+http://hnyst.130519.xyz/000000001666/6000000006000270630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="稳定央卫",爱奇谈
+http://hnyst.130519.xyz/000000001666/100000000100111201/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/爱情喜剧.png" group-title="稳定央卫",爱情喜剧
+http://hnyst.130519.xyz/000000001666/100000000100111065/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="稳定央卫",爱赛车
+http://hnyst.130519.xyz/000000001666/6000000006000240630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="稳定央卫",爱赛车
+http://hnyst.130519.xyz/000000001666/100000000100111226/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="稳定央卫",爱体育
+http://hnyst.130519.xyz/000000001666/6000000006000290630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="稳定央卫",爱体育
+http://hnyst.130519.xyz/000000001666/100000000100111206/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="稳定央卫",爱玩具
+http://hnyst.130519.xyz/000000001666/6000000006000220630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="稳定央卫",爱玩具
+http://hnyst.130519.xyz/000000001666/100000000100111204/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="稳定央卫",爱喜剧
+http://hnyst.130519.xyz/000000001666/6000000006000010630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="稳定央卫",爱喜剧
+http://hnyst.130519.xyz/000000001666/100000000100111223/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="稳定央卫",爱悬疑
+http://hnyst.130519.xyz/000000001666/6000000006000050630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="稳定央卫",爱悬疑
+http://hnyst.130519.xyz/000000001666/100000000100111224/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="稳定央卫",爱幼教
+http://hnyst.130519.xyz/000000001666/6000000006000180630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="稳定央卫",爱幼教
+http://hnyst.130519.xyz/000000001666/100000000100111203/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="稳定央卫",爱院线
+http://hnyst.130519.xyz/000000001666/6000000006000030630/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="稳定央卫",爱院线
+http://hnyst.130519.xyz/000000001666/100000000100111225/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
 
 
 
@@ -15294,6 +15641,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="测试频道",NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
 
 
 
