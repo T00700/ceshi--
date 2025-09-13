@@ -2140,6 +2140,79 @@ http://47.107.164.20:31855/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="咪视通-45" tvg-logo="https://live.fanmingming.com/tv/咪视通-45.png" group-title="咪咕体育备",咪视通-45
 http://47.107.164.20:31855/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="赛事睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/赛事睛彩竞技.png" group-title="赛事咪咕",赛事睛彩竞技
+https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
+#EXTINF:-1 tvg-name="赛事睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/赛事睛彩篮球.png" group-title="赛事咪咕",赛事睛彩篮球
+https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
+#EXTINF:-1 tvg-name="赛事睛彩广场" tvg-logo="https://live.fanmingming.com/tv/赛事睛彩广场.png" group-title="赛事咪咕",赛事睛彩广场
+https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播01" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播01.png" group-title="赛事咪咕",赛事咪咕播01
+https://zby.130519.xyz/PLTV/11/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播02" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播02.png" group-title="赛事咪咕",赛事咪咕播02
+https://zby.130519.xyz/PLTV/11/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播03" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播03.png" group-title="赛事咪咕",赛事咪咕播03
+https://zby.130519.xyz/PLTV/11/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播04" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播04.png" group-title="赛事咪咕",赛事咪咕播04
+https://zby.130519.xyz/PLTV/11/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播05" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播05.png" group-title="赛事咪咕",赛事咪咕播05
+https://zby.130519.xyz/PLTV/11/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播06" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播06.png" group-title="赛事咪咕",赛事咪咕播06
+https://zby.130519.xyz/PLTV/11/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播07" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播07.png" group-title="赛事咪咕",赛事咪咕播07
+https://zby.130519.xyz/PLTV/11/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播08" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播08.png" group-title="赛事咪咕",赛事咪咕播08
+https://zby.130519.xyz/PLTV/11/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播09" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播09.png" group-title="赛事咪咕",赛事咪咕播09
+https://zby.130519.xyz/PLTV/11/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播10" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播10.png" group-title="赛事咪咕",赛事咪咕播10
+https://zby.130519.xyz/PLTV/11/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播11" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播11.png" group-title="赛事咪咕",赛事咪咕播11
+https://zby.130519.xyz/PLTV/11/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播12" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播12.png" group-title="赛事咪咕",赛事咪咕播12
+https://zby.130519.xyz/PLTV/11/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播13" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播13.png" group-title="赛事咪咕",赛事咪咕播13
+https://zby.130519.xyz/PLTV/11/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播14" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播14.png" group-title="赛事咪咕",赛事咪咕播14
+https://zby.130519.xyz/PLTV/11/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播15" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播15.png" group-title="赛事咪咕",赛事咪咕播15
+https://zby.130519.xyz/PLTV/11/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播16" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播16.png" group-title="赛事咪咕",赛事咪咕播16
+https://zby.130519.xyz/PLTV/11/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播17" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播17.png" group-title="赛事咪咕",赛事咪咕播17
+https://zby.130519.xyz/PLTV/11/224/3221225682/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播18" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播18.png" group-title="赛事咪咕",赛事咪咕播18
+https://zby.130519.xyz/PLTV/11/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播19" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播19.png" group-title="赛事咪咕",赛事咪咕播19
+https://zby.130519.xyz/PLTV/11/224/3221225684/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播20" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播20.png" group-title="赛事咪咕",赛事咪咕播20
+https://zby.130519.xyz/PLTV/11/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播21" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播21.png" group-title="赛事咪咕",赛事咪咕播21
+https://zby.130519.xyz/PLTV/11/224/3221225686/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播22" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播22.png" group-title="赛事咪咕",赛事咪咕播22
+https://zby.130519.xyz/PLTV/11/224/3221225688/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播23" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播23.png" group-title="赛事咪咕",赛事咪咕播23
+https://zby.130519.xyz/PLTV/11/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播24" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播24.png" group-title="赛事咪咕",赛事咪咕播24
+https://zby.130519.xyz/PLTV/11/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播25" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播25.png" group-title="赛事咪咕",赛事咪咕播25
+https://zby.130519.xyz/PLTV/11/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播26" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播26.png" group-title="赛事咪咕",赛事咪咕播26
+https://zby.130519.xyz/PLTV/11/224/3221225693/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播27" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播27.png" group-title="赛事咪咕",赛事咪咕播27
+https://zby.130519.xyz/PLTV/11/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播28" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播28.png" group-title="赛事咪咕",赛事咪咕播28
+https://zby.130519.xyz/PLTV/11/224/3221225695/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播29" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播29.png" group-title="赛事咪咕",赛事咪咕播29
+https://zby.130519.xyz/PLTV/11/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播30" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播30.png" group-title="赛事咪咕",赛事咪咕播30
+https://zby.130519.xyz/PLTV/11/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播31" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播31.png" group-title="赛事咪咕",赛事咪咕播31
+https://zby.130519.xyz/PLTV/11/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕播32" tvg-logo="https://live.fanmingming.com/tv/赛事咪咕播32.png" group-title="赛事咪咕",赛事咪咕播32
+https://zby.130519.xyz/PLTV/11/224/3221226125/index.m3u8
+#EXTINF:-1 tvg-name="赛事百视通33" tvg-logo="https://live.fanmingming.com/tv/赛事百视通33.png" group-title="赛事咪咕",赛事百视通33
+https://zby.130519.xyz/PLTV/11/224/3221225663/index.m3u8
 
 
 
@@ -14554,6 +14627,7 @@ https://php.946985.xyz/jack4gtv.php?ch=4gtv-live022
 https://php.946985.xyz/jack4gtv.php?ch=4gtv-live024
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏剧免费看1.png" group-title="超清港澳台",戲劇免費看1台
 https://php.946985.xyz/jack4gtv.php?ch=4gtv-live0109fddd006880e7884db67ff&ext_start_limit=1757269351&int_start_limit=1757269351&ts=1757269351&c=121779152
+
 
 
 
