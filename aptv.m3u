@@ -2557,6 +2557,289 @@ http://106.53.99.30/tv/hot.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="推流央卫",凤凰香港
 http://106.53.99.30/tv/hot.php?id=fhhk
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫测试1",CCTV1
+http://ygbh.site/php/bfgd.php?id=488
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫测试1",CCTV1
+http://ygbh.site/php/bfgd.php?id=201
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫测试1",CCTV1
+http://ygbh.site/php/bfgd.php?id=484
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫测试1",CCTV1
+http://ygbh.site/php/bfgd.php?id=489
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央卫测试1",CCTV2
+http://ygbh.site/php/bfgd.php?id=061
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央卫测试1",CCTV3
+http://ygbh.site/php/bfgd.php?id=062
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央卫测试1",CCTV4
+http://ygbh.site/php/bfgd.php?id=063
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央卫测试1",CCTV5
+http://ygbh.site/php/bfgd.php?id=064
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央卫测试1",CCTV5+
+http://ygbh.site/php/bfgd.php?id=246
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央卫测试1",CCTV6
+http://ygbh.site/php/bfgd.php?id=065
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央卫测试1",CCTV7
+http://ygbh.site/php/bfgd.php?id=127
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央卫测试1",CCTV8
+http://ygbh.site/php/bfgd.php?id=066
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央卫测试1",CCTV9
+http://ygbh.site/php/bfgd.php?id=128
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央卫测试1",CCTV10
+http://ygbh.site/php/bfgd.php?id=129
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央卫测试1",CCTV11
+http://ygbh.site/php/bfgd.php?id=130
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央卫测试1",CCTV12
+http://ygbh.site/php/bfgd.php?id=131
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央卫测试1",CCTV13
+http://ygbh.site/php/bfgd.php?id=067
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央卫测试1",CCTV14
+http://ygbh.site/php/bfgd.php?id=132
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央卫测试1",CCTV15
+http://ygbh.site/php/bfgd.php?id=133
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央卫测试1",CCTV17
+http://ygbh.site/php/bfgd.php?id=204
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央卫测试1",CETV1
+http://ygbh.site/php/bfgd.php?id=135
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央卫测试1",CETV2
+http://ygbh.site/php/bfgd.php?id=492
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央卫测试1",CGTN
+http://ygbh.site/php/bfgd.php?id=134
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央卫测试1",CGTN
+http://ygbh.site/php/bfgd.php?id=305
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="央卫测试1",CGTN阿拉伯语
+http://ygbh.site/php/bfgd.php?id=308
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央卫测试1",CGTN俄语
+http://ygbh.site/php/bfgd.php?id=309
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央卫测试1",CGTN法语
+http://ygbh.site/php/bfgd.php?id=307
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="央卫测试1",CGTN西班牙语
+http://ygbh.site/php/bfgd.php?id=306
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="央卫测试1",北京卫视
+http://ygbh.site/php/bfgd.php?id=083
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="央卫测试1",兵团卫视
+http://ygbh.site/php/bfgd.php?id=124
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="央卫测试1",重庆卫视
+http://ygbh.site/php/bfgd.php?id=107
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="央卫测试1",东方卫视
+http://ygbh.site/php/bfgd.php?id=093
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="央卫测试1",东南卫视
+http://ygbh.site/php/bfgd.php?id=483
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="央卫测试1",甘肃卫视
+http://ygbh.site/php/bfgd.php?id=119
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="央卫测试1",广东卫视
+http://ygbh.site/php/bfgd.php?id=092
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="央卫测试1",广西卫视
+http://ygbh.site/php/bfgd.php?id=116
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="央卫测试1",贵州卫视
+http://ygbh.site/php/bfgd.php?id=101
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="央卫测试1",海南卫视
+http://ygbh.site/php/bfgd.php?id=473
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="央卫测试1",河北卫视
+http://ygbh.site/php/bfgd.php?id=108
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="央卫测试1",河南卫视
+http://ygbh.site/php/bfgd.php?id=339
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="央卫测试1",河南卫视
+http://ygbh.site/php/bfgd.php?id=104
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="央卫测试1",黑龙江卫视
+http://ygbh.site/php/bfgd.php?id=095
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="央卫测试1",湖北卫视
+http://ygbh.site/php/bfgd.php?id=102
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="央卫测试1",湖南卫视
+http://ygbh.site/php/bfgd.php?id=086
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="央卫测试1",吉林卫视
+http://ygbh.site/php/bfgd.php?id=097
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="央卫测试1",江苏卫视
+http://ygbh.site/php/bfgd.php?id=085
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="央卫测试1",江西卫视
+http://ygbh.site/php/bfgd.php?id=098
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="央卫测试1",辽宁卫视
+http://ygbh.site/php/bfgd.php?id=058
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="央卫测试1",内蒙古卫视
+http://ygbh.site/php/bfgd.php?id=110
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="央卫测试1",宁夏卫视
+http://ygbh.site/php/bfgd.php?id=118
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="央卫测试1",农林卫视
+http://ygbh.site/php/bfgd.php?id=122
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="央卫测试1",青海卫视
+http://ygbh.site/php/bfgd.php?id=111
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="央卫测试1",山东教育卫视
+http://ygbh.site/php/bfgd.php?id=112
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="央卫测试1",山东卫视
+http://ygbh.site/php/bfgd.php?id=099
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="央卫测试1",山西卫视
+http://ygbh.site/php/bfgd.php?id=109
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="央卫测试1",陕西卫视
+http://ygbh.site/php/bfgd.php?id=512
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="央卫测试1",陕西卫视
+http://ygbh.site/php/bfgd.php?id=114
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="央卫测试1",深圳卫视
+http://ygbh.site/php/bfgd.php?id=100
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="央卫测试1",四川卫视
+http://ygbh.site/php/bfgd.php?id=103
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="央卫测试1",天津卫视
+http://ygbh.site/php/bfgd.php?id=084
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="央卫测试1",西藏卫视
+http://ygbh.site/php/bfgd.php?id=121
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="央卫测试1",新疆卫视
+http://ygbh.site/php/bfgd.php?id=150
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="央卫测试1",延边卫视
+http://ygbh.site/php/bfgd.php?id=117
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="央卫测试1",云南卫视
+http://ygbh.site/php/bfgd.php?id=482
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="央卫测试1",云南卫视
+http://ygbh.site/php/bfgd.php?id=115
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="央卫测试1",浙江卫视
+http://ygbh.site/php/bfgd.php?id=094
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="央卫测试1",安徽卫视
+http://ygbh.site/php/bfgd.php?id=096
+#EXTINF:-1 tvg-name="本溪综合" tvg-logo="https://live.fanmingming.com/tv/本溪综合.png" group-title="央卫测试1",本溪综合
+http://ygbh.site/php/bfgd.php?id=312
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="央卫测试1",财富天下
+http://ygbh.site/php/bfgd.php?id=231
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="央卫测试1",茶频道
+http://ygbh.site/php/bfgd.php?id=181
+#EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/朝阳新闻综合.png" group-title="央卫测试1",朝阳新闻综合
+http://ygbh.site/php/bfgd.php?id=282
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.com/tv/车迷频道.png" group-title="央卫测试1",车迷频道
+http://ygbh.site/php/bfgd.php?id=146
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="央卫测试1",重庆汽摩
+http://ygbh.site/php/bfgd.php?id=168
+#EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://live.fanmingming.com/tv/大连新闻综合.png" group-title="央卫测试1",大连新闻综合
+http://ygbh.site/php/bfgd.php?id=273
+#EXTINF:-1 tvg-name="丹东新闻综合" tvg-logo="https://live.fanmingming.com/tv/丹东新闻综合.png" group-title="央卫测试1",丹东新闻综合
+http://ygbh.site/php/bfgd.php?id=276
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央卫测试1",电视指南
+http://ygbh.site/php/bfgd.php?id=164
+#EXTINF:-1 tvg-name="电子体育" tvg-logo="https://live.fanmingming.com/tv/电子体育.png" group-title="央卫测试1",电子体育
+http://ygbh.site/php/bfgd.php?id=143
+#EXTINF:-1 tvg-name="儿童动漫" tvg-logo="https://live.fanmingming.com/tv/儿童动漫.png" group-title="央卫测试1",儿童动漫
+http://ygbh.site/php/bfgd.php?id=293
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央卫测试1",发现之旅
+http://ygbh.site/php/bfgd.php?id=151
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="央卫测试1",法治天地
+http://ygbh.site/php/bfgd.php?id=162
+#EXTINF:-1 tvg-name="抚顺综合" tvg-logo="https://live.fanmingming.com/tv/抚顺综合.png" group-title="央卫测试1",抚顺综合
+http://ygbh.site/php/bfgd.php?id=275
+#EXTINF:-1 tvg-name="阜新综合" tvg-logo="https://live.fanmingming.com/tv/阜新综合.png" group-title="央卫测试1",阜新综合
+http://ygbh.site/php/bfgd.php?id=279
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="央卫测试1",国学频道
+http://ygbh.site/php/bfgd.php?id=169
+#EXTINF:-1 tvg-name="葫芦岛新闻综合" tvg-logo="https://live.fanmingming.com/tv/葫芦岛新闻综合.png" group-title="央卫测试1",葫芦岛新闻综合
+http://ygbh.site/php/bfgd.php?id=284
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="央卫测试1",环球旅游
+http://ygbh.site/php/bfgd.php?id=147
+#EXTINF:-1 tvg-name="绘画" tvg-logo="https://live.fanmingming.com/tv/绘画.png" group-title="央卫测试1",绘画
+http://ygbh.site/php/bfgd.php?id=297
+#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://live.fanmingming.com/tv/纪录片.png" group-title="央卫测试1",纪录片
+http://ygbh.site/php/bfgd.php?id=295
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png" group-title="央卫测试1",家庭剧场
+http://ygbh.site/php/bfgd.php?id=290
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="央卫测试1",家庭理财
+http://ygbh.site/php/bfgd.php?id=139
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="央卫测试1",家庭影院
+http://ygbh.site/php/bfgd.php?id=289
+#EXTINF:-1 tvg-name="家政" tvg-logo="https://live.fanmingming.com/tv/家政.png" group-title="央卫测试1",家政
+http://ygbh.site/php/bfgd.php?id=167
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="央卫测试1",金鹰卡通
+http://ygbh.site/php/bfgd.php?id=105
+#EXTINF:-1 tvg-name="锦州新闻综合" tvg-logo="https://live.fanmingming.com/tv/锦州新闻综合.png" group-title="央卫测试1",锦州新闻综合
+http://ygbh.site/php/bfgd.php?id=277
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央卫测试1",老故事
+http://ygbh.site/php/bfgd.php?id=166
+#EXTINF:-1 tvg-name="连山区综合" tvg-logo="https://live.fanmingming.com/tv/连山区综合.png" group-title="央卫测试1",连山区综合
+http://ygbh.site/php/bfgd.php?id=491
+#EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央卫测试1",辽宁北方
+http://ygbh.site/php/bfgd.php?id=071
+#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.com/tv/辽宁都市.png" group-title="央卫测试1",辽宁都市
+http://ygbh.site/php/bfgd.php?id=610
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁公共.png" group-title="央卫测试1",辽宁公共
+http://ygbh.site/php/bfgd.php?id=077
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁公共.png" group-title="央卫测试1",辽宁公共
+http://ygbh.site/php/bfgd.php?id=481
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.com/tv/辽宁教育青少.png" group-title="央卫测试1",辽宁教育青少
+http://ygbh.site/php/bfgd.php?id=075
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="央卫测试1",辽宁经济
+http://ygbh.site/php/bfgd.php?id=480
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="央卫测试1",辽宁经济
+http://ygbh.site/php/bfgd.php?id=076
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://live.fanmingming.com/tv/辽宁生活.png" group-title="央卫测试1",辽宁生活
+http://ygbh.site/php/bfgd.php?id=073
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="央卫测试1",辽宁体育
+http://ygbh.site/php/bfgd.php?id=611
+#EXTINF:-1 tvg-name="辽宁新动漫" tvg-logo="https://live.fanmingming.com/tv/辽宁新动漫.png" group-title="央卫测试1",辽宁新动漫
+http://ygbh.site/php/bfgd.php?id=140
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央卫测试1",辽宁影视剧
+http://ygbh.site/php/bfgd.php?id=070
+#EXTINF:-1 tvg-name="辽阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽阳新闻综合.png" group-title="央卫测试1",辽阳新闻综合
+http://ygbh.site/php/bfgd.php?id=280
+#EXTINF:-1 tvg-name="龙港区综合" tvg-logo="https://live.fanmingming.com/tv/龙港区综合.png" group-title="央卫测试1",龙港区综合
+http://ygbh.site/php/bfgd.php?id=490
+#EXTINF:-1 tvg-name="盘锦新闻综合" tvg-logo="https://live.fanmingming.com/tv/盘锦新闻综合.png" group-title="央卫测试1",盘锦新闻综合
+http://ygbh.site/php/bfgd.php?id=283
+#EXTINF:-1 tvg-name="求索地理" tvg-logo="https://live.fanmingming.com/tv/求索地理.png" group-title="央卫测试1",求索地理
+http://ygbh.site/php/bfgd.php?id=286
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="央卫测试1",求索动物
+http://ygbh.site/php/bfgd.php?id=287
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="央卫测试1",求索生活
+http://ygbh.site/php/bfgd.php?id=288
+#EXTINF:-1 tvg-name="社区老年教育课堂" tvg-logo="https://live.fanmingming.com/tv/社区老年教育课堂.png" group-title="央卫测试1",社区老年教育课堂
+http://ygbh.site/php/bfgd.php?id=615
+#EXTINF:-1 tvg-name="摄影频道" tvg-logo="https://live.fanmingming.com/tv/摄影频道.png" group-title="央卫测试1",摄影频道
+http://ygbh.site/php/bfgd.php?id=222
+#EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合.png" group-title="央卫测试1",沈阳新闻综合
+http://ygbh.site/php/bfgd.php?id=059
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="央卫测试1",生态环境
+http://ygbh.site/php/bfgd.php?id=149
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央卫测试1",世界地理
+http://ygbh.site/php/bfgd.php?id=177
+#EXTINF:-1 tvg-name="收藏天下" tvg-logo="https://live.fanmingming.com/tv/收藏天下.png" group-title="央卫测试1",收藏天下
+http://ygbh.site/php/bfgd.php?id=155
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="央卫测试1",书画
+http://ygbh.site/php/bfgd.php?id=180
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="央卫测试1",天元围棋
+http://ygbh.site/php/bfgd.php?id=633
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="央卫测试1",天元围棋
+http://ygbh.site/php/bfgd.php?id=144
+#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://live.fanmingming.com/tv/铁岭新闻综合.png" group-title="央卫测试1",铁岭新闻综合
+http://ygbh.site/php/bfgd.php?id=281
+#EXTINF:-1 tvg-name="外国影院" tvg-logo="https://live.fanmingming.com/tv/外国影院.png" group-title="央卫测试1",外国影院
+http://ygbh.site/php/bfgd.php?id=291
+#EXTINF:-1 tvg-name="网络棋牌" tvg-logo="https://live.fanmingming.com/tv/网络棋牌.png" group-title="央卫测试1",网络棋牌
+http://ygbh.site/php/bfgd.php?id=141
+#EXTINF:-1 tvg-name="午夜影院" tvg-logo="https://live.fanmingming.com/tv/午夜影院.png" group-title="央卫测试1",午夜影院
+http://ygbh.site/php/bfgd.php?id=294
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="央卫测试1",先锋乒羽
+http://ygbh.site/php/bfgd.php?id=349
+#EXTINF:-1 tvg-name="营口新闻综合" tvg-logo="https://live.fanmingming.com/tv/营口新闻综合.png" group-title="央卫测试1",营口新闻综合
+http://ygbh.site/php/bfgd.php?id=278
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="央卫测试1",优优宝贝
+http://ygbh.site/php/bfgd.php?id=153
+#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://live.fanmingming.com/tv/游戏竞技.png" group-title="央卫测试1",游戏竞技
+http://ygbh.site/php/bfgd.php?id=296
+#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://live.fanmingming.com/tv/游戏竞技.png" group-title="央卫测试1",游戏竞技
+http://ygbh.site/php/bfgd.php?id=142
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央卫测试1",中国天气
+http://ygbh.site/php/bfgd.php?id=160
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="央卫测试1",中华特产
+http://ygbh.site/php/bfgd.php?id=158
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="央卫测试1",重温经典
+http://ygbh.site/php/bfgd.php?id=636
+#EXTINF:-1 tvg-name="综艺" tvg-logo="https://live.fanmingming.com/tv/综艺.png" group-title="央卫测试1",综艺
+http://ygbh.site/php/bfgd.php?id=292
+#EXTINF:-1 tvg-name="3D影院" tvg-logo="https://live.fanmingming.com/tv/3D影院.png" group-title="央卫测试1",3D影院
+http://ygbh.site/php/bfgd.php?id=298
+#EXTINF:-1 tvg-name="鞍山新闻综合" tvg-logo="https://live.fanmingming.com/tv/鞍山新闻综合.png" group-title="央卫测试1",鞍山新闻综合
+http://ygbh.site/php/bfgd.php?id=274
+#EXTINF:-1 tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="央卫测试1",百姓健康
+http://ygbh.site/php/bfgd.php?id=219
+#EXTINF:-1 tvg-name="北方导视" tvg-logo="https://live.fanmingming.com/tv/北方导视.png" group-title="央卫测试1",北方导视
+http://ygbh.site/php/bfgd.php?id=187
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="央卫测试1",北京纪实科教
+http://ygbh.site/php/bfgd.php?id=113
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="央卫测试1",北京卡酷少儿
+http://ygbh.site/php/bfgd.php?id=106
+
+
 
 
 
@@ -11789,6 +12072,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
