@@ -13,6 +13,373 @@ http://8.138.7.223/tv/cctv7.m3u8
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",可联系店主
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="放映厅播频道" tvg-logo="https://live.fanmingming.com/tv/放映厅播频道.png" group-title="国庆轮播",放映厅播频道
+http://cfss.cc/cdn/hy/11602077.m3u8
+#EXTINF:-1 tvg-name="刘德华播频道" tvg-logo="https://live.fanmingming.com/tv/刘德华播频道.png" group-title="国庆轮播",刘德华播频道
+http://cfss.cc/cdn/hy/11342424.m3u8
+#EXTINF:-1 tvg-name="许冠英播频道" tvg-logo="https://live.fanmingming.com/tv/许冠英播频道.png" group-title="国庆轮播",许冠英播频道
+http://cfss.cc/cdn/hy/11601972.m3u8
+#EXTINF:-1 tvg-name="李连杰播频道" tvg-logo="https://live.fanmingming.com/tv/李连杰播频道.png" group-title="国庆轮播",李连杰播频道
+http://cfss.cc/cdn/hy/11342390.m3u8
+#EXTINF:-1 tvg-name="甄子丹播频道" tvg-logo="https://live.fanmingming.com/tv/甄子丹播频道.png" group-title="国庆轮播",甄子丹播频道
+http://cfss.cc/cdn/hy/11352935.m3u8
+#EXTINF:-1 tvg-name="周润发播频道" tvg-logo="https://live.fanmingming.com/tv/周润发播频道.png" group-title="国庆轮播",周润发播频道
+http://cfss.cc/cdn/hy/11342387.m3u8
+#EXTINF:-1 tvg-name="周星星播频道" tvg-logo="https://live.fanmingming.com/tv/周星星播频道.png" group-title="国庆轮播",周星星播频道
+http://cfss.cc/cdn/hy/11336587.m3u8
+#EXTINF:-1 tvg-name="洪金宝播频道" tvg-logo="https://live.fanmingming.com/tv/洪金宝播频道.png" group-title="国庆轮播",洪金宝播频道
+http://cfss.cc/cdn/hy/11279251.m3u8
+#EXTINF:-1 tvg-name="梁家辉播频道" tvg-logo="https://live.fanmingming.com/tv/梁家辉播频道.png" group-title="国庆轮播",梁家辉播频道
+http://cfss.cc/cdn/hy/11342429.m3u8
+#EXTINF:-1 tvg-name="洪金宝播频道" tvg-logo="https://live.fanmingming.com/tv/洪金宝播频道.png" group-title="国庆轮播",洪金宝播频道
+http://cfss.cc/cdn/hy/11279251.m3u8
+#EXTINF:-1 tvg-name="五福星播频道" tvg-logo="https://live.fanmingming.com/tv/五福星播频道.png" group-title="国庆轮播",五福星播频道
+http://cfss.cc/cdn/hy/11282233.m3u8
+#EXTINF:-1 tvg-name="古天乐播频道" tvg-logo="https://live.fanmingming.com/tv/古天乐播频道.png" group-title="国庆轮播",古天乐播频道
+http://cfss.cc/cdn/hy/11602041.m3u8
+#EXTINF:-1 tvg-name="邱淑贞播频道" tvg-logo="https://live.fanmingming.com/tv/邱淑贞播频道.png" group-title="国庆轮播",邱淑贞播频道
+http://cfss.cc/cdn/hy/11352949.m3u8
+#EXTINF:-1 tvg-name="周海媚播频道" tvg-logo="https://live.fanmingming.com/tv/周海媚播频道.png" group-title="国庆轮播",周海媚播频道
+http://cfss.cc/cdn/hy/11279247.m3u8
+#EXTINF:-1 tvg-name="星爷虎牙频道" tvg-logo="https://live.fanmingming.com/tv/星爷虎牙频道.png" group-title="国庆轮播",星爷虎牙频道
+http://cfss.cc/cdn/hy/11342412.m3u8
+#EXTINF:-1 tvg-name="英叔虎牙频道" tvg-logo="https://live.fanmingming.com/tv/英叔虎牙频道.png" group-title="国庆轮播",英叔虎牙频道
+http://cfss.cc/cdn/hy/11342421.m3u8
+#EXTINF:-1 tvg-name="成龙虎牙频道" tvg-logo="https://live.fanmingming.com/tv/成龙虎牙频道.png" group-title="国庆轮播",成龙虎牙频道
+http://cfss.cc/cdn/hy/11342386.m3u8
+#EXTINF:-1 tvg-name="王晶虎牙频道" tvg-logo="https://live.fanmingming.com/tv/王晶虎牙频道.png" group-title="国庆轮播",王晶虎牙频道
+http://cfss.cc/cdn/hy/11602058.m3u8
+#EXTINF:-1 tvg-name="沈腾虎牙频道" tvg-logo="https://live.fanmingming.com/tv/沈腾虎牙频道.png" group-title="国庆轮播",沈腾虎牙频道
+http://cfss.cc/cdn/hy/11601968.m3u8
+#EXTINF:-1 tvg-name="黄渤虎牙频道" tvg-logo="https://live.fanmingming.com/tv/黄渤虎牙频道.png" group-title="国庆轮播",黄渤虎牙频道
+http://cfss.cc/cdn/hy/11352876.m3u8
+#EXTINF:-1 tvg-name="吴京虎牙频道" tvg-logo="https://live.fanmingming.com/tv/吴京虎牙频道.png" group-title="国庆轮播",吴京虎牙频道
+http://cfss.cc/cdn/hy/11602041.m3u8
+#EXTINF:-1 tvg-name="强森虎牙频道" tvg-logo="https://live.fanmingming.com/tv/强森虎牙频道.png" group-title="国庆轮播",强森虎牙频道
+http://cfss.cc/cdn/hy/21059581.m3u8
+#EXTINF:-1 tvg-name="玄幻虎牙频道" tvg-logo="https://live.fanmingming.com/tv/玄幻虎牙频道.png" group-title="国庆轮播",玄幻虎牙频道
+http://cfss.cc/cdn/hy/11342414.m3u8
+#EXTINF:-1 tvg-name="喜剧虎牙频道" tvg-logo="https://live.fanmingming.com/tv/喜剧虎牙频道.png" group-title="国庆轮播",喜剧虎牙频道
+http://cfss.cc/cdn/hy/11352877.m3u8
+#EXTINF:-1 tvg-name="港片虎牙频道" tvg-logo="https://live.fanmingming.com/tv/港片虎牙频道.png" group-title="国庆轮播",港片虎牙频道
+http://cfss.cc/cdn/hy/11602043.m3u8
+#EXTINF:-1 tvg-name="国产虎牙频道" tvg-logo="https://live.fanmingming.com/tv/国产虎牙频道.png" group-title="国庆轮播",国产虎牙频道
+http://cfss.cc/cdn/hy/11352973.m3u8
+#EXTINF:-1 tvg-name="漫威虎牙频道" tvg-logo="https://live.fanmingming.com/tv/漫威虎牙频道.png" group-title="国庆轮播",漫威虎牙频道
+http://cfss.cc/cdn/hy/11602034.m3u8
+#EXTINF:-1 tvg-name="宇宙虎牙频道" tvg-logo="https://live.fanmingming.com/tv/宇宙虎牙频道.png" group-title="国庆轮播",宇宙虎牙频道
+http://cfss.cc/cdn/hy/11342428.m3u8
+#EXTINF:-1 tvg-name="怪兽虎牙频道" tvg-logo="https://live.fanmingming.com/tv/怪兽虎牙频道.png" group-title="国庆轮播",怪兽虎牙频道
+http://cfss.cc/cdn/hy/21059577.m3u8
+#EXTINF:-1 tvg-name="武侠虎牙频道" tvg-logo="https://live.fanmingming.com/tv/武侠虎牙频道.png" group-title="国庆轮播",武侠虎牙频道
+http://cfss.cc/cdn/hy/11342427.m3u8
+#EXTINF:-1 tvg-name="警匪虎牙频道" tvg-logo="https://live.fanmingming.com/tv/警匪虎牙频道.png" group-title="国庆轮播",警匪虎牙频道
+http://cfss.cc/cdn/hy/11352886.m3u8
+#EXTINF:-1 tvg-name="罪犯虎牙频道" tvg-logo="https://live.fanmingming.com/tv/罪犯虎牙频道.png" group-title="国庆轮播",罪犯虎牙频道
+http://cfss.cc/cdn/hy/11352962.m3u8
+#EXTINF:-1 tvg-name="枪战虎牙频道" tvg-logo="https://live.fanmingming.com/tv/枪战虎牙频道.png" group-title="国庆轮播",枪战虎牙频道
+http://cfss.cc/cdn/hy/21059579.m3u8
+#EXTINF:-1 tvg-name="盗墓虎牙频道" tvg-logo="https://live.fanmingming.com/tv/盗墓虎牙频道.png" group-title="国庆轮播",盗墓虎牙频道
+http://cfss.cc/cdn/hy/21059552.m3u8
+#EXTINF:-1 tvg-name="海盗虎牙频道" tvg-logo="https://live.fanmingming.com/tv/海盗虎牙频道.png" group-title="国庆轮播",海盗虎牙频道
+http://cfss.cc/cdn/hy/21059595.m3u8
+#EXTINF:-1 tvg-name="推荐虎牙频道" tvg-logo="https://live.fanmingming.com/tv/推荐虎牙频道.png" group-title="国庆轮播",推荐虎牙频道
+http://cfss.cc/cdn/hy/11602041.m3u8
+#EXTINF:-1 tvg-name="救援虎牙频道" tvg-logo="https://live.fanmingming.com/tv/救援虎牙频道.png" group-title="国庆轮播",救援虎牙频道
+http://cfss.cc/cdn/hy/21059594.m3u8
+#EXTINF:-1 tvg-name="热血虎牙频道" tvg-logo="https://live.fanmingming.com/tv/热血虎牙频道.png" group-title="国庆轮播",热血虎牙频道
+http://cfss.cc/cdn/hy/11352934.m3u8
+#EXTINF:-1 tvg-name="谍战虎牙频道" tvg-logo="https://live.fanmingming.com/tv/谍战虎牙频道.png" group-title="国庆轮播",谍战虎牙频道
+http://cfss.cc/cdn/hy/21059585.m3u8
+#EXTINF:-1 tvg-name="战争虎牙频道" tvg-logo="https://live.fanmingming.com/tv/战争虎牙频道.png" group-title="国庆轮播",战争虎牙频道
+http://cfss.cc/cdn/hy/21059592.m3u8
+#EXTINF:-1 tvg-name="小鬼头播频道" tvg-logo="https://live.fanmingming.com/tv/小鬼头播频道.png" group-title="国庆轮播",小鬼头播频道
+http://cfss.cc/cdn/hy/11352963.m3u8
+#EXTINF:-1 tvg-name="陈翔六点频道" tvg-logo="https://live.fanmingming.com/tv/陈翔六点频道.png" group-title="国庆轮播",陈翔六点频道
+http://cfss.cc/cdn/hy/11274154.m3u8
+#EXTINF:-1 tvg-name="喜剧专场频道" tvg-logo="https://live.fanmingming.com/tv/喜剧专场频道.png" group-title="国庆轮播",喜剧专场频道
+http://cfss.cc/cdn/hy/11602044.m3u8
+#EXTINF:-1 tvg-name="高分动作频道" tvg-logo="https://live.fanmingming.com/tv/高分动作频道.png" group-title="国庆轮播",高分动作频道
+http://cfss.cc/cdn/hy/11352884.m3u8
+#EXTINF:-1 tvg-name="不挤影院频道" tvg-logo="https://live.fanmingming.com/tv/不挤影院频道.png" group-title="国庆轮播",不挤影院频道
+http://cfss.cc/cdn/hy/11352897.m3u8
+#EXTINF:-1 tvg-name="黑帮斗争频道" tvg-logo="https://live.fanmingming.com/tv/黑帮斗争频道.png" group-title="国庆轮播",黑帮斗争频道
+http://cfss.cc/cdn/hy/11342419.m3u8
+#EXTINF:-1 tvg-name="嫣然影厅频道" tvg-logo="https://live.fanmingming.com/tv/嫣然影厅频道.png" group-title="国庆轮播",嫣然影厅频道
+http://cfss.cc/cdn/hy/11601977.m3u8
+#EXTINF:-1 tvg-name="女神系列频道" tvg-logo="https://live.fanmingming.com/tv/女神系列频道.png" group-title="国庆轮播",女神系列频道
+http://cfss.cc/cdn/hy/11336571.m3u8
+#EXTINF:-1 tvg-name="经典女神频道" tvg-logo="https://live.fanmingming.com/tv/经典女神频道.png" group-title="国庆轮播",经典女神频道
+http://cfss.cc/cdn/hy/11352909.m3u8
+#EXTINF:-1 tvg-name="许氏三杰频道" tvg-logo="https://live.fanmingming.com/tv/许氏三杰频道.png" group-title="国庆轮播",许氏三杰频道
+http://cfss.cc/cdn/hy/11602033.m3u8
+#EXTINF:-1 tvg-name="经典港片频道" tvg-logo="https://live.fanmingming.com/tv/经典港片频道.png" group-title="国庆轮播",经典港片频道
+http://cfss.cc/cdn/hy/11352965.m3u8
+#EXTINF:-1 tvg-name="镖行天下频道" tvg-logo="https://live.fanmingming.com/tv/镖行天下频道.png" group-title="国庆轮播",镖行天下频道
+http://cfss.cc/cdn/hy/11352969.m3u8
+#EXTINF:-1 tvg-name="蘑菇影厅频道" tvg-logo="https://live.fanmingming.com/tv/蘑菇影厅频道.png" group-title="国庆轮播",蘑菇影厅频道
+http://cfss.cc/cdn/hy/11601981.m3u8
+#EXTINF:-1 tvg-name="搞笑恐怖频道" tvg-logo="https://live.fanmingming.com/tv/搞笑恐怖频道.png" group-title="国庆轮播",搞笑恐怖频道
+http://cfss.cc/cdn/hy/11601960.m3u8
+#EXTINF:-1 tvg-name="死神来了频道" tvg-logo="https://live.fanmingming.com/tv/死神来了频道.png" group-title="国庆轮播",死神来了频道
+http://cfss.cc/cdn/hy/11352903.m3u8
+#EXTINF:-1 tvg-name="超异能族频道" tvg-logo="https://live.fanmingming.com/tv/超异能族频道.png" group-title="国庆轮播",超异能族频道
+http://cfss.cc/cdn/hy/21059586.m3u8
+#EXTINF:-1 tvg-name="古墓系列频道" tvg-logo="https://live.fanmingming.com/tv/古墓系列频道.png" group-title="国庆轮播",古墓系列频道
+http://cfss.cc/cdn/hy/11352913.m3u8
+#EXTINF:-1 tvg-name="动作电影频道" tvg-logo="https://live.fanmingming.com/tv/动作电影频道.png" group-title="国庆轮播",动作电影频道
+http://cfss.cc/cdn/hy/11602077.m3u8
+#EXTINF:-1 tvg-name="搞笑喜剧频道" tvg-logo="https://live.fanmingming.com/tv/搞笑喜剧频道.png" group-title="国庆轮播",搞笑喜剧频道
+http://cfss.cc/cdn/hy/11342423.m3u8
+#EXTINF:-1 tvg-name="欢笑影院频道" tvg-logo="https://live.fanmingming.com/tv/欢笑影院频道.png" group-title="国庆轮播",欢笑影院频道
+http://cfss.cc/cdn/hy/11352894.m3u8
+#EXTINF:-1 tvg-name="国产悬疑频道" tvg-logo="https://live.fanmingming.com/tv/国产悬疑频道.png" group-title="国庆轮播",国产悬疑频道
+http://cfss.cc/cdn/hy/11342395.m3u8
+#EXTINF:-1 tvg-name="快意江湖频道" tvg-logo="https://live.fanmingming.com/tv/快意江湖频道.png" group-title="国庆轮播",快意江湖频道
+http://cfss.cc/cdn/hy/11342435.m3u8
+#EXTINF:-1 tvg-name="喜乐影院频道" tvg-logo="https://live.fanmingming.com/tv/喜乐影院频道.png" group-title="国庆轮播",喜乐影院频道
+http://cfss.cc/cdn/hy/21059580.m3u8
+#EXTINF:-1 tvg-name="怪兽系列频道" tvg-logo="https://live.fanmingming.com/tv/怪兽系列频道.png" group-title="国庆轮播",怪兽系列频道
+http://cfss.cc/cdn/hy/21059554.m3u8
+#EXTINF:-1 tvg-name="杰森斯坦频道" tvg-logo="https://live.fanmingming.com/tv/杰森斯坦频道.png" group-title="国庆轮播",杰森斯坦频道
+http://cfss.cc/cdn/hy/21059588.m3u8
+#EXTINF:-1 tvg-name="寻秦记播频道" tvg-logo="https://live.fanmingming.com/tv/寻秦记播频道.png" group-title="国庆轮播",寻秦记播频道
+http://cfss.cc/cdn/hy/29465848.m3u8
+#EXTINF:-1 tvg-name="寻秦记播频道" tvg-logo="https://live.fanmingming.com/tv/寻秦记播频道.png" group-title="国庆轮播",寻秦记播频道
+http://cfss.cc/cdn/hy/29633850.m3u8
+#EXTINF:-1 tvg-name="西游记播频道" tvg-logo="https://live.fanmingming.com/tv/西游记播频道.png" group-title="国庆轮播",西游记播频道
+http://cfss.cc/cdn/hy/29465859.m3u8
+#EXTINF:-1 tvg-name="扫黄先锋频道" tvg-logo="https://live.fanmingming.com/tv/扫黄先锋频道.png" group-title="国庆轮播",扫黄先锋频道
+http://cfss.cc/cdn/hy/29465855.m3u8
+#EXTINF:-1 tvg-name="楚汉骄雄频道" tvg-logo="https://live.fanmingming.com/tv/楚汉骄雄频道.png" group-title="国庆轮播",楚汉骄雄频道
+http://cfss.cc/cdn/hy/29465854.m3u8
+#EXTINF:-1 tvg-name="陀枪师姐频道" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐频道.png" group-title="国庆轮播",陀枪师姐频道
+http://cfss.cc/cdn/hy/29465857.m3u8
+#EXTINF:-1 tvg-name="法证先锋频道" tvg-logo="https://live.fanmingming.com/tv/法证先锋频道.png" group-title="国庆轮播",法证先锋频道
+http://cfss.cc/cdn/hy/29465861.m3u8
+#EXTINF:-1 tvg-name="刑事侦缉频道" tvg-logo="https://live.fanmingming.com/tv/刑事侦缉频道.png" group-title="国庆轮播",刑事侦缉频道
+http://cfss.cc/cdn/hy/29465856.m3u8
+#EXTINF:-1 tvg-name="笑看风云频道" tvg-logo="https://live.fanmingming.com/tv/笑看风云频道.png" group-title="国庆轮播",笑看风云频道
+http://cfss.cc/cdn/hy/29465858.m3u8
+#EXTINF:-1 tvg-name="大唐双龙频道" tvg-logo="https://live.fanmingming.com/tv/大唐双龙频道.png" group-title="国庆轮播",大唐双龙频道
+http://cfss.cc/cdn/hy/29465850.m3u8
+#EXTINF:-1 tvg-name="洗冤录播频道" tvg-logo="https://live.fanmingming.com/tv/洗冤录播频道.png" group-title="国庆轮播",洗冤录播频道
+http://cfss.cc/cdn/hy/29465851.m3u8
+#EXTINF:-1 tvg-name="金枝欲孽频道" tvg-logo="https://live.fanmingming.com/tv/金枝欲孽频道.png" group-title="国庆轮播",金枝欲孽频道
+http://cfss.cc/cdn/hy/29465847.m3u8
+#EXTINF:-1 tvg-name="野蛮奶奶频道" tvg-logo="https://live.fanmingming.com/tv/野蛮奶奶频道.png" group-title="国庆轮播",野蛮奶奶频道
+http://cfss.cc/cdn/hy/23863796.m3u8
+#EXTINF:-1 tvg-name="创世纪播频道" tvg-logo="https://live.fanmingming.com/tv/创世纪播频道.png" group-title="国庆轮播",创世纪播频道
+http://cfss.cc/cdn/hy/29465852.m3u8
+#EXTINF:-1 tvg-name="封神榜播频道" tvg-logo="https://live.fanmingming.com/tv/封神榜播频道.png" group-title="国庆轮播",封神榜播频道
+http://cfss.cc/cdn/hy/29465849.m3u8
+#EXTINF:-1 tvg-name="神雕侠侣频道" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣频道.png" group-title="国庆轮播",神雕侠侣频道
+http://cfss.cc/cdn/hy/30454429.m3u8
+#EXTINF:-1 tvg-name="妙手仁心频道" tvg-logo="https://live.fanmingming.com/tv/妙手仁心频道.png" group-title="国庆轮播",妙手仁心频道
+http://cfss.cc/cdn/hy/29465853.m3u8
+#EXTINF:-1 tvg-name="活佛济公频道" tvg-logo="https://live.fanmingming.com/tv/活佛济公频道.png" group-title="国庆轮播",活佛济公频道
+http://cfss.cc/cdn/hy/23903123.m3u8
+#EXTINF:-1 tvg-name="倚天屠龙频道" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙频道.png" group-title="国庆轮播",倚天屠龙频道
+http://cfss.cc/cdn/hy/27834853.m3u8
+#EXTINF:-1 tvg-name="鹿鼎记98频道" tvg-logo="https://live.fanmingming.com/tv/鹿鼎记98频道.png" group-title="国庆轮播",鹿鼎记98频道
+http://cfss.cc/cdn/hy/26355806.m3u8
+#EXTINF:-1 tvg-name="小李飞刀频道" tvg-logo="https://live.fanmingming.com/tv/小李飞刀频道.png" group-title="国庆轮播",小李飞刀频道
+http://cfss.cc/cdn/hy/11342417.m3u8
+#EXTINF:-1 tvg-name="水月洞天频道" tvg-logo="https://live.fanmingming.com/tv/水月洞天频道.png" group-title="国庆轮播",水月洞天频道
+http://cfss.cc/cdn/hy/21059567.m3u8
+#EXTINF:-1 tvg-name="绝代双娇频道" tvg-logo="https://live.fanmingming.com/tv/绝代双娇频道.png" group-title="国庆轮播",绝代双娇频道
+http://cfss.cc/cdn/hy/29465867.m3u8
+#EXTINF:-1 tvg-name="风云雄霸频道" tvg-logo="https://live.fanmingming.com/tv/风云雄霸频道.png" group-title="国庆轮播",风云雄霸频道
+http://cfss.cc/cdn/hy/21059612.m3u8
+#EXTINF:-1 tvg-name="如懿传播频道" tvg-logo="https://live.fanmingming.com/tv/如懿传播频道.png" group-title="国庆轮播",如懿传播频道
+http://cfss.cc/cdn/hy/29465868.m3u8
+#EXTINF:-1 tvg-name="芈月传播频道" tvg-logo="https://live.fanmingming.com/tv/芈月传播频道.png" group-title="国庆轮播",芈月传播频道
+http://cfss.cc/cdn/hy/11352975.m3u8
+#EXTINF:-1 tvg-name="延禧攻略频道" tvg-logo="https://live.fanmingming.com/tv/延禧攻略频道.png" group-title="国庆轮播",延禧攻略频道
+http://cfss.cc/cdn/hy/26355864.m3u8
+#EXTINF:-1 tvg-name="王子青蛙频道" tvg-logo="https://live.fanmingming.com/tv/王子青蛙频道.png" group-title="国庆轮播",王子青蛙频道
+http://cfss.cc/cdn/hy/11601964.m3u8
+#EXTINF:-1 tvg-name="永夜星河频道" tvg-logo="https://live.fanmingming.com/tv/永夜星河频道.png" group-title="国庆轮播",永夜星河频道
+http://cfss.cc/cdn/hy/23734169.m3u8
+#EXTINF:-1 tvg-name="玫瑰故事频道" tvg-logo="https://live.fanmingming.com/tv/玫瑰故事频道.png" group-title="国庆轮播",玫瑰故事频道
+http://cfss.cc/cdn/hy/23865142.m3u8
+#EXTINF:-1 tvg-name="漫长季节频道" tvg-logo="https://live.fanmingming.com/tv/漫长季节频道.png" group-title="国庆轮播",漫长季节频道
+http://cfss.cc/cdn/hy/11342393.m3u8
+#EXTINF:-1 tvg-name="梦华录播频道" tvg-logo="https://live.fanmingming.com/tv/梦华录播频道.png" group-title="国庆轮播",梦华录播频道
+http://cfss.cc/cdn/hy/11336590.m3u8
+#EXTINF:-1 tvg-name="乌龙院闯频道" tvg-logo="https://live.fanmingming.com/tv/乌龙院闯频道.png" group-title="国庆轮播",乌龙院闯频道
+http://cfss.cc/cdn/hy/26355767.m3u8
+#EXTINF:-1 tvg-name="新楚留香频道" tvg-logo="https://live.fanmingming.com/tv/新楚留香频道.png" group-title="国庆轮播",新楚留香频道
+http://cfss.cc/cdn/hy/26355848.m3u8
+#EXTINF:-1 tvg-name="新楚留香频道" tvg-logo="https://live.fanmingming.com/tv/新楚留香频道.png" group-title="国庆轮播",新楚留香频道
+http://cfss.cc/cdn/hy/23863804.m3u8
+#EXTINF:-1 tvg-name="无心法师频道" tvg-logo="https://live.fanmingming.com/tv/无心法师频道.png" group-title="国庆轮播",无心法师频道
+http://cfss.cc/cdn/hy/30080233.m3u8
+#EXTINF:-1 tvg-name="征服虎牙频道" tvg-logo="https://live.fanmingming.com/tv/征服虎牙频道.png" group-title="国庆轮播",征服虎牙频道
+http://cfss.cc/cdn/hy/30311494.m3u8
+#EXTINF:-1 tvg-name="蜡笔小新频道" tvg-logo="https://live.fanmingming.com/tv/蜡笔小新频道.png" group-title="国庆轮播",蜡笔小新频道
+http://cfss.cc/cdn/hy/30299353.m3u8
+#EXTINF:-1 tvg-name="海绵宝宝频道" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝频道.png" group-title="国庆轮播",海绵宝宝频道
+http://cfss.cc/cdn/hy/11352919.m3u8
+#EXTINF:-1 tvg-name="龙珠虎牙频道" tvg-logo="https://live.fanmingming.com/tv/龙珠虎牙频道.png" group-title="国庆轮播",龙珠虎牙频道
+http://cfss.cc/cdn/hy/10279885.m3u8
+#EXTINF:-1 tvg-name="叮当全集频道" tvg-logo="https://live.fanmingming.com/tv/叮当全集频道.png" group-title="国庆轮播",叮当全集频道
+http://cfss.cc/cdn/hy/11601963.m3u8
+#EXTINF:-1 tvg-name="樱桃小丸频道" tvg-logo="https://live.fanmingming.com/tv/樱桃小丸频道.png" group-title="国庆轮播",樱桃小丸频道
+http://cfss.cc/cdn/hy/11342394.m3u8
+#EXTINF:-1 tvg-name="猫和老鼠频道" tvg-logo="https://live.fanmingming.com/tv/猫和老鼠频道.png" group-title="国庆轮播",猫和老鼠频道
+http://cfss.cc/cdn/hy/11352879.m3u8
+#EXTINF:-1 tvg-name="精绝古城频道" tvg-logo="https://live.fanmingming.com/tv/精绝古城频道.png" group-title="国庆轮播",精绝古城频道
+http://cfss.cc/cdn/hy/11352871.m3u8
+#EXTINF:-1 tvg-name="怒晴湘西频道" tvg-logo="https://live.fanmingming.com/tv/怒晴湘西频道.png" group-title="国庆轮播",怒晴湘西频道
+http://cfss.cc/cdn/hy/11602075.m3u8
+#EXTINF:-1 tvg-name="龙岭迷窟频道" tvg-logo="https://live.fanmingming.com/tv/龙岭迷窟频道.png" group-title="国庆轮播",龙岭迷窟频道
+http://cfss.cc/cdn/hy/29465863.m3u8
+#EXTINF:-1 tvg-name="云南虫谷频道" tvg-logo="https://live.fanmingming.com/tv/云南虫谷频道.png" group-title="国庆轮播",云南虫谷频道
+http://cfss.cc/cdn/hy/11352898.m3u8
+#EXTINF:-1 tvg-name="JJ斗地主频道" tvg-logo="https://live.fanmingming.com/tv/JJ斗地主频道.png" group-title="国庆轮播",JJ斗地主频道
+http://cfss.cc/cdn/hy/14079954.m3u8
+#EXTINF:-1 tvg-name="亮剑虎牙频道" tvg-logo="https://live.fanmingming.com/tv/亮剑虎牙频道.png" group-title="国庆轮播",亮剑虎牙频道
+http://cfss.cc/cdn/hy/30080238.m3u8
+#EXTINF:-1 tvg-name="民兵葛二频道" tvg-logo="https://live.fanmingming.com/tv/民兵葛二频道.png" group-title="国庆轮播",民兵葛二频道
+http://cfss.cc/cdn/hy/11602072.m3u8
+#EXTINF:-1 tvg-name="我的团长频道" tvg-logo="https://live.fanmingming.com/tv/我的团长频道.png" group-title="国庆轮播",我的团长频道
+http://cfss.cc/cdn/hy/11352910.m3u8
+#EXTINF:-1 tvg-name="铁道游击频道" tvg-logo="https://live.fanmingming.com/tv/铁道游击频道.png" group-title="国庆轮播",铁道游击频道
+http://cfss.cc/cdn/hy/11352936.m3u8
+#EXTINF:-1 tvg-name="铁梨花播频道" tvg-logo="https://live.fanmingming.com/tv/铁梨花播频道.png" group-title="国庆轮播",铁梨花播频道
+http://cfss.cc/cdn/hy/11352912.m3u8
+#EXTINF:-1 tvg-name="康熙微服频道" tvg-logo="https://live.fanmingming.com/tv/康熙微服频道.png" group-title="国庆轮播",康熙微服频道
+http://cfss.cc/cdn/hy/11342418.m3u8
+#EXTINF:-1 tvg-name="御赐仵作频道" tvg-logo="https://live.fanmingming.com/tv/御赐仵作频道.png" group-title="国庆轮播",御赐仵作频道
+http://cfss.cc/cdn/hy/11352948.m3u8
+#EXTINF:-1 tvg-name="新水浒传频道" tvg-logo="https://live.fanmingming.com/tv/新水浒传频道.png" group-title="国庆轮播",新水浒传频道
+http://cfss.cc/cdn/hy/11342384.m3u8
+#EXTINF:-1 tvg-name="开端虎牙频道" tvg-logo="https://live.fanmingming.com/tv/开端虎牙频道.png" group-title="国庆轮播",开端虎牙频道
+http://cfss.cc/cdn/hy/11342397.m3u8
+#EXTINF:-1 tvg-name="神探狄仁频道" tvg-logo="https://live.fanmingming.com/tv/神探狄仁频道.png" group-title="国庆轮播",神探狄仁频道
+http://cfss.cc/cdn/hy/11352958.m3u8
+#EXTINF:-1 tvg-name="三国演义频道" tvg-logo="https://live.fanmingming.com/tv/三国演义频道.png" group-title="国庆轮播",三国演义频道
+http://cfss.cc/cdn/hy/11602081.m3u8
+#EXTINF:-1 tvg-name="新三国演频道" tvg-logo="https://live.fanmingming.com/tv/新三国演频道.png" group-title="国庆轮播",新三国演频道
+http://cfss.cc/cdn/hy/11352944.m3u8
+#EXTINF:-1 tvg-name="问心虎牙频道" tvg-logo="https://live.fanmingming.com/tv/问心虎牙频道.png" group-title="国庆轮播",问心虎牙频道
+http://cfss.cc/cdn/hy/11352890.m3u8
+#EXTINF:-1 tvg-name="家有儿女频道" tvg-logo="https://live.fanmingming.com/tv/家有儿女频道.png" group-title="国庆轮播",家有儿女频道
+http://cfss.cc/cdn/hy/29774370.m3u8
+#EXTINF:-1 tvg-name="全职高手频道" tvg-logo="https://live.fanmingming.com/tv/全职高手频道.png" group-title="国庆轮播",全职高手频道
+http://cfss.cc/cdn/hy/11352901.m3u8
+#EXTINF:-1 tvg-name="炊事班的频道" tvg-logo="https://live.fanmingming.com/tv/炊事班的频道.png" group-title="国庆轮播",炊事班的频道
+http://cfss.cc/cdn/hy/19524135.m3u8
+#EXTINF:-1 tvg-name="医馆笑传频道" tvg-logo="https://live.fanmingming.com/tv/医馆笑传频道.png" group-title="国庆轮播",医馆笑传频道
+http://cfss.cc/cdn/hy/11352891.m3u8
+#EXTINF:-1 tvg-name="杨光生活频道" tvg-logo="https://live.fanmingming.com/tv/杨光生活频道.png" group-title="国庆轮播",杨光生活频道
+http://cfss.cc/cdn/hy/11602085.m3u8
+#EXTINF:-1 tvg-name="陈情令播频道" tvg-logo="https://live.fanmingming.com/tv/陈情令播频道.png" group-title="国庆轮播",陈情令播频道
+http://cfss.cc/cdn/hy/29465862.m3u8
+#EXTINF:-1 tvg-name="神医喜来频道" tvg-logo="https://live.fanmingming.com/tv/神医喜来频道.png" group-title="国庆轮播",神医喜来频道
+http://cfss.cc/cdn/hy/11601978.m3u8
+#EXTINF:-1 tvg-name="大宋提刑频道" tvg-logo="https://live.fanmingming.com/tv/大宋提刑频道.png" group-title="国庆轮播",大宋提刑频道
+http://cfss.cc/cdn/hy/26355856.m3u8
+#EXTINF:-1 tvg-name="鹊刀门传频道" tvg-logo="https://live.fanmingming.com/tv/鹊刀门传频道.png" group-title="国庆轮播",鹊刀门传频道
+http://cfss.cc/cdn/hy/29805872.m3u8
+#EXTINF:-1 tvg-name="白鹿原播频道" tvg-logo="https://live.fanmingming.com/tv/白鹿原播频道.png" group-title="国庆轮播",白鹿原播频道
+http://cfss.cc/cdn/hy/11342416.m3u8
+#EXTINF:-1 tvg-name="长相思播频道" tvg-logo="https://live.fanmingming.com/tv/长相思播频道.png" group-title="国庆轮播",长相思播频道
+http://cfss.cc/cdn/hy/11336593.m3u8
+#EXTINF:-1 tvg-name="你是我的频道" tvg-logo="https://live.fanmingming.com/tv/你是我的频道.png" group-title="国庆轮播",你是我的频道
+http://cfss.cc/cdn/hy/11352920.m3u8
+#EXTINF:-1 tvg-name="一代枭雄频道" tvg-logo="https://live.fanmingming.com/tv/一代枭雄频道.png" group-title="国庆轮播",一代枭雄频道
+http://cfss.cc/cdn/hy/11342398.m3u8
+#EXTINF:-1 tvg-name="庆余年播频道" tvg-logo="https://live.fanmingming.com/tv/庆余年播频道.png" group-title="国庆轮播",庆余年播频道
+http://cfss.cc/cdn/hy/11352960.m3u8
+#EXTINF:-1 tvg-name="铁齿铜牙频道" tvg-logo="https://live.fanmingming.com/tv/铁齿铜牙频道.png" group-title="国庆轮播",铁齿铜牙频道
+http://cfss.cc/cdn/hy/11342396.m3u8
+#EXTINF:-1 tvg-name="镖行天下频道" tvg-logo="https://live.fanmingming.com/tv/镖行天下频道.png" group-title="国庆轮播",镖行天下频道
+http://cfss.cc/cdn/hy/11352969.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀频道" tvg-logo="https://live.fanmingming.com/tv/雪中悍刀频道.png" group-title="国庆轮播",雪中悍刀频道
+http://cfss.cc/cdn/hy/11336592.m3u8
+#EXTINF:-1 tvg-name="星汉灿烂频道" tvg-logo="https://live.fanmingming.com/tv/星汉灿烂频道.png" group-title="国庆轮播",星汉灿烂频道
+http://cfss.cc/cdn/hy/11336591.m3u8
+#EXTINF:-1 tvg-name="将夜虎牙频道" tvg-logo="https://live.fanmingming.com/tv/将夜虎牙频道.png" group-title="国庆轮播",将夜虎牙频道
+http://cfss.cc/cdn/hy/11352885.m3u8
+#EXTINF:-1 tvg-name="父母爱情频道" tvg-logo="https://live.fanmingming.com/tv/父母爱情频道.png" group-title="国庆轮播",父母爱情频道
+http://cfss.cc/cdn/hy/11602071.m3u8
+#EXTINF:-1 tvg-name="大染坊播频道" tvg-logo="https://live.fanmingming.com/tv/大染坊播频道.png" group-title="国庆轮播",大染坊播频道
+http://cfss.cc/cdn/hy/11602086.m3u8
+#EXTINF:-1 tvg-name="地下交通频道" tvg-logo="https://live.fanmingming.com/tv/地下交通频道.png" group-title="国庆轮播",地下交通频道
+http://cfss.cc/cdn/hy/11342433.m3u8
+#EXTINF:-1 tvg-name="邻里一家频道" tvg-logo="https://live.fanmingming.com/tv/邻里一家频道.png" group-title="国庆轮播",邻里一家频道
+http://cfss.cc/cdn/hy/11342426.m3u8
+#EXTINF:-1 tvg-name="雍正王朝频道" tvg-logo="https://live.fanmingming.com/tv/雍正王朝频道.png" group-title="国庆轮播",雍正王朝频道
+http://cfss.cc/cdn/hy/11342439.m3u8
+#EXTINF:-1 tvg-name="士兵突击频道" tvg-logo="https://live.fanmingming.com/tv/士兵突击频道.png" group-title="国庆轮播",士兵突击频道
+http://cfss.cc/cdn/hy/11342430.m3u8
+#EXTINF:-1 tvg-name="爱情公寓频道" tvg-logo="https://live.fanmingming.com/tv/爱情公寓频道.png" group-title="国庆轮播",爱情公寓频道
+http://cfss.cc/cdn/hy/11336726.m3u8
+#EXTINF:-1 tvg-name="电视剧一频道" tvg-logo="https://live.fanmingming.com/tv/电视剧一频道.png" group-title="国庆轮播",电视剧一频道
+http://cfss.cc/cdn/hy/29465862.m3u8
+#EXTINF:-1 tvg-name="电视剧二频道" tvg-logo="https://live.fanmingming.com/tv/电视剧二频道.png" group-title="国庆轮播",电视剧二频道
+http://cfss.cc/cdn/hy/11336591.m3u8
+#EXTINF:-1 tvg-name="电视剧三频道" tvg-logo="https://live.fanmingming.com/tv/电视剧三频道.png" group-title="国庆轮播",电视剧三频道
+http://cfss.cc/cdn/hy/21059563.m3u8
+#EXTINF:-1 tvg-name="电视剧四频道" tvg-logo="https://live.fanmingming.com/tv/电视剧四频道.png" group-title="国庆轮播",电视剧四频道
+http://cfss.cc/cdn/hy/26355783.m3u8
+#EXTINF:-1 tvg-name="电视剧五频道" tvg-logo="https://live.fanmingming.com/tv/电视剧五频道.png" group-title="国庆轮播",电视剧五频道
+http://cfss.cc/cdn/hy/11352912.m3u8
+#EXTINF:-1 tvg-name="电视剧六频道" tvg-logo="https://live.fanmingming.com/tv/电视剧六频道.png" group-title="国庆轮播",电视剧六频道
+http://cfss.cc/cdn/hy/11352936.m3u8
+#EXTINF:-1 tvg-name="电视剧七频道" tvg-logo="https://live.fanmingming.com/tv/电视剧七频道.png" group-title="国庆轮播",电视剧七频道
+http://cfss.cc/cdn/hy/21059630.m3u8
+#EXTINF:-1 tvg-name="电视剧八频道" tvg-logo="https://live.fanmingming.com/tv/电视剧八频道.png" group-title="国庆轮播",电视剧八频道
+http://cfss.cc/cdn/hy/26355775.m3u8
+#EXTINF:-1 tvg-name="电视剧九频道" tvg-logo="https://live.fanmingming.com/tv/电视剧九频道.png" group-title="国庆轮播",电视剧九频道
+http://cfss.cc/cdn/hy/21059594.m3u8
+#EXTINF:-1 tvg-name="电视剧十频道" tvg-logo="https://live.fanmingming.com/tv/电视剧十频道.png" group-title="国庆轮播",电视剧十频道
+http://cfss.cc/cdn/hy/11336592.m3u8
+#EXTINF:-1 tvg-name="电视剧十一道" tvg-logo="https://live.fanmingming.com/tv/电视剧十一道.png" group-title="国庆轮播",电视剧十一道
+http://cfss.cc/cdn/hy/11602088.m3u8
+#EXTINF:-1 tvg-name="好片速递频道" tvg-logo="https://live.fanmingming.com/tv/好片速递频道.png" group-title="国庆轮播",好片速递频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="电影大片频道" tvg-logo="https://live.fanmingming.com/tv/电影大片频道.png" group-title="国庆轮播",电影大片频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="古装妖魔频道" tvg-logo="https://live.fanmingming.com/tv/古装妖魔频道.png" group-title="国庆轮播",古装妖魔频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="军旅剧场频道" tvg-logo="https://live.fanmingming.com/tv/军旅剧场频道.png" group-title="国庆轮播",军旅剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="抗战剧场频道" tvg-logo="https://live.fanmingming.com/tv/抗战剧场频道.png" group-title="国庆轮播",抗战剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_884_1080P_t10/c54_fast_884_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="谍战剧场频道" tvg-logo="https://live.fanmingming.com/tv/谍战剧场频道.png" group-title="国庆轮播",谍战剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_882_1080P_t10/c57_fast_882_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="红色剧场频道" tvg-logo="https://live.fanmingming.com/tv/红色剧场频道.png" group-title="国庆轮播",红色剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="家庭剧场频道" tvg-logo="https://live.fanmingming.com/tv/家庭剧场频道.png" group-title="国庆轮播",家庭剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="泰语剧场频道" tvg-logo="https://live.fanmingming.com/tv/泰语剧场频道.png" group-title="国庆轮播",泰语剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="搞笑剧场频道" tvg-logo="https://live.fanmingming.com/tv/搞笑剧场频道.png" group-title="国庆轮播",搞笑剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="传奇剧场频道" tvg-logo="https://live.fanmingming.com/tv/传奇剧场频道.png" group-title="国庆轮播",传奇剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="青春剧场频道" tvg-logo="https://live.fanmingming.com/tv/青春剧场频道.png" group-title="国庆轮播",青春剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="欢乐剧场频道" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场频道.png" group-title="国庆轮播",欢乐剧场频道
+http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="青春剧场频道" tvg-logo="https://live.fanmingming.com/tv/青春剧场频道.png" group-title="国庆轮播",青春剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="甜宠剧场频道" tvg-logo="https://live.fanmingming.com/tv/甜宠剧场频道.png" group-title="国庆轮播",甜宠剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="大家剧场频道" tvg-logo="https://live.fanmingming.com/tv/大家剧场频道.png" group-title="国庆轮播",大家剧场频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="警匪悬疑频道" tvg-logo="https://live.fanmingming.com/tv/警匪悬疑频道.png" group-title="国庆轮播",警匪悬疑频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="古装大剧频道" tvg-logo="https://live.fanmingming.com/tv/古装大剧频道.png" group-title="国庆轮播",古装大剧频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="爱情生活频道" tvg-logo="https://live.fanmingming.com/tv/爱情生活频道.png" group-title="国庆轮播",爱情生活频道
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
+
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫专享",CCTV1
@@ -11422,6 +11789,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
