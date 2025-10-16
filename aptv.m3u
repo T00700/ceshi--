@@ -14,25 +14,7 @@ http://8.138.7.223/tv/cctv7.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="上海卫视4K" tvg-logo="https://live.fanmingming.com/tv/上海卫视4K.png" group-title="卫视超高清",上海卫视4K
-https://itv.809899.xyz/4k.php?id=sh4k
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="卫视超高清",江苏卫视4K
-https://itv.809899.xyz/4k.php?id=js4k
-#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K.png" group-title="卫视超高清",浙江卫视4K
-https://itv.809899.xyz/4k.php?id=zj4k
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K.png" group-title="卫视超高清",山东卫视4K
-https://itv.809899.xyz/4k.php?id=sd4k
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png" group-title="卫视超高清",湖南卫视4K
-https://itv.809899.xyz/4k.php?id=hn4k
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="卫视超高清",广东卫视4K
-https://itv.809899.xyz/4k.php?id=gd4k
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视4K.png" group-title="卫视超高清",四川卫视4K
-https://itv.809899.xyz/4k.php?id=sc4k
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png" group-title="卫视超高清",深圳卫视4K
-https://itv.809899.xyz/4k.php?id=sz4k
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="卫视超高清",北京卫视4K
-https://itv.809899.xyz/4k.php?id=btv4k
+
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
@@ -2900,6 +2882,26 @@ http://121.29.141.59:4022/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K欣赏",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="上海卫视4K" tvg-logo="https://live.fanmingming.com/tv/上海卫视4K.png" group-title="卫视超高清",上海卫视4K
+https://itv.809899.xyz/4k.php?id=sh4k
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="卫视超高清",江苏卫视4K
+https://itv.809899.xyz/4k.php?id=js4k
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K.png" group-title="卫视超高清",浙江卫视4K
+https://itv.809899.xyz/4k.php?id=zj4k
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K.png" group-title="卫视超高清",山东卫视4K
+https://itv.809899.xyz/4k.php?id=sd4k
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png" group-title="卫视超高清",湖南卫视4K
+https://itv.809899.xyz/4k.php?id=hn4k
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="卫视超高清",广东卫视4K
+https://itv.809899.xyz/4k.php?id=gd4k
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视4K.png" group-title="卫视超高清",四川卫视4K
+https://itv.809899.xyz/4k.php?id=sc4k
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png" group-title="卫视超高清",深圳卫视4K
+https://itv.809899.xyz/4k.php?id=sz4k
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="卫视超高清",北京卫视4K
+https://itv.809899.xyz/4k.php?id=btv4k
 
 
 #EXTM3U
@@ -12067,6 +12069,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
