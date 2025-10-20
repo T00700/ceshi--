@@ -18,6 +18,28 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 group-title="日常轮播" tvg-name="怀旧年代" tvg-logo="https://livecdn.zbds.org/logo/怀旧年代.png" epg-url="http://epg.51zmt.top:8000/e.xml",怀旧年代
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="传奇剧场" tvg-logo="https://livecdn.zbds.org/logo/传奇剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",传奇剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="警匪悬疑" tvg-logo="https://livecdn.zbds.org/logo/警匪悬疑.png" epg-url="http://epg.51zmt.top:8000/e.xml",警匪悬疑
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="古装剧场" tvg-logo="https://livecdn.zbds.org/logo/古装剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",古装剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="抗战剧场" tvg-logo="https://livecdn.zbds.org/logo/抗战剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",抗战剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="谍战剧场" tvg-logo="https://livecdn.zbds.org/logo/谍战剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",谍战剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="欢乐剧场" tvg-logo="https://livecdn.zbds.org/logo/欢乐剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",欢乐剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="经典老剧" tvg-logo="https://livecdn.zbds.org/logo/经典老剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",经典老剧
+http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="乡村剧场" tvg-logo="https://livecdn.zbds.org/logo/乡村剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",乡村剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="电影大片" tvg-logo="https://livecdn.zbds.org/logo/电影大片.png" epg-url="http://epg.51zmt.top:8000/e.xml",电影大片
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+#EXTINF:-1 group-title="日常轮播" tvg-name="相声小品" tvg-logo="https://livecdn.zbds.org/logo/相声小品.png" epg-url="http://epg.51zmt.top:8000/e.xml",相声小品
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
 #EXTINF:-1 tvg-name="放映厅播频道" tvg-logo="https://live.fanmingming.com/tv/放映厅播频道.png" group-title="日常轮播",放映厅播频道
 http://cfss.cc/cdn/hy/11602077.m3u8
 #EXTINF:-1 tvg-name="刘德华播频道" tvg-logo="https://live.fanmingming.com/tv/刘德华播频道.png" group-title="日常轮播",刘德华播频道
@@ -11884,6 +11906,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
