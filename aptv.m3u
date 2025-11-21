@@ -5,9 +5,9 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",请勿相信任何广告
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",请勿相信任何二维码
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",请勿相信任何二维码
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",频道出现异常
 http://8.138.7.223/tv/cctv7.m3u8
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",可联系店主
@@ -12799,6 +12799,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
