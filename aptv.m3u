@@ -5400,8 +5400,13 @@ https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://live.fanmingming.com/tv/翡翠剧集台.png" group-title="广东频道",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="广东频道",TVB1
-https://6.cdn.loc.cc/163189.php?id=tvb1
-
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="广东频道",翡翠台1
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="广东频道",翡翠台2
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="广东频道",翡翠台3
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://logo.diyp.site:49377/logo.php?广州综合" group-title="广东频道",广州综合
 #EXTVLCOPT:http-user-agent=DIYP
@@ -12806,6 +12811,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
