@@ -444,65 +444,482 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_87
 #EXTINF:-1 tvg-name="爱情生活频道" tvg-logo="https://live.fanmingming.com/tv/爱情生活频道.png" group-title="日常轮播",爱情生活频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="最新咪咕",CCTV1
-http://keke.kandiantv.cn/migu720p.php?id=608807420
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="最新咪咕",CCTV2
-http://keke.kandiantv.cn/migu720p.php?id=631780532
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="最新咪咕",CCTV3
-http://keke.kandiantv.cn/migu720p.php?id=624878271
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="最新咪咕",CCTV4
-http://keke.kandiantv.cn/migu720p.php?id=631780421
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="最新咪咕",CCTV5
-http://keke.kandiantv.cn/migu720p.php?id=641886683
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="最新咪咕",CCTV5+
-http://keke.kandiantv.cn/migu720p.php?id=641886773
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="最新咪咕",CCTV6
-http://keke.kandiantv.cn/migu720p.php?id=624878396
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="最新咪咕",CCTV7
-http://keke.kandiantv.cn/migu720p.php?id=673168121
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="最新咪咕",CCTV8
-http://keke.kandiantv.cn/migu720p.php?id=624878356
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="最新咪咕",CCTV9
-http://keke.kandiantv.cn/migu720p.php?id=673168140
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="最新咪咕",CCTV10
-http://keke.kandiantv.cn/migu720p.php?id=624878405
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="最新咪咕",CCTV11
-http://keke.kandiantv.cn/migu720p.php?id=667987558
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="最新咪咕",CCTV12
-http://keke.kandiantv.cn/migu720p.php?id=673168185
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="最新咪咕",CCTV13
-http://keke.kandiantv.cn/migu720p.php?id=608807423
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="最新咪咕",CCTV14
-http://keke.kandiantv.cn/migu720p.php?id=624878440
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="最新咪咕",CCTV15
-http://keke.kandiantv.cn/migu720p.php?id=673168223
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="最新咪咕",CCTV17
-http://keke.kandiantv.cn/migu720p.php?id=673168256
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="最新咪咕",北京卫视
-http://keke.kandiantv.cn/migu720p.php?id=630287636
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="最新咪咕",东方卫视
-http://keke.kandiantv.cn/migu720p.php?id=651632648
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="最新咪咕",江苏卫视
-http://keke.kandiantv.cn/migu720p.php?id=623899368
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="最新咪咕",江西卫视
-http://keke.kandiantv.cn/migu720p.php?id=783847495
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="最新咪咕",河南卫视
-http://keke.kandiantv.cn/migu720p.php?id=790187291
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="最新咪咕",陕西卫视
-http://keke.kandiantv.cn/migu720p.php?id=738910838
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="最新咪咕",湖北卫视
-http://keke.kandiantv.cn/migu720p.php?id=947472496
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="最新咪咕",吉林卫视
-http://keke.kandiantv.cn/migu720p.php?id=947472500
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="最新咪咕",青海卫视
-http://keke.kandiantv.cn/migu720p.php?id=947472506
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="最新咪咕",东南卫视
-http://keke.kandiantv.cn/migu720p.php?id=849116810
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="最新咪咕",海南卫视
-http://keke.kandiantv.cn/migu720p.php?id=947472502
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="最新咪咕",辽宁卫视
-http://keke.kandiantv.cn/migu720p.php?id=630291707
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="最新央卫",CCTV1
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="最新央卫",CCTV2
+http://23.237.228.134/live5/CCTV2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="最新央卫",CCTV3
+http://23.237.228.134/live5/CCTV3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="最新央卫",CCTV4
+http://23.237.228.134/live5/CCTV4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="最新央卫",CCTV5
+http://23.237.228.134/live5/CCTV5.m3u8
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="最新央卫",CCTV5+
+http://23.237.228.134/live5/CCTV5p.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="最新央卫",CCTV6
+http://23.237.228.133/live/CCTV6_MG.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="最新央卫",CCTV7
+http://23.237.228.134/live5/CCTV7.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="最新央卫",CCTV8
+http://23.237.228.134/live5/CCTV8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="最新央卫",CCTV9
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="最新央卫",CCTV10
+http://23.237.228.134/live3/CCTV10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="最新央卫",CCTV11
+http://23.237.228.134/live3/CCTV11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="最新央卫",CCTV12
+http://23.237.228.134/live3/CCTV12.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="最新央卫",CCTV13
+http://23.237.228.134/live3/CCTV13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="最新央卫",CCTV14
+http://23.237.228.134/live3/CCTV14.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="最新央卫",CCTV15
+http://23.237.228.134/live3/CCTV15.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="最新央卫",CCTV17
+http://23.237.228.134/live3/CCTV17.m3u8
+#EXTINF:-1 tvg-name="Dongfang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="最新央卫",东方卫视
+http://23.237.228.134/live3/dongfang.m3u8
+#EXTINF:-1 tvg-name="Beijing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="最新央卫",北京卫视
+http://23.237.228.134/live3/beijing.m3u8
+#EXTINF:-1 tvg-name="Jiangsu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="最新央卫",江苏卫视
+http://23.237.228.134/live3/jiangsu.m3u8
+#EXTINF:-1 tvg-name="Hunan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="最新央卫",湖南卫视
+http://23.237.228.134/live6/hunan.m3u8
+#EXTINF:-1 tvg-name="Zhejiang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="最新央卫",浙江卫视
+http://23.237.228.134/live6/zhejiang.m3u8
+#EXTINF:-1 tvg-name="Hubei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="最新央卫",湖北卫视
+http://23.237.228.134/live6/hubei.m3u8
+#EXTINF:-1 tvg-name="Guangdong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="最新央卫",广东卫视
+http://23.237.228.134/live6/guangdong.m3u8
+#EXTINF:-1 tvg-name="Guangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="最新央卫",广西卫视
+http://23.237.228.134/live6/guangxi.m3u8
+#EXTINF:-1 tvg-name="Heilongjiang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="最新央卫",黑龙江卫视
+http://23.237.228.134/live6/heilongjiang.m3u8
+#EXTINF:-1 tvg-name="Hainan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="最新央卫",海南卫视
+http://23.237.228.134/live6/hainan.m3u8
+#EXTINF:-1 tvg-name="Chongqing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="最新央卫",重庆卫视
+http://23.237.228.134/live6/chongqing.m3u8
+#EXTINF:-1 tvg-name="Shenzhen" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="最新央卫",深圳卫视
+http://23.237.228.134/live6/shenzhen.m3u8
+#EXTINF:-1 tvg-name="Sichuan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="最新央卫",四川卫视
+http://23.237.228.134/live6/sichuan.m3u8
+#EXTINF:-1 tvg-name="Henan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="最新央卫",河南卫视
+http://23.237.228.134/live6/henan.m3u8
+#EXTINF:-1 tvg-name="Dongnan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="最新央卫",东南卫视
+http://23.237.228.134/live6/dongnan.m3u8
+#EXTINF:-1 tvg-name="Guizhou" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="最新央卫",贵州卫视
+http://23.237.228.134/live6/guizhou.m3u8
+#EXTINF:-1 tvg-name="Shandong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="最新央卫",山东卫视
+http://23.237.228.134/live8/shandong.m3u8
+#EXTINF:-1 tvg-name="Anhui" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="最新央卫",安徽卫视
+http://23.237.228.134/live8/anhui.m3u8
+#EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="最新央卫",辽宁卫视
+http://23.237.228.134/live8/liaoning.m3u8
+#EXTINF:-1 tvg-name="Tianjin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="最新央卫",天津卫视
+http://23.237.228.134/live8/tianjing.m3u8
+#EXTINF:-1 tvg-name="Jiangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="最新央卫",江西卫视
+http://23.237.228.134/live8/jiangxi.m3u8
+#EXTINF:-1 tvg-name="Hebei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="最新央卫",河北卫视
+http://23.237.228.134/live8/hebei.m3u8
+#EXTINF:-1 tvg-name="Shanxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="最新央卫",陕西卫视
+http://23.237.228.134/live8/shanxiws.m3u8
+#EXTINF:-1 tvg-name="Neimeng" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="最新央卫",内蒙古卫视
+http://23.237.228.134/live8/neimenggu.m3u8
+#EXTINF:-1 tvg-name="Yunnan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" group-title="最新央卫",云南卫视
+http://23.237.228.134/live8/yunnan.m3u8
+#EXTINF:-1 tvg-name="Gansu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="最新央卫",甘肃卫视
+http://23.237.228.134/live8/gansu.m3u8
+#EXTINF:-1 tvg-name="Jilin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="最新央卫",吉林卫视
+http://23.237.228.134/live8/jilin.m3u8
+#EXTINF:-1 tvg-name="Qinghai" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="最新央卫",青海卫视
+http://23.237.228.134/live8/qinghai.m3u8
+#EXTINF:-1 tvg-name="Shanxi_" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" group-title="最新央卫",山西卫视
+http://23.237.228.134/live8/shanxi.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="极速咪咕",CCTV1
+http://113.224.119.217:1234/608807420
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="极速咪咕",CCTV2
+http://113.224.119.217:1234/631780532
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="极速咪咕",CCTV3
+http://113.224.119.217:1234/624878271
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="极速咪咕",CCTV4
+http://113.224.119.217:1234/631780421
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="极速咪咕",CCTV5
+http://113.224.119.217:1234/641886683
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="极速咪咕",CCTV5+
+http://113.224.119.217:1234/641886773
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="极速咪咕",CCTV6
+http://113.224.119.217:1234/624878396
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="极速咪咕",CCTV7
+http://113.224.119.217:1234/673168121
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="极速咪咕",CCTV8
+http://113.224.119.217:1234/624878356
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="极速咪咕",CCTV9
+http://113.224.119.217:1234/673168140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="极速咪咕",CCTV10
+http://113.224.119.217:1234/624878405
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="极速咪咕",CCTV11
+http://113.224.119.217:1234/667987558
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="极速咪咕",CCTV12
+http://113.224.119.217:1234/673168185
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="极速咪咕",CCTV13
+http://113.224.119.217:1234/608807423
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="极速咪咕",CCTV14
+http://113.224.119.217:1234/624878440
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="极速咪咕",CCTV15
+http://113.224.119.217:1234/673168223
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="极速咪咕",CCTV17
+http://113.224.119.217:1234/673168256
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="极速咪咕",CCTV4欧洲
+http://113.224.119.217:1234/608807419
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="极速咪咕",CCTV4美洲
+http://113.224.119.217:1234/608807416
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN纪录
+http://113.224.119.217:1234/609006487
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN阿拉伯语
+http://113.224.119.217:1234/609154345
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN西班牙语
+http://113.224.119.217:1234/609006450
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN法语
+http://113.224.119.217:1234/609006476
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN俄语
+http://113.224.119.217:1234/609006446
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN
+http://113.224.119.217:1234/609017205
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",赛事最经典
+http://113.224.119.217:1234/646596895
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",体坛名栏汇
+http://113.224.119.217:1234/629943305
+#EXTINF:-1 tvg-name="shdy" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shdy.png" group-title="极速咪咕",四海钓鱼
+http://113.224.119.217:1234/637444975
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西体育休闲频道
+http://113.224.119.217:1234/956909356
+#EXTINF:-1 tvg-name="wssj" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="极速咪咕",武术世界
+http://113.224.119.217:1234/958475359
+#EXTINF:-1 tvg-name="Hunan11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan11.png" group-title="极速咪咕",快乐垂钓
+http://113.224.119.217:1234/961930263
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台体育休闲频道
+http://113.224.119.217:1234/962067526
+#EXTINF:-1 tvg-name="Dongfang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="极速咪咕",东方卫视
+http://113.224.119.217:1234/651632648
+#EXTINF:-1 tvg-name="Jiangsu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="极速咪咕",江苏卫视
+http://113.224.119.217:1234/623899368
+#EXTINF:-1 tvg-name="Guangdong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="极速咪咕",广东卫视
+http://113.224.119.217:1234/608831231
+#EXTINF:-1 tvg-name="Beijing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="极速咪咕",北京卫视
+http://113.224.119.217:1234/630287636
+#EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="极速咪咕",辽宁卫视
+http://113.224.119.217:1234/630291707
+#EXTINF:-1 tvg-name="Hebei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="极速咪咕",河北卫视
+http://113.224.119.217:1234/962042070
+#EXTINF:-1 tvg-name="Jiangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="极速咪咕",江西卫视
+http://113.224.119.217:1234/783847495
+#EXTINF:-1 tvg-name="Henan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="极速咪咕",河南卫视
+http://113.224.119.217:1234/790187291
+#EXTINF:-1 tvg-name="Shanxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="极速咪咕",陕西卫视
+http://113.224.119.217:1234/738910838
+#EXTINF:-1 tvg-name="Guangdong10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="极速咪咕",大湾区卫视
+http://113.224.119.217:1234/608917627
+#EXTINF:-1 tvg-name="Hubei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="极速咪咕",湖北卫视
+http://113.224.119.217:1234/947472496
+#EXTINF:-1 tvg-name="Jilin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="极速咪咕",吉林卫视
+http://113.224.119.217:1234/947472500
+#EXTINF:-1 tvg-name="Qinghai" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="极速咪咕",青海卫视
+http://113.224.119.217:1234/947472506
+#EXTINF:-1 tvg-name="Dongnan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="极速咪咕",东南卫视
+http://113.224.119.217:1234/849116810
+#EXTINF:-1 tvg-name="Hainan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="极速咪咕",海南卫视
+http://113.224.119.217:1234/947472502
+#EXTINF:-1 tvg-name="Haixia" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="极速咪咕",海峡卫视
+http://113.224.119.217:1234/849119120
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",中国农林卫视
+http://113.224.119.217:1234/956904896
+#EXTINF:-1 tvg-name="Bingtuan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="极速咪咕",兵团卫视
+http://113.224.119.217:1234/956923145
+#EXTINF:-1 tvg-name="Ningxia" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="极速咪咕",宁夏卫视
+http://113.224.119.217:1234/738910535
+#EXTINF:-1 tvg-name="Chongqing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="极速咪咕",重庆卫视
+http://113.224.119.217:1234/738910914
+#EXTINF:-1 tvg-name="Sansha" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="极速咪咕",三沙卫视
+http://113.224.119.217:1234/961023778
+#EXTINF:-1 tvg-name="Shanghai1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai1.png" group-title="极速咪咕",上海新闻综合
+http://113.224.119.217:1234/651632657
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",上视东方影视
+http://113.224.119.217:1234/617290047
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",上海第一财经
+http://113.224.119.217:1234/608780988
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南京新闻综合频道
+http://113.224.119.217:1234/838109047
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南京教科频道
+http://113.224.119.217:1234/838153729
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南京十八频道
+http://113.224.119.217:1234/838151753
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",体育休闲频道
+http://113.224.119.217:1234/626064707
+#EXTINF:-1 tvg-name="Jiangsu2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu2.png" group-title="极速咪咕",江苏城市频道
+http://113.224.119.217:1234/626064714
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",江苏国际
+http://113.224.119.217:1234/626064674
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",江苏教育
+http://113.224.119.217:1234/628008321
+#EXTINF:-1 tvg-name="Jiangsu4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu4.png" group-title="极速咪咕",江苏影视频道
+http://113.224.119.217:1234/626064697
+#EXTINF:-1 tvg-name="Jiangsu3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu3.png" group-title="极速咪咕",江苏综艺频道
+http://113.224.119.217:1234/626065193
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",公共新闻频道
+http://113.224.119.217:1234/626064693
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",盐城新闻综合
+http://113.224.119.217:1234/639731825
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",淮安新闻综合
+http://113.224.119.217:1234/639731826
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",泰州新闻综合
+http://113.224.119.217:1234/639731818
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",连云港新闻综合
+http://113.224.119.217:1234/639731715
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宿迁新闻综合
+http://113.224.119.217:1234/639731832
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",徐州新闻综合
+http://113.224.119.217:1234/639731747
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",优漫卡通频道
+http://113.224.119.217:1234/626064703
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",江阴新闻综合
+http://113.224.119.217:1234/955227979
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南通新闻综合
+http://113.224.119.217:1234/955227985
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宜兴新闻综合
+http://113.224.119.217:1234/955227996
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",溧水新闻综合
+http://113.224.119.217:1234/639737327
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西银龄频道
+http://113.224.119.217:1234/956909362
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西都市青春频道
+http://113.224.119.217:1234/956909358
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西秦腔频道
+http://113.224.119.217:1234/956909303
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西新闻资讯频道
+http://113.224.119.217:1234/956909289
+#EXTINF:-1 tvg-name="cftx" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="极速咪咕",财富天下
+http://113.224.119.217:1234/956923159
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",镇江新闻综合
+http://113.224.119.217:1234/639731783
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台公共频道
+http://113.224.119.217:1234/962045223
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台生活频道
+http://113.224.119.217:1234/962045226
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台影视剧频道
+http://113.224.119.217:1234/962067517
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宁夏广播电视台文旅频道
+http://113.224.119.217:1234/962067523
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宁夏广播电视台经济频道
+http://113.224.119.217:1234/962067520
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",经典香港电影
+http://113.224.119.217:1234/625703337
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",抗战经典影片
+http://113.224.119.217:1234/617432318
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",新片放映厅
+http://113.224.119.217:1234/619495952
+#EXTINF:-1 tvg-name="CHC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC.png" group-title="极速咪咕",CHC影迷电影
+http://113.224.119.217:1234/952383261
+#EXTINF:-1 tvg-name="CHC3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="极速咪咕",CHC动作电影
+http://113.224.119.217:1234/644368714
+#EXTINF:-1 tvg-name="CHC2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="极速咪咕",CHC家庭影院
+http://113.224.119.217:1234/644368373
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",和美乡途轮播台
+http://113.224.119.217:1234/713591450
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南方影视
+http://113.224.119.217:1234/614961829
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="极速咪咕",CCTV1
+http://110.40.182.72:5003/608807420
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="极速咪咕",CCTV2
+http://110.40.182.72:5003/631780532
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="极速咪咕",CCTV3
+http://110.40.182.72:5003/624878271
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="极速咪咕",CCTV4
+http://110.40.182.72:5003/631780421
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="极速咪咕",CCTV5
+http://110.40.182.72:5003/641886683
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="极速咪咕",CCTV5+
+http://110.40.182.72:5003/641886773
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="极速咪咕",CCTV6
+http://110.40.182.72:5003/624878396
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="极速咪咕",CCTV7
+http://110.40.182.72:5003/673168121
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="极速咪咕",CCTV8
+http://110.40.182.72:5003/624878356
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="极速咪咕",CCTV9
+http://110.40.182.72:5003/673168140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="极速咪咕",CCTV10
+http://110.40.182.72:5003/624878405
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="极速咪咕",CCTV11
+http://110.40.182.72:5003/667987558
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="极速咪咕",CCTV12
+http://110.40.182.72:5003/673168185
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="极速咪咕",CCTV13
+http://110.40.182.72:5003/608807423
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="极速咪咕",CCTV14
+http://110.40.182.72:5003/624878440
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="极速咪咕",CCTV15
+http://110.40.182.72:5003/673168223
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="极速咪咕",CCTV17
+http://110.40.182.72:5003/673168256
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="极速咪咕",CCTV4欧洲
+http://110.40.182.72:5003/608807419
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="极速咪咕",CCTV4美洲
+http://110.40.182.72:5003/608807416
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN纪录
+http://110.40.182.72:5003/609006487
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN阿拉伯语
+http://110.40.182.72:5003/609154345
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN西班牙语
+http://110.40.182.72:5003/609006450
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN法语
+http://110.40.182.72:5003/609006476
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN俄语
+http://110.40.182.72:5003/609006446
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="极速咪咕",CGTN
+http://110.40.182.72:5003/609017205
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",赛事最经典
+http://110.40.182.72:5003/646596895
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",体坛名栏汇
+http://110.40.182.72:5003/629943305
+#EXTINF:-1 tvg-name="shdy" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shdy.png" group-title="极速咪咕",四海钓鱼
+http://110.40.182.72:5003/637444975
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西体育休闲频道
+http://110.40.182.72:5003/956909356
+#EXTINF:-1 tvg-name="wssj" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="极速咪咕",武术世界
+http://110.40.182.72:5003/958475359
+#EXTINF:-1 tvg-name="Hunan11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan11.png" group-title="极速咪咕",快乐垂钓
+http://110.40.182.72:5003/961930263
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台体育休闲频道
+http://110.40.182.72:5003/962067526
+#EXTINF:-1 tvg-name="Dongfang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="极速咪咕",东方卫视
+http://110.40.182.72:5003/651632648
+#EXTINF:-1 tvg-name="Jiangsu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="极速咪咕",江苏卫视
+http://110.40.182.72:5003/623899368
+#EXTINF:-1 tvg-name="Guangdong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="极速咪咕",广东卫视
+http://110.40.182.72:5003/608831231
+#EXTINF:-1 tvg-name="Beijing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="极速咪咕",北京卫视
+http://110.40.182.72:5003/630287636
+#EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="极速咪咕",辽宁卫视
+http://110.40.182.72:5003/630291707
+#EXTINF:-1 tvg-name="Hebei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="极速咪咕",河北卫视
+http://110.40.182.72:5003/962042070
+#EXTINF:-1 tvg-name="Jiangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="极速咪咕",江西卫视
+http://110.40.182.72:5003/783847495
+#EXTINF:-1 tvg-name="Henan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="极速咪咕",河南卫视
+http://110.40.182.72:5003/790187291
+#EXTINF:-1 tvg-name="Shanxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="极速咪咕",陕西卫视
+http://110.40.182.72:5003/738910838
+#EXTINF:-1 tvg-name="Guangdong10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="极速咪咕",大湾区卫视
+http://110.40.182.72:5003/608917627
+#EXTINF:-1 tvg-name="Hubei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="极速咪咕",湖北卫视
+http://110.40.182.72:5003/947472496
+#EXTINF:-1 tvg-name="Jilin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="极速咪咕",吉林卫视
+http://110.40.182.72:5003/947472500
+#EXTINF:-1 tvg-name="Qinghai" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="极速咪咕",青海卫视
+http://110.40.182.72:5003/947472506
+#EXTINF:-1 tvg-name="Dongnan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="极速咪咕",东南卫视
+http://110.40.182.72:5003/849116810
+#EXTINF:-1 tvg-name="Hainan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="极速咪咕",海南卫视
+http://110.40.182.72:5003/947472502
+#EXTINF:-1 tvg-name="Haixia" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="极速咪咕",海峡卫视
+http://110.40.182.72:5003/849119120
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",中国农林卫视
+http://110.40.182.72:5003/956904896
+#EXTINF:-1 tvg-name="Bingtuan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="极速咪咕",兵团卫视
+http://110.40.182.72:5003/956923145
+#EXTINF:-1 tvg-name="Ningxia" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="极速咪咕",宁夏卫视
+http://110.40.182.72:5003/738910535
+#EXTINF:-1 tvg-name="Chongqing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="极速咪咕",重庆卫视
+http://110.40.182.72:5003/738910914
+#EXTINF:-1 tvg-name="Sansha" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="极速咪咕",三沙卫视
+http://110.40.182.72:5003/961023778
+#EXTINF:-1 tvg-name="Shanghai1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai1.png" group-title="极速咪咕",上海新闻综合
+http://110.40.182.72:5003/651632657
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",上视东方影视
+http://110.40.182.72:5003/617290047
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",上海第一财经
+http://110.40.182.72:5003/608780988
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南京新闻综合频道
+http://110.40.182.72:5003/838109047
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南京教科频道
+http://110.40.182.72:5003/838153729
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南京十八频道
+http://110.40.182.72:5003/838151753
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",体育休闲频道
+http://110.40.182.72:5003/626064707
+#EXTINF:-1 tvg-name="Jiangsu2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu2.png" group-title="极速咪咕",江苏城市频道
+http://110.40.182.72:5003/626064714
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",江苏国际
+http://110.40.182.72:5003/626064674
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",江苏教育
+http://110.40.182.72:5003/628008321
+#EXTINF:-1 tvg-name="Jiangsu4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu4.png" group-title="极速咪咕",江苏影视频道
+http://110.40.182.72:5003/626064697
+#EXTINF:-1 tvg-name="Jiangsu3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu3.png" group-title="极速咪咕",江苏综艺频道
+http://110.40.182.72:5003/626065193
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",公共新闻频道
+http://110.40.182.72:5003/626064693
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",盐城新闻综合
+http://110.40.182.72:5003/639731825
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",淮安新闻综合
+http://110.40.182.72:5003/639731826
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",泰州新闻综合
+http://110.40.182.72:5003/639731818
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",连云港新闻综合
+http://110.40.182.72:5003/639731715
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宿迁新闻综合
+http://110.40.182.72:5003/639731832
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",徐州新闻综合
+http://110.40.182.72:5003/639731747
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",优漫卡通频道
+http://110.40.182.72:5003/626064703
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",江阴新闻综合
+http://110.40.182.72:5003/955227979
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南通新闻综合
+http://110.40.182.72:5003/955227985
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宜兴新闻综合
+http://110.40.182.72:5003/955227996
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",溧水新闻综合
+http://110.40.182.72:5003/639737327
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西银龄频道
+http://110.40.182.72:5003/956909362
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西都市青春频道
+http://110.40.182.72:5003/956909358
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西秦腔频道
+http://110.40.182.72:5003/956909303
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",陕西新闻资讯频道
+http://110.40.182.72:5003/956909289
+#EXTINF:-1 tvg-name="cftx" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="极速咪咕",财富天下
+http://110.40.182.72:5003/956923159
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",镇江新闻综合
+http://110.40.182.72:5003/639731783
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台公共频道
+http://110.40.182.72:5003/962045223
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台生活频道
+http://110.40.182.72:5003/962045226
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",辽宁广播电视台影视剧频道
+http://110.40.182.72:5003/962067517
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宁夏广播电视台文旅频道
+http://110.40.182.72:5003/962067523
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",宁夏广播电视台经济频道
+http://110.40.182.72:5003/962067520
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",经典香港电影
+http://110.40.182.72:5003/625703337
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",抗战经典影片
+http://110.40.182.72:5003/617432318
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",新片放映厅
+http://110.40.182.72:5003/619495952
+#EXTINF:-1 tvg-name="CHC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC.png" group-title="极速咪咕",CHC影迷电影
+http://110.40.182.72:5003/952383261
+#EXTINF:-1 tvg-name="CHC3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="极速咪咕",CHC动作电影
+http://110.40.182.72:5003/644368714
+#EXTINF:-1 tvg-name="CHC2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="极速咪咕",CHC家庭影院
+http://110.40.182.72:5003/644368373
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",和美乡途轮播台
+http://110.40.182.72:5003/713591450
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="极速咪咕",南方影视
+http://110.40.182.72:5003/614961829
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="咪咕频道",CCTV1
@@ -11715,6 +12132,7 @@ http://ls.qingting.fm/live/4969.m3u8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ls.qingting.fm/live/4969.m3u8
+
 
 
 
